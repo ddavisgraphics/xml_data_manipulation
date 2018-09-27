@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">518676</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Gorgoroth</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>69dma99sb5</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Dryn</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>k3gmqp4q7y</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>7b6l8pf8cc</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>audio/mp4</mime-type>
+    <directory-path>path/to/est.jpeg</directory-path>
+    <file-id type="integer">180765</file-id>
+    <storage-id type="integer">87087</storage-id>
+    <external-type type="integer">472358</external-type>
+    <file-size-bytes>2608</file-size-bytes>
+  </stream_ref>
+</doc>

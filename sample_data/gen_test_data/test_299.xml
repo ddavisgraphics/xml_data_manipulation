@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">671162</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Rath Dínen</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>g10fae6pj4</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Colemon</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>f1qzm9p6qb</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>r2htf0re3f</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>video/x-matroska</mime-type>
+    <directory-path>path/to/reiciendis.js</directory-path>
+    <file-id type="integer">277945</file-id>
+    <storage-id type="integer">750818</storage-id>
+    <external-type type="integer">381335</external-type>
+    <file-size-bytes>2688</file-size-bytes>
+  </stream_ref>
+</doc>

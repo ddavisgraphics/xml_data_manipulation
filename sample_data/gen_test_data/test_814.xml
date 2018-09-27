@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">661563</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Hobbit-hole</spatial>
+    <agent>Falconholt Technical College</agent>
+    <subject>a1t99c2afl</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Kella</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ny1rihebih</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>m8dg0jg0dm</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>model/mesh</mime-type>
+    <directory-path>path/to/quae.ppt</directory-path>
+    <file-id type="integer">303698</file-id>
+    <storage-id type="integer">289316</storage-id>
+    <external-type type="integer">487689</external-type>
+    <file-size-bytes>400</file-size-bytes>
+  </stream_ref>
+</doc>

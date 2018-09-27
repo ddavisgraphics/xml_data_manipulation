@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">877444</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>East Beleriand</spatial>
+    <agent>Mallowtown TAFE</agent>
+    <subject>t9yuae2kau</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Jayne Bracken</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>jdvmsrybx9</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>36e6t888tr</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>text/css</mime-type>
+    <directory-path>path/to/repellendus.key</directory-path>
+    <file-id type="integer">12873</file-id>
+    <storage-id type="integer">195687</storage-id>
+    <external-type type="integer">431139</external-type>
+    <file-size-bytes>1536</file-size-bytes>
+  </stream_ref>
+</doc>

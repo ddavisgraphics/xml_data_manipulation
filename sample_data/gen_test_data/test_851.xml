@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">925763</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Sarn Ford</spatial>
+    <agent>Mallowpond Technical College</agent>
+    <subject>bq5ieyoeff</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Hake</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>cqiynmle6x</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4kp4tjestu</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>audio/vnd.wave</mime-type>
+    <directory-path>path/to/odit.png</directory-path>
+    <file-id type="integer">716729</file-id>
+    <storage-id type="integer">979227</storage-id>
+    <external-type type="integer">584627</external-type>
+    <file-size-bytes>48</file-size-bytes>
+  </stream_ref>
+</doc>

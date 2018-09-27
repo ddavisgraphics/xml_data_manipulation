@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">657211</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Fords of Isen</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>exn6rjjfi8</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Eddara Tallhart</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6p70m29yxv</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ugeyvtgz5y</file-name>
+    <file-extension>key</file-extension>
+    <mime-type>application/EDIFACT</mime-type>
+    <directory-path>path/to/voluptatem.ods</directory-path>
+    <file-id type="integer">588740</file-id>
+    <storage-id type="integer">779622</storage-id>
+    <external-type type="integer">931225</external-type>
+    <file-size-bytes>1376</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">365506</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Utumno</spatial>
+    <agent>Icelyn College</agent>
+    <subject>y533j131gh</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Meliana</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hij0ubglwh</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>xp8iy96pq4</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>application/json</mime-type>
+    <directory-path>path/to/qui.ods</directory-path>
+    <file-id type="integer">584259</file-id>
+    <storage-id type="integer">377490</storage-id>
+    <external-type type="integer">611938</external-type>
+    <file-size-bytes>416</file-size-bytes>
+  </stream_ref>
+</doc>

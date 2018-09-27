@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">768621</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Black Gate</spatial>
+    <agent>Brookville TAFE</agent>
+    <subject>zrc1k1745w</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Beth Cassel</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>rfenypq79c</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>wbqe2dphr1</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>audio/mpeg</mime-type>
+    <directory-path>path/to/nisi.doc</directory-path>
+    <file-id type="integer">913353</file-id>
+    <storage-id type="integer">809758</storage-id>
+    <external-type type="integer">471299</external-type>
+    <file-size-bytes>464</file-size-bytes>
+  </stream_ref>
+</doc>

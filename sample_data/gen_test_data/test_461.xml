@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">706627</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>Gorgoroth</spatial>
+    <agent>Mallowtown College</agent>
+    <subject>n2nj66vw85</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Lenwood Tawney</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>opg4v6947p</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>cxp5kal7i2</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>multipart/related</mime-type>
+    <directory-path>path/to/eaque.html</directory-path>
+    <file-id type="integer">67354</file-id>
+    <storage-id type="integer">181202</storage-id>
+    <external-type type="integer">427546</external-type>
+    <file-size-bytes>1440</file-size-bytes>
+  </stream_ref>
+</doc>

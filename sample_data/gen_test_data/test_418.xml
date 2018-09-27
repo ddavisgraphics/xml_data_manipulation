@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">731579</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Bag End</spatial>
+    <agent>Brookville Technical College</agent>
+    <subject>am84cu2gja</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Guyard Morrigen</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>76kgyhg48w</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kq48y9cbtr</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>audio/L24</mime-type>
+    <directory-path>path/to/nemo.gif</directory-path>
+    <file-id type="integer">319962</file-id>
+    <storage-id type="integer">254054</storage-id>
+    <external-type type="integer">170673</external-type>
+    <file-size-bytes>1168</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">887503</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Falls of Rauros</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>hm18u76x0w</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Spare Boot</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>w058lhld3v</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>hc1wowx848</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>video/quicktime</mime-type>
+    <directory-path>path/to/qui.tiff</directory-path>
+    <file-id type="integer">357159</file-id>
+    <storage-id type="integer">267106</storage-id>
+    <external-type type="integer">237707</external-type>
+    <file-size-bytes>1312</file-size-bytes>
+  </stream_ref>
+</doc>

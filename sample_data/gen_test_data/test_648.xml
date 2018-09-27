@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">720980</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Vista</spatial>
+    <agent>Mallowpond TAFE</agent>
+    <subject>iek5stu3ma</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Serra Frey</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>v06cc7f76l</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rrhc9tf11w</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>image/tiff</mime-type>
+    <directory-path>path/to/laudantium.html</directory-path>
+    <file-id type="integer">933955</file-id>
+    <storage-id type="integer">245872</storage-id>
+    <external-type type="integer">613338</external-type>
+    <file-size-bytes>336</file-size-bytes>
+  </stream_ref>
+</doc>

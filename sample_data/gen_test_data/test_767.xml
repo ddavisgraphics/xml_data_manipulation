@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">809431</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Hyarnustar</spatial>
+    <agent>Falconholt College</agent>
+    <subject>yy5cl88x9r</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Senelle</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ynodd0pt1l</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qkujk0py6g</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>text/css</mime-type>
+    <directory-path>path/to/omnis.pdf</directory-path>
+    <file-id type="integer">17662</file-id>
+    <storage-id type="integer">343969</storage-id>
+    <external-type type="integer">509662</external-type>
+    <file-size-bytes>384</file-size-bytes>
+  </stream_ref>
+</doc>

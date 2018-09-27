@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">516120</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Taur-im-Duinath</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>h66enqq8rx</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Fern</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>rr7defqgps</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>b6spphmgtz</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>application/atom+xml</mime-type>
+    <directory-path>path/to/sapiente.tiff</directory-path>
+    <file-id type="integer">34128</file-id>
+    <storage-id type="integer">961333</storage-id>
+    <external-type type="integer">282312</external-type>
+    <file-size-bytes>3168</file-size-bytes>
+  </stream_ref>
+</doc>

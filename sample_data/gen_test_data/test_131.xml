@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">141897</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Eastfarthing</spatial>
+    <agent>Marblewald College</agent>
+    <subject>7rtbdqjqj2</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Betharios of Braavos</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>fijk2g9lng</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ph6xoio9th</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>audio/ogg</mime-type>
+    <directory-path>path/to/tempora.pptx</directory-path>
+    <file-id type="integer">313888</file-id>
+    <storage-id type="integer">932787</storage-id>
+    <external-type type="integer">564351</external-type>
+    <file-size-bytes>1504</file-size-bytes>
+  </stream_ref>
+</doc>

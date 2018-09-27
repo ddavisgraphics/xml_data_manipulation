@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">106276</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Old Forest Road</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>qrjsmhki12</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Donnel Drumm</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>z9pa9axuaa</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>u6smwushps</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/reiciendis.mov</directory-path>
+    <file-id type="integer">837703</file-id>
+    <storage-id type="integer">563941</storage-id>
+    <external-type type="integer">163964</external-type>
+    <file-size-bytes>2336</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">544179</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Carchost</spatial>
+    <agent>Brighthurst University</agent>
+    <subject>l8vgxrw5iy</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Craghas Drahar</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>plsf5us6td</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>488kln2yo3</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>image/pjpeg</mime-type>
+    <directory-path>path/to/culpa.mp3</directory-path>
+    <file-id type="integer">618467</file-id>
+    <storage-id type="integer">604224</storage-id>
+    <external-type type="integer">298522</external-type>
+    <file-size-bytes>1616</file-size-bytes>
+  </stream_ref>
+</doc>

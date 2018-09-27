@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">331480</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Fords of Isen</spatial>
+    <agent>Vertapple University</agent>
+    <subject>ue5taamv98</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Rickard Stark</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>l8rluh01x6</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>f01nnuoxi9</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>message/rfc822</mime-type>
+    <directory-path>path/to/cumque.mov</directory-path>
+    <file-id type="integer">100719</file-id>
+    <storage-id type="integer">24472</storage-id>
+    <external-type type="integer">523346</external-type>
+    <file-size-bytes>1408</file-size-bytes>
+  </stream_ref>
+</doc>

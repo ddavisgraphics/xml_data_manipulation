@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">141593</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Dark Land</spatial>
+    <agent>Vertapple College</agent>
+    <subject>e5vtpuaz8w</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Torbert</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>0xhi4jz76l</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>a16ko50l8i</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>image/svg+xml</mime-type>
+    <directory-path>path/to/quidem.ppt</directory-path>
+    <file-id type="integer">652509</file-id>
+    <storage-id type="integer">679575</storage-id>
+    <external-type type="integer">15650</external-type>
+    <file-size-bytes>1232</file-size-bytes>
+  </stream_ref>
+</doc>

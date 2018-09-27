@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">500778</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Aldburg</spatial>
+    <agent>Iceborough Technical College</agent>
+    <subject>bhghxcb5gy</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Wendamyr</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>d4e20vd1e3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>az3o96esyq</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/sit.pdf</directory-path>
+    <file-id type="integer">90210</file-id>
+    <storage-id type="integer">973023</storage-id>
+    <external-type type="integer">689797</external-type>
+    <file-size-bytes>3104</file-size-bytes>
+  </stream_ref>
+</doc>

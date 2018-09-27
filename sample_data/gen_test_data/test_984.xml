@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">193761</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Land of the Sun</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>ohuef9j15b</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Tristifer V Mudd</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>cjh870qbbx</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>q22yc82rbs</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/maxime.js</directory-path>
+    <file-id type="integer">73814</file-id>
+    <storage-id type="integer">576582</storage-id>
+    <external-type type="integer">433218</external-type>
+    <file-size-bytes>2528</file-size-bytes>
+  </stream_ref>
+</doc>

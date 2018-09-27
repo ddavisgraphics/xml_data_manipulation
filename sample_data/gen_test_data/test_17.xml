@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">216559</pid>
+  <record>
+    <creator>Gimli</creator>
+    <spatial>Tol Galen</spatial>
+    <agent>Flowerlake University</agent>
+    <subject>pf9vn4y5ar</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Gunthor Hightower</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>8rfdcxlf1u</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>edl9dgwoce</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>model/x3d+xml</mime-type>
+    <directory-path>path/to/ad.tiff</directory-path>
+    <file-id type="integer">675194</file-id>
+    <storage-id type="integer">981914</storage-id>
+    <external-type type="integer">835060</external-type>
+    <file-size-bytes>1664</file-size-bytes>
+  </stream_ref>
+</doc>

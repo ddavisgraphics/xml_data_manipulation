@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">556587</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Greenway</spatial>
+    <agent>Lakeacre University</agent>
+    <subject>kzz5d4jn0h</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Ronnel Arryn</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>jj02a9kmiv</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>xfabb0uya9</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>application/gzip</mime-type>
+    <directory-path>path/to/ea.pages</directory-path>
+    <file-id type="integer">745459</file-id>
+    <storage-id type="integer">922496</storage-id>
+    <external-type type="integer">119696</external-type>
+    <file-size-bytes>1216</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">339378</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Luthany</spatial>
+    <agent>Ironston University</agent>
+    <subject>tqz0q4buxq</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Easy</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>fm376xotyv</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>55x0kcf4rg</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>text/xml</mime-type>
+    <directory-path>path/to/iste.pptx</directory-path>
+    <file-id type="integer">222493</file-id>
+    <storage-id type="integer">647757</storage-id>
+    <external-type type="integer">128835</external-type>
+    <file-size-bytes>976</file-size-bytes>
+  </stream_ref>
+</doc>

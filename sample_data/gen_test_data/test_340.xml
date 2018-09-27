@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">421399</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Falls of Rauros</spatial>
+    <agent>Marblewald College</agent>
+    <subject>x38yunsu3y</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Lyonel Frey</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gn0xdpkwd5</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4nu5bhog8w</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>text/plain</mime-type>
+    <directory-path>path/to/iure.jpeg</directory-path>
+    <file-id type="integer">324706</file-id>
+    <storage-id type="integer">428180</storage-id>
+    <external-type type="integer">292051</external-type>
+    <file-size-bytes>1184</file-size-bytes>
+  </stream_ref>
+</doc>

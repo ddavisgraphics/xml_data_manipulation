@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">656304</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Maglor's Gap</spatial>
+    <agent>Lakeacre University</agent>
+    <subject>m5ngdjuxjf</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Iggo</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>h2v08hgmf4</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qfd1o7eqzt</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>model/iges</mime-type>
+    <directory-path>path/to/nemo.html</directory-path>
+    <file-id type="integer">304068</file-id>
+    <storage-id type="integer">630744</storage-id>
+    <external-type type="integer">678874</external-type>
+    <file-size-bytes>544</file-size-bytes>
+  </stream_ref>
+</doc>

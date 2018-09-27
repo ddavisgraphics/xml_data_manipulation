@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">143988</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Carchost</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>grenbbpy5d</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Lamprey</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kvdscudtwt</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ppgf2ornwg</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>audio/vnd.wave</mime-type>
+    <directory-path>path/to/ipsam.odp</directory-path>
+    <file-id type="integer">304651</file-id>
+    <storage-id type="integer">540914</storage-id>
+    <external-type type="integer">884413</external-type>
+    <file-size-bytes>3168</file-size-bytes>
+  </stream_ref>
+</doc>

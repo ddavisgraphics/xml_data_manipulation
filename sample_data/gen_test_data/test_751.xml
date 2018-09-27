@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">123794</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Regions of the Shire</spatial>
+    <agent>Ironbarrow TAFE</agent>
+    <subject>ed1st62xmb</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Jaehaerys II Targaryen</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>nr2rtcy8ti</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>5l0ol4lf3o</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/et.json</directory-path>
+    <file-id type="integer">481841</file-id>
+    <storage-id type="integer">561857</storage-id>
+    <external-type type="integer">423704</external-type>
+    <file-size-bytes>80</file-size-bytes>
+  </stream_ref>
+</doc>

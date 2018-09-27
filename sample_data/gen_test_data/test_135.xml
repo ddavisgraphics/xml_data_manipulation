@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">627981</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Gorgoroth</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>xym5wy7dec</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Green Gergen</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>c3sv0claev</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>f42jcd336s</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>multipart/signed</mime-type>
+    <directory-path>path/to/ut.pptx</directory-path>
+    <file-id type="integer">718450</file-id>
+    <storage-id type="integer">853871</storage-id>
+    <external-type type="integer">363402</external-type>
+    <file-size-bytes>2864</file-size-bytes>
+  </stream_ref>
+</doc>

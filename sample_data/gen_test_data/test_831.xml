@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">726269</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>The Forsaken Inn</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>rhjmuwr3ub</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Cletus Yronwood</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>tttxk4i1iq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>8v34bxlkhf</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>model/x3d+binary</mime-type>
+    <directory-path>path/to/totam.flac</directory-path>
+    <file-id type="integer">268958</file-id>
+    <storage-id type="integer">902806</storage-id>
+    <external-type type="integer">196394</external-type>
+    <file-size-bytes>1632</file-size-bytes>
+  </stream_ref>
+</doc>

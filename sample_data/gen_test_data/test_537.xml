@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">102407</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Minhiriath</spatial>
+    <agent>Lakeacre TAFE</agent>
+    <subject>sgao57yrf2</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Greenbeard</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hbvgil787h</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>cn4lone7bu</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>video/webm</mime-type>
+    <directory-path>path/to/excepturi.html</directory-path>
+    <file-id type="integer">21427</file-id>
+    <storage-id type="integer">211727</storage-id>
+    <external-type type="integer">200732</external-type>
+    <file-size-bytes>3056</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">95022</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Eithel Sirion</spatial>
+    <agent>Iceborough Technical College</agent>
+    <subject>lzck0ejr99</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Ternesio Terys</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>or25368r2l</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>w20869q2mr</file-name>
+    <file-extension>doc</file-extension>
+    <mime-type>image/tiff</mime-type>
+    <directory-path>path/to/pariatur.numbers</directory-path>
+    <file-id type="integer">426922</file-id>
+    <storage-id type="integer">924342</storage-id>
+    <external-type type="integer">631264</external-type>
+    <file-size-bytes>864</file-size-bytes>
+  </stream_ref>
+</doc>

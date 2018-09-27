@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">907450</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Eä</spatial>
+    <agent>Vertapple TAFE</agent>
+    <subject>d9kp19x83n</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Falia Flowers</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>0vp10kh301</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>r51y8z3llu</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>application/font-woff</mime-type>
+    <directory-path>path/to/harum.jpeg</directory-path>
+    <file-id type="integer">470965</file-id>
+    <storage-id type="integer">244601</storage-id>
+    <external-type type="integer">153157</external-type>
+    <file-size-bytes>2960</file-size-bytes>
+  </stream_ref>
+</doc>

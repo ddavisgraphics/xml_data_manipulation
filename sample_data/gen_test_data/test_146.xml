@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">713936</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Narchost</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>zja417fsxn</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Borcas</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6jq6x6usag</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>nn7re43zu9</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/eius.pdf</directory-path>
+    <file-id type="integer">154456</file-id>
+    <storage-id type="integer">599145</storage-id>
+    <external-type type="integer">578838</external-type>
+    <file-size-bytes>2288</file-size-bytes>
+  </stream_ref>
+</doc>

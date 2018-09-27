@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">578835</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Doriath</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>yliq62lolw</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Vaemond Velaryon</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>dj0meuw6l7</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>tfrfo5ezts</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>model/vrml</mime-type>
+    <directory-path>path/to/earum.doc</directory-path>
+    <file-id type="integer">755644</file-id>
+    <storage-id type="integer">966893</storage-id>
+    <external-type type="integer">852860</external-type>
+    <file-size-bytes>3056</file-size-bytes>
+  </stream_ref>
+</doc>

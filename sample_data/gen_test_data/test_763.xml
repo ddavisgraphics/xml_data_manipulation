@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">806486</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>The Void</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>xbbyiqhpft</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Kyle</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>bdm4t16ncl</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>xs678omhux</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/expedita.mov</directory-path>
+    <file-id type="integer">181187</file-id>
+    <storage-id type="integer">303838</storage-id>
+    <external-type type="integer">397426</external-type>
+    <file-size-bytes>2304</file-size-bytes>
+  </stream_ref>
+</doc>

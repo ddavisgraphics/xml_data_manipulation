@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">662673</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Gap of Rohan</spatial>
+    <agent>Ironbarrow TAFE</agent>
+    <subject>j2vn9qg7jr</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Edmund Ambrose</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5fnutuo0bo</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>klomgl2qwl</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>image/gif</mime-type>
+    <directory-path>path/to/deserunt.ods</directory-path>
+    <file-id type="integer">907268</file-id>
+    <storage-id type="integer">300840</storage-id>
+    <external-type type="integer">320779</external-type>
+    <file-size-bytes>3168</file-size-bytes>
+  </stream_ref>
+</doc>

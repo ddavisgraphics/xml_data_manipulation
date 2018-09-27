@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">234472</pid>
+  <record>
+    <creator>Gimli</creator>
+    <spatial>East Road</spatial>
+    <agent>Ostbarrow University</agent>
+    <subject>6dxcmwd37i</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Mortimer Boggs</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ivomfvtgat</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>h9rug2m2mx</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>image/svg+xml</mime-type>
+    <directory-path>path/to/excepturi.xlsx</directory-path>
+    <file-id type="integer">281791</file-id>
+    <storage-id type="integer">758624</storage-id>
+    <external-type type="integer">17053</external-type>
+    <file-size-bytes>2704</file-size-bytes>
+  </stream_ref>
+</doc>

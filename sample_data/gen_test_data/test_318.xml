@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">899440</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Losgar</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>6tibcivgg0</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Dancy</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5brd1e03ac</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>osl84vi164</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/aut.png</directory-path>
+    <file-id type="integer">695331</file-id>
+    <storage-id type="integer">643217</storage-id>
+    <external-type type="integer">251299</external-type>
+    <file-size-bytes>2352</file-size-bytes>
+  </stream_ref>
+</doc>

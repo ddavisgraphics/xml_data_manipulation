@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">978105</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>The Rivers and Beacon-Hills of Gondor</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>g8mf1cnvs0</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Norbert Vance</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>52qgg7j9b8</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>b2j3pq300g</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>text/cmd</mime-type>
+    <directory-path>path/to/praesentium.odt</directory-path>
+    <file-id type="integer">896979</file-id>
+    <storage-id type="integer">150356</storage-id>
+    <external-type type="integer">195563</external-type>
+    <file-size-bytes>704</file-size-bytes>
+  </stream_ref>
+</doc>

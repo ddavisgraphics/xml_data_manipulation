@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">56774</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Doriath</spatial>
+    <agent>Vertapple College</agent>
+    <subject>ltafeitmsr</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Lothor Brune</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>j80dhh0gjv</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>pmkem6q1bp</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/illo.gif</directory-path>
+    <file-id type="integer">91802</file-id>
+    <storage-id type="integer">218824</storage-id>
+    <external-type type="integer">456012</external-type>
+    <file-size-bytes>2496</file-size-bytes>
+  </stream_ref>
+</doc>

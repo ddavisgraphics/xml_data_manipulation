@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">702646</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Nargothrond</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>9jsexwqx55</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Willis Fell</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>75tbu1uona</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>716wfo9jmr</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>message/http</mime-type>
+    <directory-path>path/to/sit.css</directory-path>
+    <file-id type="integer">25060</file-id>
+    <storage-id type="integer">778284</storage-id>
+    <external-type type="integer">533888</external-type>
+    <file-size-bytes>112</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">84336</pid>
+  <record>
+    <creator>Gimli</creator>
+    <spatial>Regions of the Shire</spatial>
+    <agent>Iceborough College</agent>
+    <subject>4uli8i5dp8</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Carellen Smallwood</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>lcihr5guax</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ap5blihvdp</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/dolor.pages</directory-path>
+    <file-id type="integer">237470</file-id>
+    <storage-id type="integer">243124</storage-id>
+    <external-type type="integer">363856</external-type>
+    <file-size-bytes>464</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">62038</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Parth Galen</spatial>
+    <agent>Lakeacre Technical College</agent>
+    <subject>0xed8gs6cl</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Haegon Blackfyre</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>xubejtwpe0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0zxfqp487f</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/quas.avi</directory-path>
+    <file-id type="integer">562413</file-id>
+    <storage-id type="integer">721834</storage-id>
+    <external-type type="integer">644077</external-type>
+    <file-size-bytes>672</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">231314</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>The Rivers and Beacon-Hills of Gondor</spatial>
+    <agent>Vertapple University</agent>
+    <subject>eav3fu3d3h</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Ormond Osgrey</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>nsia342b7s</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>su013gb76d</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>application/xop+xml</mime-type>
+    <directory-path>path/to/quo.tiff</directory-path>
+    <file-id type="integer">847716</file-id>
+    <storage-id type="integer">425239</storage-id>
+    <external-type type="integer">841344</external-type>
+    <file-size-bytes>2816</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">109848</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Old Forest Road</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>tifk2p1bhq</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Alyssa Blackwood</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>irlgakikym</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>g54vf3p65k</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>image/jpeg</mime-type>
+    <directory-path>path/to/totam.numbers</directory-path>
+    <file-id type="integer">842475</file-id>
+    <storage-id type="integer">12787</storage-id>
+    <external-type type="integer">365123</external-type>
+    <file-size-bytes>368</file-size-bytes>
+  </stream_ref>
+</doc>

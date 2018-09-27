@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">58104</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>The Forsaken Inn</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>qbb7mwkr9z</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Quentyn Ball</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>n6nl0cubo6</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rb8yriahnr</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>text/css</mime-type>
+    <directory-path>path/to/iure.gif</directory-path>
+    <file-id type="integer">579279</file-id>
+    <storage-id type="integer">241742</storage-id>
+    <external-type type="integer">35628</external-type>
+    <file-size-bytes>336</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">280541</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Houses of Healing</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>jm85feskyv</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Gyles III Gardener</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>h7ta2pbmhr</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0ko9s9k450</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>audio/vorbis</mime-type>
+    <directory-path>path/to/possimus.docx</directory-path>
+    <file-id type="integer">402936</file-id>
+    <storage-id type="integer">529412</storage-id>
+    <external-type type="integer">390791</external-type>
+    <file-size-bytes>2688</file-size-bytes>
+  </stream_ref>
+</doc>

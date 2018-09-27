@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">353375</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Gap of Rohan</spatial>
+    <agent>Falconholt TAFE</agent>
+    <subject>pu88kikkvc</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Lymond Mallister</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>rnwznvctds</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>elg4miscbw</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/exercitationem.ods</directory-path>
+    <file-id type="integer">505622</file-id>
+    <storage-id type="integer">554843</storage-id>
+    <external-type type="integer">133138</external-type>
+    <file-size-bytes>2416</file-size-bytes>
+  </stream_ref>
+</doc>

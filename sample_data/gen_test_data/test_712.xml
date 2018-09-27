@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">781233</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Máhanaxar</spatial>
+    <agent>Flowerlake College</agent>
+    <subject>dmha9wmbta</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Damon Paege</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>wlbcc6ygar</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>lcp6b2w4iy</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>application/pdf</mime-type>
+    <directory-path>path/to/quos.flac</directory-path>
+    <file-id type="integer">594145</file-id>
+    <storage-id type="integer">422222</storage-id>
+    <external-type type="integer">42091</external-type>
+    <file-size-bytes>2336</file-size-bytes>
+  </stream_ref>
+</doc>

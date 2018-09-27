@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">702490</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Narchost</spatial>
+    <agent>Mallowpond College</agent>
+    <subject>w8eqevip47</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Timeon</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>8grtme88zn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>7uax17kugg</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>audio/vorbis</mime-type>
+    <directory-path>path/to/sed.wav</directory-path>
+    <file-id type="integer">544828</file-id>
+    <storage-id type="integer">524712</storage-id>
+    <external-type type="integer">886738</external-type>
+    <file-size-bytes>2032</file-size-bytes>
+  </stream_ref>
+</doc>

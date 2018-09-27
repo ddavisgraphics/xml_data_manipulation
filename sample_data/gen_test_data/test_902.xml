@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">841096</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Haudh-en-Nirnaeth</spatial>
+    <agent>Iceborough College</agent>
+    <subject>meak4og8zb</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Ben Plumm</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>a7jk3qdyfa</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kjvas5vddq</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>application/xop+xml</mime-type>
+    <directory-path>path/to/facere.flac</directory-path>
+    <file-id type="integer">873788</file-id>
+    <storage-id type="integer">252648</storage-id>
+    <external-type type="integer">404341</external-type>
+    <file-size-bytes>2192</file-size-bytes>
+  </stream_ref>
+</doc>

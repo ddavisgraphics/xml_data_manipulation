@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">392512</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Rivendell</spatial>
+    <agent>Mallowtown University</agent>
+    <subject>4bq5whvtdy</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Raymund Frey</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hda7evvhcv</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>5w2kgl98ow</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/voluptas.csv</directory-path>
+    <file-id type="integer">818943</file-id>
+    <storage-id type="integer">319475</storage-id>
+    <external-type type="integer">972403</external-type>
+    <file-size-bytes>2112</file-size-bytes>
+  </stream_ref>
+</doc>

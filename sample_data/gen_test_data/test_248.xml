@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">115074</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Minas Tirith</spatial>
+    <agent>Ironston Technical College</agent>
+    <subject>wj3zjxa24g</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Harwin Strong</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>b7h5tv9usf</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>w0ksz3oviw</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/doloremque.ods</directory-path>
+    <file-id type="integer">685675</file-id>
+    <storage-id type="integer">764257</storage-id>
+    <external-type type="integer">148952</external-type>
+    <file-size-bytes>3072</file-size-bytes>
+  </stream_ref>
+</doc>

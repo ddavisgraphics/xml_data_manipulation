@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">384241</pid>
+  <record>
+    <creator>Gimli</creator>
+    <spatial>Tol-in-Gaurhoth</spatial>
+    <agent>Bluemeadow College</agent>
+    <subject>ey6wj88r35</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Paxter Redwyne</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6u4sxtxnlk</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>yor5ws2tih</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>audio/mpeg</mime-type>
+    <directory-path>path/to/laborum.png</directory-path>
+    <file-id type="integer">804638</file-id>
+    <storage-id type="integer">386163</storage-id>
+    <external-type type="integer">427007</external-type>
+    <file-size-bytes>1584</file-size-bytes>
+  </stream_ref>
+</doc>

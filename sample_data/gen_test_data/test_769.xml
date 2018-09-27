@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">28581</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Eithel Sirion</spatial>
+    <agent>Vertapple College</agent>
+    <subject>n4whausk7y</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Umma</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>uko4r4cuzo</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ksjfj16lvb</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>audio/mpeg</mime-type>
+    <directory-path>path/to/hic.mp3</directory-path>
+    <file-id type="integer">940799</file-id>
+    <storage-id type="integer">526045</storage-id>
+    <external-type type="integer">971986</external-type>
+    <file-size-bytes>2608</file-size-bytes>
+  </stream_ref>
+</doc>

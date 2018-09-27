@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">467762</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Bag End</spatial>
+    <agent>Mallowpond University</agent>
+    <subject>n7fecp3r8c</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Shella</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>zcnw4vsylb</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>onbtja8uj6</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/id.xlsx</directory-path>
+    <file-id type="integer">727704</file-id>
+    <storage-id type="integer">378609</storage-id>
+    <external-type type="integer">980415</external-type>
+    <file-size-bytes>2656</file-size-bytes>
+  </stream_ref>
+</doc>

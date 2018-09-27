@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">954740</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Falls of Rauros</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>2yk3putol4</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Cyrenna Swann</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>0miqv87rwt</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>gvms8zjlcj</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/velit.css</directory-path>
+    <file-id type="integer">128269</file-id>
+    <storage-id type="integer">913670</storage-id>
+    <external-type type="integer">49816</external-type>
+    <file-size-bytes>912</file-size-bytes>
+  </stream_ref>
+</doc>

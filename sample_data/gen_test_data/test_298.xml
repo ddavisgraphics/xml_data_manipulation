@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">909227</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>The Void</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>dmsh3wp05e</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Veiled Lady</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2pkm648r3h</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>w8jmt6jxqb</file-name>
+    <file-extension>numbers</file-extension>
+    <mime-type>multipart/related</mime-type>
+    <directory-path>path/to/ullam.ppt</directory-path>
+    <file-id type="integer">535997</file-id>
+    <storage-id type="integer">271665</storage-id>
+    <external-type type="integer">752654</external-type>
+    <file-size-bytes>2816</file-size-bytes>
+  </stream_ref>
+</doc>

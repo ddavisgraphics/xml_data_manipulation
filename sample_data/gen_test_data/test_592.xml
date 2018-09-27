@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">678832</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Rath Dínen</spatial>
+    <agent>Mallowpond TAFE</agent>
+    <subject>txhqhi3ub6</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Edgerran Oakheart</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>wtwa1d1u5k</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>6lwvz8rt3x</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>application/json</mime-type>
+    <directory-path>path/to/eligendi.key</directory-path>
+    <file-id type="integer">994152</file-id>
+    <storage-id type="integer">711517</storage-id>
+    <external-type type="integer">274532</external-type>
+    <file-size-bytes>208</file-size-bytes>
+  </stream_ref>
+</doc>

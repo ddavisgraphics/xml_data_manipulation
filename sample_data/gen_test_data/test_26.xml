@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">484256</pid>
+  <record>
+    <creator>Gimli</creator>
+    <spatial>Barad-dûr</spatial>
+    <agent>Ostbarrow Technical College</agent>
+    <subject>h5eo54qdyr</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Ned Woods</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>16qkkj88x3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>a1jfon8owy</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/est.numbers</directory-path>
+    <file-id type="integer">735480</file-id>
+    <storage-id type="integer">711756</storage-id>
+    <external-type type="integer">199195</external-type>
+    <file-size-bytes>2336</file-size-bytes>
+  </stream_ref>
+</doc>

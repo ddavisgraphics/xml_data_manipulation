@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">161220</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Taur-en-Faroth</spatial>
+    <agent>Brookville Technical College</agent>
+    <subject>cgrmkpfdxq</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Maddy</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ap5o80sl0k</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>t04jdn2hbv</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>video/mp4</mime-type>
+    <directory-path>path/to/sequi.json</directory-path>
+    <file-id type="integer">780681</file-id>
+    <storage-id type="integer">351697</storage-id>
+    <external-type type="integer">752014</external-type>
+    <file-size-bytes>2448</file-size-bytes>
+  </stream_ref>
+</doc>

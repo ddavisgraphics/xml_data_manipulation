@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">628443</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Narchost</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>pxld31ojj2</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Groleo</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>bso25nz62o</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ahy98unxm3</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>text/css</mime-type>
+    <directory-path>path/to/est.bmp</directory-path>
+    <file-id type="integer">689193</file-id>
+    <storage-id type="integer">781197</storage-id>
+    <external-type type="integer">776513</external-type>
+    <file-size-bytes>3104</file-size-bytes>
+  </stream_ref>
+</doc>

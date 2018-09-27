@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">216803</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Dome of Stars</spatial>
+    <agent>Lakeacre Technical College</agent>
+    <subject>rplw0ojbvx</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Jason Lannister</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ulwmrj3q0c</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ue10lofafy</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>application/xhtml+xml</mime-type>
+    <directory-path>path/to/voluptate.xls</directory-path>
+    <file-id type="integer">106248</file-id>
+    <storage-id type="integer">980422</storage-id>
+    <external-type type="integer">430334</external-type>
+    <file-size-bytes>864</file-size-bytes>
+  </stream_ref>
+</doc>

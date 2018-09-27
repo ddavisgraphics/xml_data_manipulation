@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">746428</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Henneth Annûn</spatial>
+    <agent>Brookville TAFE</agent>
+    <subject>98eng0hqys</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Tristimun</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>maduij7w3c</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>eedmil2who</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/aut.html</directory-path>
+    <file-id type="integer">312507</file-id>
+    <storage-id type="integer">424320</storage-id>
+    <external-type type="integer">386149</external-type>
+    <file-size-bytes>1984</file-size-bytes>
+  </stream_ref>
+</doc>

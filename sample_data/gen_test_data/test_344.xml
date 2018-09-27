@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">20432</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Ilmen</spatial>
+    <agent>Clearcourt TAFE</agent>
+    <subject>903fynlygi</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Alysanne Lefford</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vmm5als50m</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>9dtfs3czyp</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>application/pdf</mime-type>
+    <directory-path>path/to/ducimus.xlsx</directory-path>
+    <file-id type="integer">509508</file-id>
+    <storage-id type="integer">365622</storage-id>
+    <external-type type="integer">466790</external-type>
+    <file-size-bytes>1264</file-size-bytes>
+  </stream_ref>
+</doc>

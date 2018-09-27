@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">93799</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Paths of the Dead</spatial>
+    <agent>Iceborough College</agent>
+    <subject>3vuick5xel</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Iron Emmett</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>w9xwn0sgly</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0fdev2tldg</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>application/EDI-X12</mime-type>
+    <directory-path>path/to/at.js</directory-path>
+    <file-id type="integer">115580</file-id>
+    <storage-id type="integer">404086</storage-id>
+    <external-type type="integer">230647</external-type>
+    <file-size-bytes>720</file-size-bytes>
+  </stream_ref>
+</doc>

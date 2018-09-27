@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">145158</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Máhanaxar</spatial>
+    <agent>Bluemeadow College</agent>
+    <subject>wrbtlc9nh6</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Hal</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>w3lkvk61er</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>oqcriq2vn5</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>video/mpeg</mime-type>
+    <directory-path>path/to/alias.odt</directory-path>
+    <file-id type="integer">441292</file-id>
+    <storage-id type="integer">854435</storage-id>
+    <external-type type="integer">515910</external-type>
+    <file-size-bytes>1904</file-size-bytes>
+  </stream_ref>
+</doc>

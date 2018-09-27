@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">385968</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Argonath</spatial>
+    <agent>Iceborough College</agent>
+    <subject>r299ximwhh</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Moredo Prestayn</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>3ij984401g</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>79g1e24a59</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/accusantium.mp4</directory-path>
+    <file-id type="integer">67266</file-id>
+    <storage-id type="integer">479557</storage-id>
+    <external-type type="integer">38184</external-type>
+    <file-size-bytes>1600</file-size-bytes>
+  </stream_ref>
+</doc>

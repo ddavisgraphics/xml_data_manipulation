@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">941817</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Isenmouthe</spatial>
+    <agent>Flowerlake Technical College</agent>
+    <subject>jv6sbz7c0k</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Marq Piper</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6nmsjoy40e</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>gmoqozjyq8</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>model/x3d+xml</mime-type>
+    <directory-path>path/to/quibusdam.tiff</directory-path>
+    <file-id type="integer">691102</file-id>
+    <storage-id type="integer">916209</storage-id>
+    <external-type type="integer">931702</external-type>
+    <file-size-bytes>1248</file-size-bytes>
+  </stream_ref>
+</doc>

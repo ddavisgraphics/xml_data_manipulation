@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">915437</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Minas Tirith</spatial>
+    <agent>Flowerlake College</agent>
+    <subject>77kbr234lb</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Moqorro</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>uy47s7qzeb</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>eyib446a76</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>application/ecmascript</mime-type>
+    <directory-path>path/to/id.csv</directory-path>
+    <file-id type="integer">67019</file-id>
+    <storage-id type="integer">481143</storage-id>
+    <external-type type="integer">186826</external-type>
+    <file-size-bytes>1712</file-size-bytes>
+  </stream_ref>
+</doc>

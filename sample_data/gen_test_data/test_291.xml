@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">409567</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Houses of Healing</spatial>
+    <agent>Mallowpond Technical College</agent>
+    <subject>rkguvaxyx7</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Daegon Shepherd</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>414mpfyd7j</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>q85zhobhu3</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>image/gif</mime-type>
+    <directory-path>path/to/quis.avi</directory-path>
+    <file-id type="integer">320289</file-id>
+    <storage-id type="integer">275449</storage-id>
+    <external-type type="integer">474771</external-type>
+    <file-size-bytes>752</file-size-bytes>
+  </stream_ref>
+</doc>

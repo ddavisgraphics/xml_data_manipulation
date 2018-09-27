@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">506414</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Tumladen</spatial>
+    <agent>Mallowtown TAFE</agent>
+    <subject>rajf2d4a5k</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Wyl the Whittler</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>rj94ou7td9</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>5nno4o0eu4</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>application/xhtml+xml</mime-type>
+    <directory-path>path/to/quidem.numbers</directory-path>
+    <file-id type="integer">630316</file-id>
+    <storage-id type="integer">896569</storage-id>
+    <external-type type="integer">354921</external-type>
+    <file-size-bytes>1632</file-size-bytes>
+  </stream_ref>
+</doc>

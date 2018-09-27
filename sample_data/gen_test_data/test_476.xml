@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">152552</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Rath Dínen</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>8ve2q4wy3o</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Ebrose</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>j5rwm8czen</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>dbvk7b9qcr</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>application/postscript</mime-type>
+    <directory-path>path/to/eum.gif</directory-path>
+    <file-id type="integer">93370</file-id>
+    <storage-id type="integer">958879</storage-id>
+    <external-type type="integer">54100</external-type>
+    <file-size-bytes>1232</file-size-bytes>
+  </stream_ref>
+</doc>

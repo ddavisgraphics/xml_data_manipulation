@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">532776</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Field of Celebrant</spatial>
+    <agent>Marblewald University</agent>
+    <subject>fztct69pc4</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Rhaego</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>mm1vbxe7b0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4npvakz01k</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>message/http</mime-type>
+    <directory-path>path/to/laboriosam.doc</directory-path>
+    <file-id type="integer">989549</file-id>
+    <storage-id type="integer">163675</storage-id>
+    <external-type type="integer">310106</external-type>
+    <file-size-bytes>2672</file-size-bytes>
+  </stream_ref>
+</doc>

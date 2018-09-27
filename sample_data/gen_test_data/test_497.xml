@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">905805</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Isle of Balar</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>aqp46c6ahr</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Walder Haigh</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>s6bcy08exp</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>6byg2k2hny</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/fugiat.gif</directory-path>
+    <file-id type="integer">812663</file-id>
+    <storage-id type="integer">593576</storage-id>
+    <external-type type="integer">585735</external-type>
+    <file-size-bytes>1504</file-size-bytes>
+  </stream_ref>
+</doc>

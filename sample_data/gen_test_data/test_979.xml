@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">397971</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Angband</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>sersgfkpdc</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Cynthea Frey</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gahs5b54ao</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>3kkbapujs0</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>application/pdf</mime-type>
+    <directory-path>path/to/labore.odp</directory-path>
+    <file-id type="integer">505656</file-id>
+    <storage-id type="integer">890460</storage-id>
+    <external-type type="integer">65157</external-type>
+    <file-size-bytes>1696</file-size-bytes>
+  </stream_ref>
+</doc>

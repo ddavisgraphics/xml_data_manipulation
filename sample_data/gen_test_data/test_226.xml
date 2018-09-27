@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">322562</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Tol-in-Gaurhoth</spatial>
+    <agent>Icelyn University</agent>
+    <subject>zccg9tw7a8</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Kedry</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>73lt8dphgc</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>m6yac0lc8x</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>model/vrml</mime-type>
+    <directory-path>path/to/dolorem.pages</directory-path>
+    <file-id type="integer">431265</file-id>
+    <storage-id type="integer">81957</storage-id>
+    <external-type type="integer">219517</external-type>
+    <file-size-bytes>1264</file-size-bytes>
+  </stream_ref>
+</doc>

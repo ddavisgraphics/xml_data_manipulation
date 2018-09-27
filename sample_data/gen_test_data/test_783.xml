@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">141490</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Doors of Durin</spatial>
+    <agent>Mallowtown University</agent>
+    <subject>tl3vbrcmww</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Ben</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9e7ebev8ke</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>w7gn3wwlp9</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/rerum.jpeg</directory-path>
+    <file-id type="integer">670618</file-id>
+    <storage-id type="integer">974546</storage-id>
+    <external-type type="integer">515802</external-type>
+    <file-size-bytes>560</file-size-bytes>
+  </stream_ref>
+</doc>

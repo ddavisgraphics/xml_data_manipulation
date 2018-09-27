@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">670803</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Marish</spatial>
+    <agent>Mallowpond Technical College</agent>
+    <subject>kxjn6kvmig</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Heward</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6kf0hq6ax3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>98pcerjlrx</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>model/x3d+binary</mime-type>
+    <directory-path>path/to/quibusdam.pdf</directory-path>
+    <file-id type="integer">873370</file-id>
+    <storage-id type="integer">633853</storage-id>
+    <external-type type="integer">19288</external-type>
+    <file-size-bytes>176</file-size-bytes>
+  </stream_ref>
+</doc>

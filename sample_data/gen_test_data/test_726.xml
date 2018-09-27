@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">351603</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Tol-in-Gaurhoth</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>6o5xzgoa1p</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Lester Morrigen</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>qhu3cxrv49</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>iuwvrow483</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>multipart/signed</mime-type>
+    <directory-path>path/to/assumenda.mp3</directory-path>
+    <file-id type="integer">336396</file-id>
+    <storage-id type="integer">402560</storage-id>
+    <external-type type="integer">942580</external-type>
+    <file-size-bytes>1312</file-size-bytes>
+  </stream_ref>
+</doc>

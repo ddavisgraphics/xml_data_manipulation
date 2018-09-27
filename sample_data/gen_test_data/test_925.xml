@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">542607</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Gorgoroth</spatial>
+    <agent>Lakeacre Technical College</agent>
+    <subject>uu80entsrz</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Rhae Targaryen</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>e2jvj5di7q</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>cd2rt9e38s</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>audio/vnd.rn-realaudio</mime-type>
+    <directory-path>path/to/temporibus.odt</directory-path>
+    <file-id type="integer">594531</file-id>
+    <storage-id type="integer">212252</storage-id>
+    <external-type type="integer">566354</external-type>
+    <file-size-bytes>2624</file-size-bytes>
+  </stream_ref>
+</doc>

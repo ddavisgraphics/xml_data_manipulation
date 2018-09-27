@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">900990</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Dark Land</spatial>
+    <agent>Ironston University</agent>
+    <subject>5lhtjhs38g</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Wolmer</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>8fvsi933q1</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>x6gqkshpqc</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>audio/vnd.rn-realaudio</mime-type>
+    <directory-path>path/to/neque.doc</directory-path>
+    <file-id type="integer">85136</file-id>
+    <storage-id type="integer">342942</storage-id>
+    <external-type type="integer">349137</external-type>
+    <file-size-bytes>1872</file-size-bytes>
+  </stream_ref>
+</doc>

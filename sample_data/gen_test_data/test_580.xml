@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">555332</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Aglarond</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>um3vk9xntf</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Lyonel Bentley</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>d4wujsik6z</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>zzfdto7kbn</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>audio/webm</mime-type>
+    <directory-path>path/to/porro.tiff</directory-path>
+    <file-id type="integer">961328</file-id>
+    <storage-id type="integer">66321</storage-id>
+    <external-type type="integer">596712</external-type>
+    <file-size-bytes>1200</file-size-bytes>
+  </stream_ref>
+</doc>

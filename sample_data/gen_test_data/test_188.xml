@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">775294</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Warning beacons of Gondor</spatial>
+    <agent>Iceborough Technical College</agent>
+    <subject>spwjqnbquv</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Harmune</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>tgot1t7t6o</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>90q1bdcia9</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/impedit.pptx</directory-path>
+    <file-id type="integer">150963</file-id>
+    <storage-id type="integer">292116</storage-id>
+    <external-type type="integer">892100</external-type>
+    <file-size-bytes>2736</file-size-bytes>
+  </stream_ref>
+</doc>

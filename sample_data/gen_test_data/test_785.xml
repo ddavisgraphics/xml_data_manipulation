@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">236746</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Losgar</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>ihlrt20t6f</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Ragnor Pyke</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>fy2x9xmvz2</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>p3qch3yadj</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>message/http</mime-type>
+    <directory-path>path/to/quidem.ppt</directory-path>
+    <file-id type="integer">47180</file-id>
+    <storage-id type="integer">560476</storage-id>
+    <external-type type="integer">539838</external-type>
+    <file-size-bytes>1344</file-size-bytes>
+  </stream_ref>
+</doc>

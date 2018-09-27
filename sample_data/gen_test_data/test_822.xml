@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">689520</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Tol-in-Gaurhoth</spatial>
+    <agent>Brookville Technical College</agent>
+    <subject>uem9n8a833</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Dick Follard</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6p26g2m1ya</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>1oa3mhkc2d</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>message/rfc822</mime-type>
+    <directory-path>path/to/placeat.odt</directory-path>
+    <file-id type="integer">517457</file-id>
+    <storage-id type="integer">349920</storage-id>
+    <external-type type="integer">560652</external-type>
+    <file-size-bytes>3104</file-size-bytes>
+  </stream_ref>
+</doc>

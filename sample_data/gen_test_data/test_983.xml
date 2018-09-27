@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">497337</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Aldburg</spatial>
+    <agent>Mallowtown College</agent>
+    <subject>exr7eufe0d</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Jaime Frey</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vbymyw1u0f</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>2ofo12a97n</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>audio/vorbis</mime-type>
+    <directory-path>path/to/dolorem.odt</directory-path>
+    <file-id type="integer">529174</file-id>
+    <storage-id type="integer">491877</storage-id>
+    <external-type type="integer">444542</external-type>
+    <file-size-bytes>2816</file-size-bytes>
+  </stream_ref>
+</doc>

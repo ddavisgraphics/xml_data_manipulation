@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">872705</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Dark Land</spatial>
+    <agent>Falconholt University</agent>
+    <subject>9huhwg2a4a</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Conwy</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>776xscqptq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>uij4ywm4nc</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>application/ecmascript</mime-type>
+    <directory-path>path/to/voluptatem.jpg</directory-path>
+    <file-id type="integer">475824</file-id>
+    <storage-id type="integer">779358</storage-id>
+    <external-type type="integer">273412</external-type>
+    <file-size-bytes>2752</file-size-bytes>
+  </stream_ref>
+</doc>

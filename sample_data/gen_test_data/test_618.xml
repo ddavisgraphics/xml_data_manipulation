@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">481138</pid>
+  <record>
+    <creator>Gimli</creator>
+    <spatial>Rivendell</spatial>
+    <agent>Mallowpond College</agent>
+    <subject>vmq7mgfz4z</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Maynard</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>wn18ivrhro</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ef68livb2t</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>model/vrml</mime-type>
+    <directory-path>path/to/minus.docx</directory-path>
+    <file-id type="integer">627515</file-id>
+    <storage-id type="integer">897712</storage-id>
+    <external-type type="integer">687513</external-type>
+    <file-size-bytes>1072</file-size-bytes>
+  </stream_ref>
+</doc>

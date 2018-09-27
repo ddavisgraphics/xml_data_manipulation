@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">233911</pid>
+  <record>
+    <creator>Gimli</creator>
+    <spatial>Máhanaxar</spatial>
+    <agent>Ironston University</agent>
+    <subject>koi998g4vf</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Orphan Oss</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>tbufpcvej9</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>7i15ve9yyw</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>model/example</mime-type>
+    <directory-path>path/to/nihil.key</directory-path>
+    <file-id type="integer">295653</file-id>
+    <storage-id type="integer">316976</storage-id>
+    <external-type type="integer">101811</external-type>
+    <file-size-bytes>2128</file-size-bytes>
+  </stream_ref>
+</doc>

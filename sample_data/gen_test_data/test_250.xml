@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">639006</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Tumladen</spatial>
+    <agent>Falconholt Technical College</agent>
+    <subject>mmokdcsida</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Lyra Mormont</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>fgsfv7rpi2</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>n3r5wzo1c8</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>application/pdf</mime-type>
+    <directory-path>path/to/aut.numbers</directory-path>
+    <file-id type="integer">734050</file-id>
+    <storage-id type="integer">244165</storage-id>
+    <external-type type="integer">831918</external-type>
+    <file-size-bytes>1488</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">431414</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Vaiya</spatial>
+    <agent>Falconholt TAFE</agent>
+    <subject>ghjcyd7smt</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Balon Greyjoy</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kgw1eckj1t</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>eggyp3ix16</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>model/mesh</mime-type>
+    <directory-path>path/to/quo.numbers</directory-path>
+    <file-id type="integer">982425</file-id>
+    <storage-id type="integer">413025</storage-id>
+    <external-type type="integer">904897</external-type>
+    <file-size-bytes>1232</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">261502</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Crack of Doom</spatial>
+    <agent>Mallowpond TAFE</agent>
+    <subject>yxj4vsg3ey</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Corliss Penny</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>mhzjr67han</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>m19n7syme2</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>video/mp4</mime-type>
+    <directory-path>path/to/animi.bmp</directory-path>
+    <file-id type="integer">283717</file-id>
+    <storage-id type="integer">410134</storage-id>
+    <external-type type="integer">474021</external-type>
+    <file-size-bytes>1840</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">786724</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Isle of Balar</spatial>
+    <agent>Lakeacre Technical College</agent>
+    <subject>po1k4ikghk</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Martyn Cassel</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>x7xedo0sdp</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>on6xfjsaw4</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>model/x3d+binary</mime-type>
+    <directory-path>path/to/distinctio.css</directory-path>
+    <file-id type="integer">269726</file-id>
+    <storage-id type="integer">893366</storage-id>
+    <external-type type="integer">393741</external-type>
+    <file-size-bytes>304</file-size-bytes>
+  </stream_ref>
+</doc>

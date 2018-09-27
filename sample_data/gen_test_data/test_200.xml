@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">845068</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Isenmouthe</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>kop7194tkr</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Walder Brax</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gmpd8ho5xh</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qqqxfot0nd</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>application/postscript</mime-type>
+    <directory-path>path/to/dolorum.pdf</directory-path>
+    <file-id type="integer">841276</file-id>
+    <storage-id type="integer">708232</storage-id>
+    <external-type type="integer">582447</external-type>
+    <file-size-bytes>2240</file-size-bytes>
+  </stream_ref>
+</doc>

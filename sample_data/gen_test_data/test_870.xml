@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">84809</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Tol Morwen</spatial>
+    <agent>Mallowpond University</agent>
+    <subject>92zk8rhw2l</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Rodrik Ryswell</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>lq26509am2</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rhbuq1r89v</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>video/mp4</mime-type>
+    <directory-path>path/to/in.avi</directory-path>
+    <file-id type="integer">541759</file-id>
+    <storage-id type="integer">892039</storage-id>
+    <external-type type="integer">715504</external-type>
+    <file-size-bytes>368</file-size-bytes>
+  </stream_ref>
+</doc>

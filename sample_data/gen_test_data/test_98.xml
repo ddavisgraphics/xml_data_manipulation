@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">68106</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Tol-in-Gaurhoth</spatial>
+    <agent>Vertapple University</agent>
+    <subject>88c3mh45vm</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Ulf the White</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>dur6xihf6y</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>v4c7fhx2ru</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>application/ecmascript</mime-type>
+    <directory-path>path/to/laudantium.txt</directory-path>
+    <file-id type="integer">575323</file-id>
+    <storage-id type="integer">118603</storage-id>
+    <external-type type="integer">252533</external-type>
+    <file-size-bytes>1280</file-size-bytes>
+  </stream_ref>
+</doc>

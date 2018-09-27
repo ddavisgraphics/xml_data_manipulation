@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">568296</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Falls of Rauros</spatial>
+    <agent>Falconholt Technical College</agent>
+    <subject>uzgt7a4dm4</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Steffon Seaworth</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>etkf754sgn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qgn3j0r2h3</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>text/vcard</mime-type>
+    <directory-path>path/to/illo.mov</directory-path>
+    <file-id type="integer">982678</file-id>
+    <storage-id type="integer">807234</storage-id>
+    <external-type type="integer">625991</external-type>
+    <file-size-bytes>3136</file-size-bytes>
+  </stream_ref>
+</doc>

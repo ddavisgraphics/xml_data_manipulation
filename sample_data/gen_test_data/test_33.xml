@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">915984</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Bridge of Khazad-dûm</spatial>
+    <agent>Falconholt TAFE</agent>
+    <subject>vzrmnsniro</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Ned</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>bxqy39b61f</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>cbv21x3l6p</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>application/rdf+xml</mime-type>
+    <directory-path>path/to/deleniti.pdf</directory-path>
+    <file-id type="integer">965912</file-id>
+    <storage-id type="integer">295764</storage-id>
+    <external-type type="integer">992985</external-type>
+    <file-size-bytes>784</file-size-bytes>
+  </stream_ref>
+</doc>

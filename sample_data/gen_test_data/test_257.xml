@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">307907</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Tol Morwen</spatial>
+    <agent>Clearcourt University</agent>
+    <subject>1y9pjnwn11</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Jason Lannister</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>appo2ihwcc</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>elvqfrbb0q</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/quidem.webm</directory-path>
+    <file-id type="integer">387406</file-id>
+    <storage-id type="integer">144446</storage-id>
+    <external-type type="integer">52299</external-type>
+    <file-size-bytes>1472</file-size-bytes>
+  </stream_ref>
+</doc>

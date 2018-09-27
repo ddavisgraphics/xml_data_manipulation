@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">25731</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Black Gate</spatial>
+    <agent>Marblewald TAFE</agent>
+    <subject>0rwhtgicck</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Aemon Estermont</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>lnpyqs6r2k</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>r9z2wh8w8y</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>message/partial</mime-type>
+    <directory-path>path/to/qui.css</directory-path>
+    <file-id type="integer">833336</file-id>
+    <storage-id type="integer">630737</storage-id>
+    <external-type type="integer">175266</external-type>
+    <file-size-bytes>368</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">670478</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Paths of the Dead</spatial>
+    <agent>Mallowtown TAFE</agent>
+    <subject>0ayk7a15fi</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Lucas Lothston</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>igd5ytgooi</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>h5med5j67o</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>multipart/signed</mime-type>
+    <directory-path>path/to/ad.mp4</directory-path>
+    <file-id type="integer">296576</file-id>
+    <storage-id type="integer">513785</storage-id>
+    <external-type type="integer">734994</external-type>
+    <file-size-bytes>1840</file-size-bytes>
+  </stream_ref>
+</doc>

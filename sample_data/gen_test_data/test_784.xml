@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">33256</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Taur-en-Faroth</spatial>
+    <agent>Lakeacre University</agent>
+    <subject>gxdxlr4lru</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Oswell Whent</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9372qr5ac3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>eat9z6lp50</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>application/EDI-X12</mime-type>
+    <directory-path>path/to/voluptatibus.docx</directory-path>
+    <file-id type="integer">448174</file-id>
+    <storage-id type="integer">843088</storage-id>
+    <external-type type="integer">984889</external-type>
+    <file-size-bytes>2496</file-size-bytes>
+  </stream_ref>
+</doc>

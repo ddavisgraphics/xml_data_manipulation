@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">760715</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>Vaiya</spatial>
+    <agent>Mallowtown University</agent>
+    <subject>6crzkep1hw</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Harwyn Hoare</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>t6xcaxpujf</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>9tvxd4mnje</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/corporis.docx</directory-path>
+    <file-id type="integer">388428</file-id>
+    <storage-id type="integer">10766</storage-id>
+    <external-type type="integer">369381</external-type>
+    <file-size-bytes>2896</file-size-bytes>
+  </stream_ref>
+</doc>

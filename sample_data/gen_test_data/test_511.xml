@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">320080</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Iceborough TAFE</agent>
+    <subject>jwnxdwysyw</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Symon Hollard</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>sz6wouqco5</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>n6r3wn8mb5</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/quos.csv</directory-path>
+    <file-id type="integer">643559</file-id>
+    <storage-id type="integer">934876</storage-id>
+    <external-type type="integer">333711</external-type>
+    <file-size-bytes>2656</file-size-bytes>
+  </stream_ref>
+</doc>

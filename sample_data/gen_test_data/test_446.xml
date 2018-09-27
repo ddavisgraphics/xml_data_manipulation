@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">982936</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Bridge of Khazad-dûm</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>85xez64wpx</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Viserys Targaryen</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>7he8pyjbss</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4i24g99dub</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>audio/ogg</mime-type>
+    <directory-path>path/to/at.json</directory-path>
+    <file-id type="integer">62965</file-id>
+    <storage-id type="integer">689442</storage-id>
+    <external-type type="integer">828166</external-type>
+    <file-size-bytes>2848</file-size-bytes>
+  </stream_ref>
+</doc>

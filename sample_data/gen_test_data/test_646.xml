@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">322731</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>The Forsaken Inn</spatial>
+    <agent>Marblewald College</agent>
+    <subject>61e0ux38bb</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Robert Baratheon</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2kwtfpe5da</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>byt8a9pj49</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>video/quicktime</mime-type>
+    <directory-path>path/to/a.csv</directory-path>
+    <file-id type="integer">837992</file-id>
+    <storage-id type="integer">940105</storage-id>
+    <external-type type="integer">303620</external-type>
+    <file-size-bytes>944</file-size-bytes>
+  </stream_ref>
+</doc>

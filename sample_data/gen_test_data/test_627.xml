@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">73135</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Fens of Serech</spatial>
+    <agent>Brighthurst University</agent>
+    <subject>6rlg8wyusd</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Gascoyne of the Greenblood</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>cqfp4q4wsq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>1ovs6xsef5</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>image/png</mime-type>
+    <directory-path>path/to/doloribus.tiff</directory-path>
+    <file-id type="integer">890395</file-id>
+    <storage-id type="integer">100320</storage-id>
+    <external-type type="integer">259708</external-type>
+    <file-size-bytes>736</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">822627</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Marish</spatial>
+    <agent>Mallowtown University</agent>
+    <subject>amxpzh1e36</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Theon Stark</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>g1bl359cw0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>tch5t6optf</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>application/gzip</mime-type>
+    <directory-path>path/to/voluptas.numbers</directory-path>
+    <file-id type="integer">448288</file-id>
+    <storage-id type="integer">361892</storage-id>
+    <external-type type="integer">583273</external-type>
+    <file-size-bytes>2224</file-size-bytes>
+  </stream_ref>
+</doc>

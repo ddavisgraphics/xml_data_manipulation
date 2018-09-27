@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">178139</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Tol Morwen</spatial>
+    <agent>Clearcourt University</agent>
+    <subject>4rhfn65qku</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Marissa Frey</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ocusnx0c8d</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>h73vwepaw2</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>audio/mpeg</mime-type>
+    <directory-path>path/to/omnis.js</directory-path>
+    <file-id type="integer">842948</file-id>
+    <storage-id type="integer">554634</storage-id>
+    <external-type type="integer">465150</external-type>
+    <file-size-bytes>224</file-size-bytes>
+  </stream_ref>
+</doc>

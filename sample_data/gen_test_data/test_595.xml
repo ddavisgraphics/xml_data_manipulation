@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">142672</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>East Beleriand</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>pcfbfynm3x</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Leana Frey</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>rkf3p2olwy</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>nsqrlpqjlu</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/enim.pptx</directory-path>
+    <file-id type="integer">124909</file-id>
+    <storage-id type="integer">740114</storage-id>
+    <external-type type="integer">482083</external-type>
+    <file-size-bytes>1440</file-size-bytes>
+  </stream_ref>
+</doc>

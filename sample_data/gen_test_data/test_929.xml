@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">744743</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Argonath</spatial>
+    <agent>Icelyn College</agent>
+    <subject>x2uxth0k3t</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Reek</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9ez9uh0d2g</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4tyheq0y3h</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>message/imdn+xml</mime-type>
+    <directory-path>path/to/dolores.pages</directory-path>
+    <file-id type="integer">152500</file-id>
+    <storage-id type="integer">972179</storage-id>
+    <external-type type="integer">758579</external-type>
+    <file-size-bytes>240</file-size-bytes>
+  </stream_ref>
+</doc>

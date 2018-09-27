@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">754838</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Haven of the Eldar</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>zp5m4padwb</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Beldecar</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5m11z07kfk</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>akx596efwx</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>text/plain</mime-type>
+    <directory-path>path/to/corrupti.csv</directory-path>
+    <file-id type="integer">403274</file-id>
+    <storage-id type="integer">741908</storage-id>
+    <external-type type="integer">850222</external-type>
+    <file-size-bytes>2464</file-size-bytes>
+  </stream_ref>
+</doc>

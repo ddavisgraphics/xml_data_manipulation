@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">527614</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>Old Forest</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>9bzm82basb</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Lewys Piper</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>nrjnjbtg3o</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>24a16haqtj</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>message/rfc822</mime-type>
+    <directory-path>path/to/eius.jpg</directory-path>
+    <file-id type="integer">314467</file-id>
+    <storage-id type="integer">745087</storage-id>
+    <external-type type="integer">979661</external-type>
+    <file-size-bytes>192</file-size-bytes>
+  </stream_ref>
+</doc>

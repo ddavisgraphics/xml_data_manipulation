@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">268909</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Dol Guldur</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>50nb5g2elz</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Rodrik Stark</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>0opiv0ae1m</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ye4bwrgw75</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>audio/mpeg</mime-type>
+    <directory-path>path/to/omnis.xlsx</directory-path>
+    <file-id type="integer">403219</file-id>
+    <storage-id type="integer">70479</storage-id>
+    <external-type type="integer">12062</external-type>
+    <file-size-bytes>2256</file-size-bytes>
+  </stream_ref>
+</doc>

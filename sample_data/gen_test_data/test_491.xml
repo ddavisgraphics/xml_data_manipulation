@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">520718</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Luthany</spatial>
+    <agent>Ironston University</agent>
+    <subject>36h3bfhy8w</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Baelor Targaryen</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>slrw9vf2ol</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rw48uankp3</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>message/rfc822</mime-type>
+    <directory-path>path/to/est.key</directory-path>
+    <file-id type="integer">320196</file-id>
+    <storage-id type="integer">149779</storage-id>
+    <external-type type="integer">733047</external-type>
+    <file-size-bytes>1280</file-size-bytes>
+  </stream_ref>
+</doc>

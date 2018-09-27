@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">384188</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Tol Brandir</spatial>
+    <agent>Iceborough Technical College</agent>
+    <subject>ay3d8bfpfx</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Rolph Spicer</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6tzrj0zq9q</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>t5ey2ckyqv</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>text/plain</mime-type>
+    <directory-path>path/to/labore.js</directory-path>
+    <file-id type="integer">763050</file-id>
+    <storage-id type="integer">399185</storage-id>
+    <external-type type="integer">269234</external-type>
+    <file-size-bytes>1056</file-size-bytes>
+  </stream_ref>
+</doc>

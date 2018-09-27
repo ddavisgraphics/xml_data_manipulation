@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">88692</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Warning beacons of Gondor</spatial>
+    <agent>Marblewald University</agent>
+    <subject>j5bj9sc0m5</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Tyene Sand</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4zsow088vd</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>c5z27w1snr</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>application/atom+xml</mime-type>
+    <directory-path>path/to/sit.wav</directory-path>
+    <file-id type="integer">909563</file-id>
+    <storage-id type="integer">582771</storage-id>
+    <external-type type="integer">95354</external-type>
+    <file-size-bytes>2480</file-size-bytes>
+  </stream_ref>
+</doc>

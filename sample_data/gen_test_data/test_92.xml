@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">134546</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Tol-in-Gaurhoth</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>k6h5jzfndm</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Shyra Errol</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>mwx8mz3vlz</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>6e53eeavi6</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>application/ecmascript</mime-type>
+    <directory-path>path/to/minima.xlsx</directory-path>
+    <file-id type="integer">633699</file-id>
+    <storage-id type="integer">799246</storage-id>
+    <external-type type="integer">320422</external-type>
+    <file-size-bytes>1024</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">870487</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Isengard</spatial>
+    <agent>Marblewald College</agent>
+    <subject>rz0it1w0nc</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Tytos Frey</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>wefwdjt5vt</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vw6vbe9zkw</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>application/atom+xml</mime-type>
+    <directory-path>path/to/sunt.flac</directory-path>
+    <file-id type="integer">370613</file-id>
+    <storage-id type="integer">633485</storage-id>
+    <external-type type="integer">278615</external-type>
+    <file-size-bytes>272</file-size-bytes>
+  </stream_ref>
+</doc>

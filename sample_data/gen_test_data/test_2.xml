@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">280097</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Tol-in-Gaurhoth</spatial>
+    <agent>Falconholt Technical College</agent>
+    <subject>mcomfevnhq</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Tion Frey</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>om68seddos</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>d3pu6pmf4f</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>message/partial</mime-type>
+    <directory-path>path/to/aut.json</directory-path>
+    <file-id type="integer">365423</file-id>
+    <storage-id type="integer">172653</storage-id>
+    <external-type type="integer">674329</external-type>
+    <file-size-bytes>3168</file-size-bytes>
+  </stream_ref>
+</doc>

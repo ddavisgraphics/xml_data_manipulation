@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">799058</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Maglor's Gap</spatial>
+    <agent>Marblewald University</agent>
+    <subject>mjoesmgbau</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Jurne</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>msrftagu2y</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>enfd0qqdwc</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>multipart/signed</mime-type>
+    <directory-path>path/to/voluptate.png</directory-path>
+    <file-id type="integer">690579</file-id>
+    <storage-id type="integer">375535</storage-id>
+    <external-type type="integer">998476</external-type>
+    <file-size-bytes>2592</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">856493</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Eithel Sirion</spatial>
+    <agent>Lakeacre TAFE</agent>
+    <subject>k3in8b0kdl</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Alysanne Bulwer</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>tff08acl11</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>j6edned68s</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>application/postscript</mime-type>
+    <directory-path>path/to/quasi.numbers</directory-path>
+    <file-id type="integer">648582</file-id>
+    <storage-id type="integer">19673</storage-id>
+    <external-type type="integer">893937</external-type>
+    <file-size-bytes>352</file-size-bytes>
+  </stream_ref>
+</doc>

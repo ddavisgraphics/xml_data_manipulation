@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">679743</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Old Ford</spatial>
+    <agent>Falconholt College</agent>
+    <subject>5zq3sa2dn3</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Denys Redwyne</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>unznur2guo</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>yvc9swxx61</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/cum.ods</directory-path>
+    <file-id type="integer">68759</file-id>
+    <storage-id type="integer">92098</storage-id>
+    <external-type type="integer">185849</external-type>
+    <file-size-bytes>1488</file-size-bytes>
+  </stream_ref>
+</doc>

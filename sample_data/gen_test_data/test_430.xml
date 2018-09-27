@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">841072</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Barad-dûr</spatial>
+    <agent>Mallowtown Technical College</agent>
+    <subject>i1ikfsz85y</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Sybell Spicer</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>npcf0tf30j</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>afzy40izem</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/in.csv</directory-path>
+    <file-id type="integer">47894</file-id>
+    <storage-id type="integer">451298</storage-id>
+    <external-type type="integer">926866</external-type>
+    <file-size-bytes>2608</file-size-bytes>
+  </stream_ref>
+</doc>

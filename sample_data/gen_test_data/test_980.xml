@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">801850</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Meduseld</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>f1e7bqrisg</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Aemond Targaryen</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>xweokumizq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>clfkys0lkm</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>application/atom+xml</mime-type>
+    <directory-path>path/to/maxime.mp4</directory-path>
+    <file-id type="integer">957781</file-id>
+    <storage-id type="integer">773154</storage-id>
+    <external-type type="integer">880858</external-type>
+    <file-size-bytes>2624</file-size-bytes>
+  </stream_ref>
+</doc>

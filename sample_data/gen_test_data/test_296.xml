@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">907879</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>East Road</spatial>
+    <agent>Ironbarrow TAFE</agent>
+    <subject>1dnjm8mqk2</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Osbert Serry</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ei45bch09s</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>l5mj814qeo</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/nihil.jpeg</directory-path>
+    <file-id type="integer">750692</file-id>
+    <storage-id type="integer">840126</storage-id>
+    <external-type type="integer">571107</external-type>
+    <file-size-bytes>1552</file-size-bytes>
+  </stream_ref>
+</doc>

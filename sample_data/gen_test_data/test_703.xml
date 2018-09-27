@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">770594</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Haudh-en-Nirnaeth</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>ia9osjeili</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Bethany Bracken</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>x4psmxjvdn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>w1e3pemihr</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>video/mpeg</mime-type>
+    <directory-path>path/to/ea.xlsx</directory-path>
+    <file-id type="integer">206314</file-id>
+    <storage-id type="integer">858424</storage-id>
+    <external-type type="integer">857425</external-type>
+    <file-size-bytes>1616</file-size-bytes>
+  </stream_ref>
+</doc>

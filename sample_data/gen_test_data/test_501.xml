@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">152914</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Black Gate</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>mhup1ohtyp</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Theo Wull</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>n91urlw9iq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qr5k0tr06h</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>message/http</mime-type>
+    <directory-path>path/to/magnam.flac</directory-path>
+    <file-id type="integer">720092</file-id>
+    <storage-id type="integer">206267</storage-id>
+    <external-type type="integer">968999</external-type>
+    <file-size-bytes>1392</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">598635</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Lakeacre College</agent>
+    <subject>4n2jtbp604</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Baelor I Targaryen</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ymvdg0td2b</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>87gozmshi9</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>audio/ogg</mime-type>
+    <directory-path>path/to/officiis.mp3</directory-path>
+    <file-id type="integer">550814</file-id>
+    <storage-id type="integer">721879</storage-id>
+    <external-type type="integer">90726</external-type>
+    <file-size-bytes>432</file-size-bytes>
+  </stream_ref>
+</doc>

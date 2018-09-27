@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">863133</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Aldburg</spatial>
+    <agent>Marblewald College</agent>
+    <subject>c0614mqjl9</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Jorgen</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>nznnw8n197</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>impte43d07</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>text/plain</mime-type>
+    <directory-path>path/to/vel.js</directory-path>
+    <file-id type="integer">863076</file-id>
+    <storage-id type="integer">828053</storage-id>
+    <external-type type="integer">161259</external-type>
+    <file-size-bytes>96</file-size-bytes>
+  </stream_ref>
+</doc>

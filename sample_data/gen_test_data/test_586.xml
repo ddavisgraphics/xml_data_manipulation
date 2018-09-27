@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">218171</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Máhanaxar</spatial>
+    <agent>Clearcourt TAFE</agent>
+    <subject>py5hbq46ge</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Todder</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>pu0doq5oj1</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>pp27az3p4f</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>application/javascript</mime-type>
+    <directory-path>path/to/est.jpeg</directory-path>
+    <file-id type="integer">773305</file-id>
+    <storage-id type="integer">971850</storage-id>
+    <external-type type="integer">254574</external-type>
+    <file-size-bytes>1920</file-size-bytes>
+  </stream_ref>
+</doc>

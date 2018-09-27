@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">80365</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Paths of the Dead</spatial>
+    <agent>Falconholt TAFE</agent>
+    <subject>4b9ae55593</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Branston Cuy</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>xkeqd64uzt</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bxxd0w4va5</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>model/example</mime-type>
+    <directory-path>path/to/eos.pptx</directory-path>
+    <file-id type="integer">904583</file-id>
+    <storage-id type="integer">950493</storage-id>
+    <external-type type="integer">338998</external-type>
+    <file-size-bytes>912</file-size-bytes>
+  </stream_ref>
+</doc>

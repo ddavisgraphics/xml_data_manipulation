@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">663348</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Isengard</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>4p0cl1zg23</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Renly Baratheon</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4drgten1qk</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>mzzr0ix8eb</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>model/iges</mime-type>
+    <directory-path>path/to/iste.odt</directory-path>
+    <file-id type="integer">196530</file-id>
+    <storage-id type="integer">39113</storage-id>
+    <external-type type="integer">221001</external-type>
+    <file-size-bytes>2736</file-size-bytes>
+  </stream_ref>
+</doc>

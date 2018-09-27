@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">283555</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Greenway</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>w12s4ssak3</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Selyse Florent</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>n36lztxpaq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>45ig93vmqh</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>image/gif</mime-type>
+    <directory-path>path/to/commodi.odt</directory-path>
+    <file-id type="integer">648216</file-id>
+    <storage-id type="integer">248480</storage-id>
+    <external-type type="integer">171277</external-type>
+    <file-size-bytes>2992</file-size-bytes>
+  </stream_ref>
+</doc>

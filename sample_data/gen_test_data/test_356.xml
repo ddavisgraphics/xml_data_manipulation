@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">904141</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>The Rivers and Beacon-Hills of Gondor</spatial>
+    <agent>Bluemeadow College</agent>
+    <subject>shdiwrmfjg</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Leonette Fossoway</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>i9nengebt5</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>aglv98coz7</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>video/x-flv</mime-type>
+    <directory-path>path/to/unde.jpg</directory-path>
+    <file-id type="integer">664557</file-id>
+    <storage-id type="integer">995315</storage-id>
+    <external-type type="integer">549421</external-type>
+    <file-size-bytes>896</file-size-bytes>
+  </stream_ref>
+</doc>

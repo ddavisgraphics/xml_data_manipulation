@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">213470</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Marish</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>9jgv3ab0gy</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Torrek</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>spm73e8abo</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>fx23xbmm0h</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>audio/vnd.rn-realaudio</mime-type>
+    <directory-path>path/to/tempora.ods</directory-path>
+    <file-id type="integer">845223</file-id>
+    <storage-id type="integer">712823</storage-id>
+    <external-type type="integer">208433</external-type>
+    <file-size-bytes>544</file-size-bytes>
+  </stream_ref>
+</doc>

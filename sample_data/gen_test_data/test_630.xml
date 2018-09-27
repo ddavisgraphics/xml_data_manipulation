@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">703778</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Orthanc</spatial>
+    <agent>Marblewald College</agent>
+    <subject>lrdkx8qhn7</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Eon Hunter</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>pqqv9phxee</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vx991nq12h</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>model/x3d+binary</mime-type>
+    <directory-path>path/to/ratione.jpeg</directory-path>
+    <file-id type="integer">782100</file-id>
+    <storage-id type="integer">468292</storage-id>
+    <external-type type="integer">558400</external-type>
+    <file-size-bytes>640</file-size-bytes>
+  </stream_ref>
+</doc>

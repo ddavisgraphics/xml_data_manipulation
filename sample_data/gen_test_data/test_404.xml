@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">953569</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>The Forsaken Inn</spatial>
+    <agent>Vertapple University</agent>
+    <subject>p6h87fitd8</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Gyles III Gardener</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>edc5lw8wxx</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bmetxemt8c</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/temporibus.xlsx</directory-path>
+    <file-id type="integer">382846</file-id>
+    <storage-id type="integer">922415</storage-id>
+    <external-type type="integer">508214</external-type>
+    <file-size-bytes>2160</file-size-bytes>
+  </stream_ref>
+</doc>

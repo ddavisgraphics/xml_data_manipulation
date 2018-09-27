@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">306604</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Losgar</spatial>
+    <agent>Iceborough Technical College</agent>
+    <subject>fsdovmtsqn</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Josua Willum</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5rmiq0e0yr</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>aa4qglacfa</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>video/mp4</mime-type>
+    <directory-path>path/to/et.csv</directory-path>
+    <file-id type="integer">620986</file-id>
+    <storage-id type="integer">109739</storage-id>
+    <external-type type="integer">734998</external-type>
+    <file-size-bytes>3152</file-size-bytes>
+  </stream_ref>
+</doc>

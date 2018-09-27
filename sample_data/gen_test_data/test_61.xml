@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">487367</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Pelennor Fields</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>l981otm75e</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Lyessa Flint</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>iwqcg1skd2</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>45af6uwzog</file-name>
+    <file-extension>numbers</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/officiis.tiff</directory-path>
+    <file-id type="integer">265137</file-id>
+    <storage-id type="integer">311936</storage-id>
+    <external-type type="integer">439733</external-type>
+    <file-size-bytes>1136</file-size-bytes>
+  </stream_ref>
+</doc>

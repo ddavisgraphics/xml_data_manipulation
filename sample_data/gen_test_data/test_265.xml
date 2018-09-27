@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">293558</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Isengard</spatial>
+    <agent>Mallowpond College</agent>
+    <subject>k7o9lf7vrk</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Alysanne Bulwer</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6c04v90xca</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>p74t0jqton</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>application/postscript</mime-type>
+    <directory-path>path/to/aut.mp4</directory-path>
+    <file-id type="integer">168875</file-id>
+    <storage-id type="integer">255083</storage-id>
+    <external-type type="integer">665370</external-type>
+    <file-size-bytes>1168</file-size-bytes>
+  </stream_ref>
+</doc>

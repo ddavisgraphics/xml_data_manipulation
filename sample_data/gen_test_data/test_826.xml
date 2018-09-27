@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">401443</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Tol Galen</spatial>
+    <agent>Brookville TAFE</agent>
+    <subject>lbfhckirh3</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Marwyn</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>r6qvr55q7p</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>42u4qdx7wj</file-name>
+    <file-extension>key</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/quis.json</directory-path>
+    <file-id type="integer">256661</file-id>
+    <storage-id type="integer">56309</storage-id>
+    <external-type type="integer">306260</external-type>
+    <file-size-bytes>2112</file-size-bytes>
+  </stream_ref>
+</doc>

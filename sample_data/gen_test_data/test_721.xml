@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">99152</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Bridge of Khazad-dûm</spatial>
+    <agent>Ostbarrow Technical College</agent>
+    <subject>hwegqw4rw4</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Gorne</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hw7vmzzfwu</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vj5jowatjo</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>audio/vorbis</mime-type>
+    <directory-path>path/to/qui.pages</directory-path>
+    <file-id type="integer">920933</file-id>
+    <storage-id type="integer">287044</storage-id>
+    <external-type type="integer">631960</external-type>
+    <file-size-bytes>2208</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">742004</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>Enchanted Isles</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>rd5hfvpej3</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Leyla Hightower</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>99io9vubag</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>gv8o3xtzwo</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>video/x-matroska</mime-type>
+    <directory-path>path/to/officia.pages</directory-path>
+    <file-id type="integer">168106</file-id>
+    <storage-id type="integer">843283</storage-id>
+    <external-type type="integer">222723</external-type>
+    <file-size-bytes>1488</file-size-bytes>
+  </stream_ref>
+</doc>

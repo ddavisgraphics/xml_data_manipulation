@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">308192</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Andustar</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>a4r3di80hm</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Harwin</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>mvhda4rppd</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>782cyhj0hi</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>model/iges</mime-type>
+    <directory-path>path/to/qui.flac</directory-path>
+    <file-id type="integer">248646</file-id>
+    <storage-id type="integer">258577</storage-id>
+    <external-type type="integer">219036</external-type>
+    <file-size-bytes>2128</file-size-bytes>
+  </stream_ref>
+</doc>

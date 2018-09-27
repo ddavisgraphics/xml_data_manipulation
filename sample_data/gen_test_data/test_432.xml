@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">807017</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Lothlorièn</spatial>
+    <agent>Iceborough TAFE</agent>
+    <subject>w8hb1bo0cp</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Lorimer</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>uxprwbcmpk</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>1s45o0q9il</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>video/quicktime</mime-type>
+    <directory-path>path/to/commodi.avi</directory-path>
+    <file-id type="integer">512622</file-id>
+    <storage-id type="integer">228826</storage-id>
+    <external-type type="integer">57641</external-type>
+    <file-size-bytes>3040</file-size-bytes>
+  </stream_ref>
+</doc>

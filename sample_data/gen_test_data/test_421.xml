@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">264943</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Gladden Fields</spatial>
+    <agent>Marblewald University</agent>
+    <subject>c6lql2umrj</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Eustace Osgrey</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>tsiz91ps4e</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>uq72t07zng</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>multipart/form-data</mime-type>
+    <directory-path>path/to/aut.csv</directory-path>
+    <file-id type="integer">353485</file-id>
+    <storage-id type="integer">669669</storage-id>
+    <external-type type="integer">521355</external-type>
+    <file-size-bytes>2624</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">418693</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Vertapple College</agent>
+    <subject>3u9ndv3lg3</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Cregan Stark</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>w6xwlzab59</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vnx02s92m0</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>video/ogg</mime-type>
+    <directory-path>path/to/officia.xlsx</directory-path>
+    <file-id type="integer">596131</file-id>
+    <storage-id type="integer">938104</storage-id>
+    <external-type type="integer">794683</external-type>
+    <file-size-bytes>144</file-size-bytes>
+  </stream_ref>
+</doc>

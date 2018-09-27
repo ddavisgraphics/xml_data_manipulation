@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">160521</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Eastfarthing</spatial>
+    <agent>Ironston Technical College</agent>
+    <subject>9rqidk2j0u</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Cleon</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>msf1vzif0i</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>cj6yllq0zb</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>image/gif</mime-type>
+    <directory-path>path/to/doloremque.wav</directory-path>
+    <file-id type="integer">709085</file-id>
+    <storage-id type="integer">658389</storage-id>
+    <external-type type="integer">748268</external-type>
+    <file-size-bytes>1248</file-size-bytes>
+  </stream_ref>
+</doc>

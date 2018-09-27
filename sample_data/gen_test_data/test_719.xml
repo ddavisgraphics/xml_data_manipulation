@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">534717</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Paths of the Dead</spatial>
+    <agent>Brookville University</agent>
+    <subject>g8vfpr5ibc</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Willis Wode</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ejuj9pkxt0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>idsyjvvgpj</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>message/http</mime-type>
+    <directory-path>path/to/debitis.doc</directory-path>
+    <file-id type="integer">139441</file-id>
+    <storage-id type="integer">624241</storage-id>
+    <external-type type="integer">140927</external-type>
+    <file-size-bytes>1248</file-size-bytes>
+  </stream_ref>
+</doc>

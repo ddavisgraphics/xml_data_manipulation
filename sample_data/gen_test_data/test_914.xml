@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">273549</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Gorgoroth</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>de0gu4i76s</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Wendell Webber</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>o9x4jkbs3n</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>97u1722evr</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>model/x3d+xml</mime-type>
+    <directory-path>path/to/dolore.ods</directory-path>
+    <file-id type="integer">891019</file-id>
+    <storage-id type="integer">503620</storage-id>
+    <external-type type="integer">363039</external-type>
+    <file-size-bytes>1344</file-size-bytes>
+  </stream_ref>
+</doc>

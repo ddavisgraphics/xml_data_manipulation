@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">790801</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Bag End</spatial>
+    <agent>Lakeacre College</agent>
+    <subject>dx4fxjhwu7</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Ronnel Harclay</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gx6fnas7wj</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>91zoxn1j8w</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>application/atom+xml</mime-type>
+    <directory-path>path/to/perferendis.avi</directory-path>
+    <file-id type="integer">182482</file-id>
+    <storage-id type="integer">360992</storage-id>
+    <external-type type="integer">399389</external-type>
+    <file-size-bytes>2544</file-size-bytes>
+  </stream_ref>
+</doc>

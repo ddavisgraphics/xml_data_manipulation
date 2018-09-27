@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">737432</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Máhanaxar</spatial>
+    <agent>Brookville College</agent>
+    <subject>f7se412mq6</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Harmune</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gv5qfl77qk</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>o6xr0r1xqw</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>audio/L24</mime-type>
+    <directory-path>path/to/ex.gif</directory-path>
+    <file-id type="integer">335870</file-id>
+    <storage-id type="integer">649007</storage-id>
+    <external-type type="integer">790196</external-type>
+    <file-size-bytes>1088</file-size-bytes>
+  </stream_ref>
+</doc>

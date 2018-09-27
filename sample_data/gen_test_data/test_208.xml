@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">966230</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Minhiriath</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>ci0ont6jm1</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Qalen</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9do05u201y</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kdvjv6szgf</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>application/font-woff</mime-type>
+    <directory-path>path/to/quod.xlsx</directory-path>
+    <file-id type="integer">737620</file-id>
+    <storage-id type="integer">873703</storage-id>
+    <external-type type="integer">403461</external-type>
+    <file-size-bytes>2656</file-size-bytes>
+  </stream_ref>
+</doc>

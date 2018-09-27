@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">95159</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Gap of Rohan</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>cip71az031</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Morra</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kxed8zgkkn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>8j90619k8z</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/autem.ods</directory-path>
+    <file-id type="integer">806028</file-id>
+    <storage-id type="integer">367364</storage-id>
+    <external-type type="integer">503749</external-type>
+    <file-size-bytes>640</file-size-bytes>
+  </stream_ref>
+</doc>

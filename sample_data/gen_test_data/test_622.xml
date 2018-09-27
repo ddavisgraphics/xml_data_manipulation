@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">263292</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Rath Dínen</spatial>
+    <agent>Iceborough TAFE</agent>
+    <subject>9f1cbjhvlz</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Daenerys Targaryen</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>qr6j9sv4mo</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>yt1rxhphdl</file-name>
+    <file-extension>txt</file-extension>
+    <mime-type>application/EDIFACT</mime-type>
+    <directory-path>path/to/dolores.json</directory-path>
+    <file-id type="integer">994307</file-id>
+    <storage-id type="integer">816650</storage-id>
+    <external-type type="integer">196605</external-type>
+    <file-size-bytes>1024</file-size-bytes>
+  </stream_ref>
+</doc>

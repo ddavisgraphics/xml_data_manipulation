@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">820196</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Pelennor Fields</spatial>
+    <agent>Brookville TAFE</agent>
+    <subject>8ve98am78n</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Gascoyne of the Greenblood</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>8ecrlr4mfn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>py2rdzdwui</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>application/EDI-X12</mime-type>
+    <directory-path>path/to/veritatis.mov</directory-path>
+    <file-id type="integer">570803</file-id>
+    <storage-id type="integer">431842</storage-id>
+    <external-type type="integer">620129</external-type>
+    <file-size-bytes>944</file-size-bytes>
+  </stream_ref>
+</doc>

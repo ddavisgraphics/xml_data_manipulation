@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">861475</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Nargothrond</spatial>
+    <agent>Clearcourt TAFE</agent>
+    <subject>qqb4mggohm</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Pyg</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ey09y3f3oe</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>nxht2c2z0b</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>application/postscript</mime-type>
+    <directory-path>path/to/adipisci.mp3</directory-path>
+    <file-id type="integer">597825</file-id>
+    <storage-id type="integer">955636</storage-id>
+    <external-type type="integer">101115</external-type>
+    <file-size-bytes>1584</file-size-bytes>
+  </stream_ref>
+</doc>

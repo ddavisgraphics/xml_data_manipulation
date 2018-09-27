@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">938412</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Old Ford</spatial>
+    <agent>Mallowpond TAFE</agent>
+    <subject>ncutvb8h28</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Addam Frey</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>xgdepy0wva</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>7ji7iy5wmc</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>model/mesh</mime-type>
+    <directory-path>path/to/vero.xls</directory-path>
+    <file-id type="integer">760049</file-id>
+    <storage-id type="integer">911645</storage-id>
+    <external-type type="integer">377264</external-type>
+    <file-size-bytes>2400</file-size-bytes>
+  </stream_ref>
+</doc>

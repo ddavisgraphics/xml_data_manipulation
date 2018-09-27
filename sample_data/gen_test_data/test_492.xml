@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">543350</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Gap of Rohan</spatial>
+    <agent>Flowerlake College</agent>
+    <subject>grjxplp7ch</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Caleotte</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>fmcwhac1bn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>g7jv3ia6at</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/deserunt.docx</directory-path>
+    <file-id type="integer">11850</file-id>
+    <storage-id type="integer">293464</storage-id>
+    <external-type type="integer">391384</external-type>
+    <file-size-bytes>1408</file-size-bytes>
+  </stream_ref>
+</doc>

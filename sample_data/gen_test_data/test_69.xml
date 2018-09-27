@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">313272</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Eithel Sirion</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>y9jv01nkw0</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Eldred Codd</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>27qwaqh4b6</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bbe19yq45b</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>image/jpeg</mime-type>
+    <directory-path>path/to/aperiam.pages</directory-path>
+    <file-id type="integer">929828</file-id>
+    <storage-id type="integer">53655</storage-id>
+    <external-type type="integer">313046</external-type>
+    <file-size-bytes>3056</file-size-bytes>
+  </stream_ref>
+</doc>

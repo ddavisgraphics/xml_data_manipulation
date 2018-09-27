@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">504238</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Rivendell</spatial>
+    <agent>Iceborough Technical College</agent>
+    <subject>u7rkllro60</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Perra Frey</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kg36j0mk56</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>79s5hu284b</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/eos.odt</directory-path>
+    <file-id type="integer">210156</file-id>
+    <storage-id type="integer">970242</storage-id>
+    <external-type type="integer">377680</external-type>
+    <file-size-bytes>416</file-size-bytes>
+  </stream_ref>
+</doc>

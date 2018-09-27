@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">684512</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Warning beacons of Gondor</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>e8o6k5tjgi</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Lucas Blackwood</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9sv3pu5obu</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>odym5m23ra</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>application/pdf</mime-type>
+    <directory-path>path/to/aut.webm</directory-path>
+    <file-id type="integer">165765</file-id>
+    <storage-id type="integer">563211</storage-id>
+    <external-type type="integer">935411</external-type>
+    <file-size-bytes>2160</file-size-bytes>
+  </stream_ref>
+</doc>

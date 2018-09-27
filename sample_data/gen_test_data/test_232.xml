@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">154343</pid>
+  <record>
+    <creator>Barliman Butterbur</creator>
+    <spatial>Old Forest</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>x4ov3r6qmq</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Wolmer</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9vr7tkwu21</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ruxk2iuph3</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>text/xml</mime-type>
+    <directory-path>path/to/suscipit.xls</directory-path>
+    <file-id type="integer">568832</file-id>
+    <storage-id type="integer">305303</storage-id>
+    <external-type type="integer">958144</external-type>
+    <file-size-bytes>720</file-size-bytes>
+  </stream_ref>
+</doc>

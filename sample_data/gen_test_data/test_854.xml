@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">411813</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Aldburg</spatial>
+    <agent>Mallowtown College</agent>
+    <subject>l63dmoqkf9</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Gormond Goodbrother</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>px4lsrk9o3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>1xwmn0m135</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>multipart/related</mime-type>
+    <directory-path>path/to/ducimus.html</directory-path>
+    <file-id type="integer">679616</file-id>
+    <storage-id type="integer">613097</storage-id>
+    <external-type type="integer">970080</external-type>
+    <file-size-bytes>688</file-size-bytes>
+  </stream_ref>
+</doc>

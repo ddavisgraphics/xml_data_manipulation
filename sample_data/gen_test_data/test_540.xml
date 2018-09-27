@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">717761</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Orthanc</spatial>
+    <agent>Iceborough College</agent>
+    <subject>8it2f27i7g</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Steffon Frey</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5zjyq0rumw</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kuyjsanwm7</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>application/ecmascript</mime-type>
+    <directory-path>path/to/sed.pdf</directory-path>
+    <file-id type="integer">196379</file-id>
+    <storage-id type="integer">295849</storage-id>
+    <external-type type="integer">224497</external-type>
+    <file-size-bytes>592</file-size-bytes>
+  </stream_ref>
+</doc>

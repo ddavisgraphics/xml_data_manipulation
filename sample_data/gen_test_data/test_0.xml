@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">483310</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Argonath</spatial>
+    <agent>Falconholt University</agent>
+    <subject>hehr97fl09</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Willit</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>265n0b95ud</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>e6n583zlat</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>multipart/related</mime-type>
+    <directory-path>path/to/optio.png</directory-path>
+    <file-id type="integer">209403</file-id>
+    <storage-id type="integer">156120</storage-id>
+    <external-type type="integer">381234</external-type>
+    <file-size-bytes>2272</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">609346</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Fords of Isen</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>arjya8qlqp</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Mina Tyrell</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>wwo7m5j1pn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>uv8hlw42w8</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>application/xhtml+xml</mime-type>
+    <directory-path>path/to/facilis.ods</directory-path>
+    <file-id type="integer">55555</file-id>
+    <storage-id type="integer">140693</storage-id>
+    <external-type type="integer">364811</external-type>
+    <file-size-bytes>768</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">222989</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Warning beacons of Gondor</spatial>
+    <agent>Mallowtown University</agent>
+    <subject>wsrpuilbo9</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Alia</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>cq1hw4ko8y</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>aanm2jze7u</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>model/mesh</mime-type>
+    <directory-path>path/to/quis.wav</directory-path>
+    <file-id type="integer">862005</file-id>
+    <storage-id type="integer">944806</storage-id>
+    <external-type type="integer">535685</external-type>
+    <file-size-bytes>2464</file-size-bytes>
+  </stream_ref>
+</doc>

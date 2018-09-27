@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">703951</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Brighthurst College</agent>
+    <subject>b7n36wzil5</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Omer Blackberry</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>83fnuh3ig2</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>uwbeqe3djc</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>audio/vnd.wave</mime-type>
+    <directory-path>path/to/soluta.ods</directory-path>
+    <file-id type="integer">422173</file-id>
+    <storage-id type="integer">164800</storage-id>
+    <external-type type="integer">864438</external-type>
+    <file-size-bytes>2368</file-size-bytes>
+  </stream_ref>
+</doc>

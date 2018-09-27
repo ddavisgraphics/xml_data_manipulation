@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">134190</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Timeless Halls</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>piacdih7jb</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Lord Commander Hoare</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>uw1llorag3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>up0zy1ncyl</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>message/partial</mime-type>
+    <directory-path>path/to/aut.doc</directory-path>
+    <file-id type="integer">612094</file-id>
+    <storage-id type="integer">222581</storage-id>
+    <external-type type="integer">960762</external-type>
+    <file-size-bytes>2688</file-size-bytes>
+  </stream_ref>
+</doc>

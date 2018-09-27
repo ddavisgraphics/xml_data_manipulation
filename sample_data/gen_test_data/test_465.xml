@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">943057</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>The Forsaken Inn</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>bmc7m87mdl</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Will</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>pjh9fih9b0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>sfsvjdnb81</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>video/quicktime</mime-type>
+    <directory-path>path/to/nisi.docx</directory-path>
+    <file-id type="integer">80973</file-id>
+    <storage-id type="integer">381522</storage-id>
+    <external-type type="integer">48898</external-type>
+    <file-size-bytes>256</file-size-bytes>
+  </stream_ref>
+</doc>

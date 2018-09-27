@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">21802</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>East Beleriand</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>gtgr45lm8k</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Cetheres</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>69ftk2oo4a</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vgst7g6pn4</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>application/EDI-X12</mime-type>
+    <directory-path>path/to/nostrum.mp4</directory-path>
+    <file-id type="integer">875318</file-id>
+    <storage-id type="integer">615771</storage-id>
+    <external-type type="integer">346525</external-type>
+    <file-size-bytes>1584</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">743747</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Paths of the Dead</spatial>
+    <agent>Brighthurst University</agent>
+    <subject>47t2dstr6l</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Ygon Oldfather</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>a49v1d534p</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>b61r9lft2j</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>message/imdn+xml</mime-type>
+    <directory-path>path/to/maiores.png</directory-path>
+    <file-id type="integer">267177</file-id>
+    <storage-id type="integer">165248</storage-id>
+    <external-type type="integer">304872</external-type>
+    <file-size-bytes>1856</file-size-bytes>
+  </stream_ref>
+</doc>

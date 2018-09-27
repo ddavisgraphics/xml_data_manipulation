@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">218636</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Narchost</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>2xnf7cwnny</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Martyn Rivers</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>3xuiv7zv1d</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>gtk6gse8xw</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/quos.flac</directory-path>
+    <file-id type="integer">209357</file-id>
+    <storage-id type="integer">791719</storage-id>
+    <external-type type="integer">539525</external-type>
+    <file-size-bytes>288</file-size-bytes>
+  </stream_ref>
+</doc>

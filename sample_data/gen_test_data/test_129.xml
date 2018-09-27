@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">881675</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Elostirion</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>toyh6u10bl</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Dale Drumm</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>j9mg7fcqkz</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>5yoksrmqbj</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>message/http</mime-type>
+    <directory-path>path/to/rem.jpg</directory-path>
+    <file-id type="integer">640240</file-id>
+    <storage-id type="integer">661190</storage-id>
+    <external-type type="integer">849171</external-type>
+    <file-size-bytes>1728</file-size-bytes>
+  </stream_ref>
+</doc>

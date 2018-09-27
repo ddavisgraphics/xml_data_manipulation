@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">993382</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Ilmen</spatial>
+    <agent>Brighthurst University</agent>
+    <subject>vkrcpdhgm0</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Illyrio Mopatis</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6hb3l69c6w</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>253opiefxd</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>image/jpeg</mime-type>
+    <directory-path>path/to/odit.ppt</directory-path>
+    <file-id type="integer">948313</file-id>
+    <storage-id type="integer">45359</storage-id>
+    <external-type type="integer">652379</external-type>
+    <file-size-bytes>1616</file-size-bytes>
+  </stream_ref>
+</doc>

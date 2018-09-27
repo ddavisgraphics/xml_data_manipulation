@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">703122</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Old Forest</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>1xlvyzhrm2</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Greenbeard</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2kq4nv8jge</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ec3t4zwbi8</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>video/x-flv</mime-type>
+    <directory-path>path/to/non.pages</directory-path>
+    <file-id type="integer">64450</file-id>
+    <storage-id type="integer">655753</storage-id>
+    <external-type type="integer">403257</external-type>
+    <file-size-bytes>2512</file-size-bytes>
+  </stream_ref>
+</doc>

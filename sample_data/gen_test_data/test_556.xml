@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">90139</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Haudh-en-Nirnaeth</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>28w29c9abw</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Selwyn Tarth</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>m04gifbj47</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>fo8d2g9gav</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>message/rfc822</mime-type>
+    <directory-path>path/to/voluptatem.ods</directory-path>
+    <file-id type="integer">444869</file-id>
+    <storage-id type="integer">281931</storage-id>
+    <external-type type="integer">696009</external-type>
+    <file-size-bytes>1056</file-size-bytes>
+  </stream_ref>
+</doc>

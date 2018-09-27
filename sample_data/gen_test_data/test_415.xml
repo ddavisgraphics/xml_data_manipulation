@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">157523</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Taur-en-Faroth</spatial>
+    <agent>Iceborough TAFE</agent>
+    <subject>74s0batxwg</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Enger</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4n425s34z0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>2o6js3t2m9</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>audio/mp4</mime-type>
+    <directory-path>path/to/provident.pptx</directory-path>
+    <file-id type="integer">481437</file-id>
+    <storage-id type="integer">141537</storage-id>
+    <external-type type="integer">482254</external-type>
+    <file-size-bytes>1360</file-size-bytes>
+  </stream_ref>
+</doc>

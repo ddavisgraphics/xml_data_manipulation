@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">547892</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Coldfells</spatial>
+    <agent>Mallowpond University</agent>
+    <subject>9zysaqdvn3</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Janei Lannister</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>veuppt3rzb</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vgy0i5gr5r</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>video/mp4</mime-type>
+    <directory-path>path/to/amet.xls</directory-path>
+    <file-id type="integer">435630</file-id>
+    <storage-id type="integer">656051</storage-id>
+    <external-type type="integer">960537</external-type>
+    <file-size-bytes>1568</file-size-bytes>
+  </stream_ref>
+</doc>

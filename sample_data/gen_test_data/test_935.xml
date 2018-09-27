@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">925515</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Old Forest</spatial>
+    <agent>Lakeacre Technical College</agent>
+    <subject>n0rbemzpdj</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Medger Cerwyn</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>jgvh1z3bhf</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>2dnbmkxo2j</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>message/http</mime-type>
+    <directory-path>path/to/aut.webm</directory-path>
+    <file-id type="integer">307674</file-id>
+    <storage-id type="integer">233120</storage-id>
+    <external-type type="integer">446262</external-type>
+    <file-size-bytes>2624</file-size-bytes>
+  </stream_ref>
+</doc>

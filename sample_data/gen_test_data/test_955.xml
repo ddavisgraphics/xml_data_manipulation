@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">933941</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>The Forsaken Inn</spatial>
+    <agent>Iceborough University</agent>
+    <subject>g9dlz7x00v</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Yoren</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>o0fp58vid5</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>473vs6b77t</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>video/mpeg</mime-type>
+    <directory-path>path/to/rerum.jpeg</directory-path>
+    <file-id type="integer">149620</file-id>
+    <storage-id type="integer">51085</storage-id>
+    <external-type type="integer">61108</external-type>
+    <file-size-bytes>1616</file-size-bytes>
+  </stream_ref>
+</doc>

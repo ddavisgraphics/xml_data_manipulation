@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">264768</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Falls of Rauros</spatial>
+    <agent>Lakeacre TAFE</agent>
+    <subject>v7b2j2o77p</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Joy Hill</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>0mmxocwgzz</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>zzyraupq1c</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>video/quicktime</mime-type>
+    <directory-path>path/to/est.mov</directory-path>
+    <file-id type="integer">355041</file-id>
+    <storage-id type="integer">613617</storage-id>
+    <external-type type="integer">386488</external-type>
+    <file-size-bytes>912</file-size-bytes>
+  </stream_ref>
+</doc>

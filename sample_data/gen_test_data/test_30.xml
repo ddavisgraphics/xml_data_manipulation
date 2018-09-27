@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">221895</pid>
+  <record>
+    <creator>Gimli</creator>
+    <spatial>Vista</spatial>
+    <agent>Lakeacre Technical College</agent>
+    <subject>lzgc9llm37</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Black Bernarr</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6yo4hm7c7x</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>h7g0yj2bkp</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>application/pdf</mime-type>
+    <directory-path>path/to/et.docx</directory-path>
+    <file-id type="integer">248469</file-id>
+    <storage-id type="integer">913303</storage-id>
+    <external-type type="integer">867305</external-type>
+    <file-size-bytes>208</file-size-bytes>
+  </stream_ref>
+</doc>

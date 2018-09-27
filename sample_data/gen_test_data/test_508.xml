@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">107899</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Haudh-en-Nirnaeth</spatial>
+    <agent>Lakeacre Technical College</agent>
+    <subject>cqgpg8p7gi</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Harwin Strong</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2nl1u5isfy</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ojhfs3411i</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>message/partial</mime-type>
+    <directory-path>path/to/perferendis.pdf</directory-path>
+    <file-id type="integer">513122</file-id>
+    <storage-id type="integer">583098</storage-id>
+    <external-type type="integer">331825</external-type>
+    <file-size-bytes>128</file-size-bytes>
+  </stream_ref>
+</doc>

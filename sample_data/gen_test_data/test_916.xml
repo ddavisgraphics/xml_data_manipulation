@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">877130</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Brookville Technical College</agent>
+    <subject>isgy9wrw2l</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Daemon Sand</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5girzrxx4j</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>04vpdx7s1z</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>model/x3d+binary</mime-type>
+    <directory-path>path/to/veritatis.wav</directory-path>
+    <file-id type="integer">795005</file-id>
+    <storage-id type="integer">390423</storage-id>
+    <external-type type="integer">631944</external-type>
+    <file-size-bytes>560</file-size-bytes>
+  </stream_ref>
+</doc>

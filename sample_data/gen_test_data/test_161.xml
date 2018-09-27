@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">687090</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Eä</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>ufw5aypyfi</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Gwayne Hightower</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>dtrp4vkd9f</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kkxlkvjvgd</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/sequi.bmp</directory-path>
+    <file-id type="integer">493417</file-id>
+    <storage-id type="integer">904959</storage-id>
+    <external-type type="integer">63694</external-type>
+    <file-size-bytes>1952</file-size-bytes>
+  </stream_ref>
+</doc>

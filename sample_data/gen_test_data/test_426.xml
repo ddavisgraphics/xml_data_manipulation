@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">891250</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Field of Celebrant</spatial>
+    <agent>Falconholt University</agent>
+    <subject>jw43kj808w</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Balman Byrch</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>cntlsz0yan</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>stbt0yabpi</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>application/xhtml+xml</mime-type>
+    <directory-path>path/to/in.webm</directory-path>
+    <file-id type="integer">387394</file-id>
+    <storage-id type="integer">120295</storage-id>
+    <external-type type="integer">228558</external-type>
+    <file-size-bytes>768</file-size-bytes>
+  </stream_ref>
+</doc>

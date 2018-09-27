@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">600500</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Pelennor Fields</spatial>
+    <agent>Lakeacre TAFE</agent>
+    <subject>le0vs5pi0v</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Leo Lefford</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>i73kngck4e</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>mgvocr7zox</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>message/rfc822</mime-type>
+    <directory-path>path/to/enim.ppt</directory-path>
+    <file-id type="integer">508187</file-id>
+    <storage-id type="integer">676431</storage-id>
+    <external-type type="integer">599271</external-type>
+    <file-size-bytes>3184</file-size-bytes>
+  </stream_ref>
+</doc>

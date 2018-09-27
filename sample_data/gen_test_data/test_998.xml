@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">723342</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Minas Tirith</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>qc3ccr11o8</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Rat Cook</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6uufark9n6</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>lruo7en1vm</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>application/font-woff</mime-type>
+    <directory-path>path/to/eius.key</directory-path>
+    <file-id type="integer">70572</file-id>
+    <storage-id type="integer">997787</storage-id>
+    <external-type type="integer">570337</external-type>
+    <file-size-bytes>1936</file-size-bytes>
+  </stream_ref>
+</doc>

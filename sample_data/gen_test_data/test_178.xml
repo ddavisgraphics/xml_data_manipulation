@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">933570</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Carchost</spatial>
+    <agent>Mallowtown Technical College</agent>
+    <subject>xlqk2rzvfq</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Halder</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ftp6yz439i</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ark9i7x4ot</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>video/mp4</mime-type>
+    <directory-path>path/to/sapiente.docx</directory-path>
+    <file-id type="integer">235365</file-id>
+    <storage-id type="integer">661018</storage-id>
+    <external-type type="integer">300538</external-type>
+    <file-size-bytes>2480</file-size-bytes>
+  </stream_ref>
+</doc>

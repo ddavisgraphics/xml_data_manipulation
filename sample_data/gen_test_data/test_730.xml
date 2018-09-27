@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">474582</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Aldburg</spatial>
+    <agent>Icelyn College</agent>
+    <subject>xg7e7guuir</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Janos Slynt</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kjjbrftxk6</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>oo3u0mhgr2</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>image/tiff</mime-type>
+    <directory-path>path/to/consequatur.mov</directory-path>
+    <file-id type="integer">335486</file-id>
+    <storage-id type="integer">300939</storage-id>
+    <external-type type="integer">567232</external-type>
+    <file-size-bytes>1664</file-size-bytes>
+  </stream_ref>
+</doc>

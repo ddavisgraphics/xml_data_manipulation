@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">128596</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Taur-im-Duinath</spatial>
+    <agent>Marblewald College</agent>
+    <subject>lm9jb3zt67</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Willit</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>mz99ltlymk</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4oxnv7r3z0</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>application/EDI-X12</mime-type>
+    <directory-path>path/to/esse.xls</directory-path>
+    <file-id type="integer">629291</file-id>
+    <storage-id type="integer">606140</storage-id>
+    <external-type type="integer">94631</external-type>
+    <file-size-bytes>2880</file-size-bytes>
+  </stream_ref>
+</doc>

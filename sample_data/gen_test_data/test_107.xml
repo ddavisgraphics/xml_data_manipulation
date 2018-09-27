@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">961105</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>East Road</spatial>
+    <agent>Ostbarrow Technical College</agent>
+    <subject>dj5eh107xk</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Kirth Vance</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>dzy0qilmm6</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>5wz9cshwl1</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>text/css</mime-type>
+    <directory-path>path/to/perferendis.css</directory-path>
+    <file-id type="integer">559589</file-id>
+    <storage-id type="integer">467659</storage-id>
+    <external-type type="integer">296836</external-type>
+    <file-size-bytes>1152</file-size-bytes>
+  </stream_ref>
+</doc>

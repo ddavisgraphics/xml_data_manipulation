@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">991731</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Rath Dínen</spatial>
+    <agent>Icelyn University</agent>
+    <subject>mjc0seibcr</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Rufus Leek</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>dwca1s66ox</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>26gqnyww0p</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>video/mp4</mime-type>
+    <directory-path>path/to/tempore.html</directory-path>
+    <file-id type="integer">457879</file-id>
+    <storage-id type="integer">134733</storage-id>
+    <external-type type="integer">61570</external-type>
+    <file-size-bytes>2272</file-size-bytes>
+  </stream_ref>
+</doc>

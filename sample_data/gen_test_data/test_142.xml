@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">365554</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Land of the Sun</spatial>
+    <agent>Falconholt University</agent>
+    <subject>l2xkf4iyg0</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Ollo Lophand</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>wlyg3jrlmm</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>8p53tj30qq</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/asperiores.mp3</directory-path>
+    <file-id type="integer">171339</file-id>
+    <storage-id type="integer">273843</storage-id>
+    <external-type type="integer">277357</external-type>
+    <file-size-bytes>1440</file-size-bytes>
+  </stream_ref>
+</doc>

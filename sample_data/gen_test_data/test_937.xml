@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">968653</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>The Void</spatial>
+    <agent>Vertapple College</agent>
+    <subject>dis1fee3t4</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Leo Tyrell</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>oh4ujtkpv7</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ruala9xzjo</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/non.pdf</directory-path>
+    <file-id type="integer">580024</file-id>
+    <storage-id type="integer">98056</storage-id>
+    <external-type type="integer">185793</external-type>
+    <file-size-bytes>1088</file-size-bytes>
+  </stream_ref>
+</doc>

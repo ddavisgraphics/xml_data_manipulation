@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">320968</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Narchost</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>mxkx6to1eu</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Jon Hollard</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>b5ciktou1f</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>xkvb7bmerd</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>model/vrml</mime-type>
+    <directory-path>path/to/maiores.odp</directory-path>
+    <file-id type="integer">725721</file-id>
+    <storage-id type="integer">132572</storage-id>
+    <external-type type="integer">877362</external-type>
+    <file-size-bytes>960</file-size-bytes>
+  </stream_ref>
+</doc>

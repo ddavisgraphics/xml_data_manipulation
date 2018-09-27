@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">806944</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Marish</spatial>
+    <agent>Flowerlake College</agent>
+    <subject>sd6bp2izsk</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Conn</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>mtoawyct82</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>h87y86dxv8</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>application/xop+xml</mime-type>
+    <directory-path>path/to/itaque.odp</directory-path>
+    <file-id type="integer">458284</file-id>
+    <storage-id type="integer">776977</storage-id>
+    <external-type type="integer">25740</external-type>
+    <file-size-bytes>1712</file-size-bytes>
+  </stream_ref>
+</doc>

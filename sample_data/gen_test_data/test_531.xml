@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">968559</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Old Forest Road</spatial>
+    <agent>Iceborough TAFE</agent>
+    <subject>rw9bpi46e7</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Pearse Caron</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>e7fzemm1qu</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>xbsqbfm6dy</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>model/x3d+binary</mime-type>
+    <directory-path>path/to/quam.mp3</directory-path>
+    <file-id type="integer">487667</file-id>
+    <storage-id type="integer">551880</storage-id>
+    <external-type type="integer">353007</external-type>
+    <file-size-bytes>2592</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">470778</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Meduseld</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>ci4h3rqygh</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Shiera Seastar</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>yg6b9l9pqw</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ml1d27vsh9</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/consequatur.mp3</directory-path>
+    <file-id type="integer">182550</file-id>
+    <storage-id type="integer">834847</storage-id>
+    <external-type type="integer">428894</external-type>
+    <file-size-bytes>992</file-size-bytes>
+  </stream_ref>
+</doc>

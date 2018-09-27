@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">186312</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>Parth Galen</spatial>
+    <agent>Vertapple University</agent>
+    <subject>o7mbjvo892</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Yorkel</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hqlumjgp88</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>isqbrruz0v</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>video/mp4</mime-type>
+    <directory-path>path/to/accusantium.txt</directory-path>
+    <file-id type="integer">580291</file-id>
+    <storage-id type="integer">884813</storage-id>
+    <external-type type="integer">242169</external-type>
+    <file-size-bytes>2864</file-size-bytes>
+  </stream_ref>
+</doc>

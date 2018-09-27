@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">884380</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Argonath</spatial>
+    <agent>Icelyn College</agent>
+    <subject>uo910shk81</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Turnip</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>w3nf4qgjgu</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>w4shdr8uih</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/maxime.ods</directory-path>
+    <file-id type="integer">875182</file-id>
+    <storage-id type="integer">441029</storage-id>
+    <external-type type="integer">778943</external-type>
+    <file-size-bytes>944</file-size-bytes>
+  </stream_ref>
+</doc>

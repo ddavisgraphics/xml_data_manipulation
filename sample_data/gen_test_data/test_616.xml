@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">86961</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Ilmen</spatial>
+    <agent>Mallowtown College</agent>
+    <subject>uh6xd46dj7</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Left Hand Lew</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>916dx51lnl</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>jks0602orh</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/voluptas.mp3</directory-path>
+    <file-id type="integer">589172</file-id>
+    <storage-id type="integer">519911</storage-id>
+    <external-type type="integer">975047</external-type>
+    <file-size-bytes>336</file-size-bytes>
+  </stream_ref>
+</doc>

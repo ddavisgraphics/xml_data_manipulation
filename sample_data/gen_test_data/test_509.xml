@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">891854</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Rivendell</spatial>
+    <agent>Vertapple University</agent>
+    <subject>uenfts2b8i</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Damon</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>8dmqk5jf2g</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4tfye0xg0z</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>video/mpeg</mime-type>
+    <directory-path>path/to/voluptas.jpeg</directory-path>
+    <file-id type="integer">497161</file-id>
+    <storage-id type="integer">778854</storage-id>
+    <external-type type="integer">247629</external-type>
+    <file-size-bytes>2800</file-size-bytes>
+  </stream_ref>
+</doc>

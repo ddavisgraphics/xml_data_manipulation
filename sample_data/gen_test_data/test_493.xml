@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">166258</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Bag End</spatial>
+    <agent>Mallowtown College</agent>
+    <subject>39q5vatt0z</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Ramsay Snow</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9d5l2r2b50</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>9sowqliudg</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>text/xml</mime-type>
+    <directory-path>path/to/fugiat.doc</directory-path>
+    <file-id type="integer">188904</file-id>
+    <storage-id type="integer">354053</storage-id>
+    <external-type type="integer">384873</external-type>
+    <file-size-bytes>1968</file-size-bytes>
+  </stream_ref>
+</doc>

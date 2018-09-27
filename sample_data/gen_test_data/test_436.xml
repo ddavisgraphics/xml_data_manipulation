@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">915956</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Aldburg</spatial>
+    <agent>Lakeacre Technical College</agent>
+    <subject>q7c2d2ns9k</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Corlys Velaryon</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>b8uv4yxknh</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0algf0od46</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/debitis.css</directory-path>
+    <file-id type="integer">797682</file-id>
+    <storage-id type="integer">870823</storage-id>
+    <external-type type="integer">985322</external-type>
+    <file-size-bytes>1696</file-size-bytes>
+  </stream_ref>
+</doc>

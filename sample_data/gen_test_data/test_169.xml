@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">538884</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Gap of Rohan</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>j9ahv0e4b0</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Leana Frey</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>0u2xtrryky</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>19z084c1tq</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/sapiente.ppt</directory-path>
+    <file-id type="integer">977843</file-id>
+    <storage-id type="integer">789088</storage-id>
+    <external-type type="integer">65593</external-type>
+    <file-size-bytes>2688</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">31848</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Ilmen</spatial>
+    <agent>Clearcourt TAFE</agent>
+    <subject>qdwili3g7m</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Meralyn</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>8j27h471re</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>svz8v1js8j</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>multipart/related</mime-type>
+    <directory-path>path/to/voluptatibus.odt</directory-path>
+    <file-id type="integer">209251</file-id>
+    <storage-id type="integer">794351</storage-id>
+    <external-type type="integer">779169</external-type>
+    <file-size-bytes>1440</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">965106</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Old Forest Road</spatial>
+    <agent>Falconholt University</agent>
+    <subject>1umr3h2esu</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Mace Tyrell</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>f08or7kod4</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>39wqlei1l2</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>image/jpeg</mime-type>
+    <directory-path>path/to/repudiandae.jpeg</directory-path>
+    <file-id type="integer">707131</file-id>
+    <storage-id type="integer">881238</storage-id>
+    <external-type type="integer">656763</external-type>
+    <file-size-bytes>160</file-size-bytes>
+  </stream_ref>
+</doc>

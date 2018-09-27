@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">454014</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Carchost</spatial>
+    <agent>Falconholt TAFE</agent>
+    <subject>ufpmbuil2c</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Moredo Prestayn</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>lf9nezuu7s</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>axy9rv3phe</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>audio/L24</mime-type>
+    <directory-path>path/to/sunt.odt</directory-path>
+    <file-id type="integer">859441</file-id>
+    <storage-id type="integer">305318</storage-id>
+    <external-type type="integer">683310</external-type>
+    <file-size-bytes>288</file-size-bytes>
+  </stream_ref>
+</doc>

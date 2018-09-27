@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">425632</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Narchost</spatial>
+    <agent>Ironston Technical College</agent>
+    <subject>0o9cqupuyx</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Rhaegel Targaryen</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>lmczysfe4b</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>u72ct84upz</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>application/json</mime-type>
+    <directory-path>path/to/expedita.pages</directory-path>
+    <file-id type="integer">236800</file-id>
+    <storage-id type="integer">737556</storage-id>
+    <external-type type="integer">250340</external-type>
+    <file-size-bytes>480</file-size-bytes>
+  </stream_ref>
+</doc>

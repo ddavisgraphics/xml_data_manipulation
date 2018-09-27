@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">219109</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Andustar</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>akzjfhjsmt</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Ben Blackthumb</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>269k9eenu6</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>7h1krcwgi3</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>application/EDI-X12</mime-type>
+    <directory-path>path/to/sunt.mov</directory-path>
+    <file-id type="integer">643065</file-id>
+    <storage-id type="integer">348815</storage-id>
+    <external-type type="integer">260916</external-type>
+    <file-size-bytes>1104</file-size-bytes>
+  </stream_ref>
+</doc>

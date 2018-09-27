@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">419531</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Regions of the Shire</spatial>
+    <agent>Ironston College</agent>
+    <subject>9emr8svs6f</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Eustace Osgrey</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>1yaehcusk8</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ee2o1r7sg2</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>video/x-ms-wmv</mime-type>
+    <directory-path>path/to/et.docx</directory-path>
+    <file-id type="integer">880894</file-id>
+    <storage-id type="integer">899291</storage-id>
+    <external-type type="integer">396826</external-type>
+    <file-size-bytes>2944</file-size-bytes>
+  </stream_ref>
+</doc>

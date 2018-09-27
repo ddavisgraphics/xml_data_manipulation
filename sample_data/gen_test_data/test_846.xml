@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">849558</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Barad-dûr</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>1gblg0hgvu</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Bethany Bolton</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>pw2fhvju9z</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>j0zk3sczoz</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>application/postscript</mime-type>
+    <directory-path>path/to/ad.css</directory-path>
+    <file-id type="integer">149002</file-id>
+    <storage-id type="integer">962721</storage-id>
+    <external-type type="integer">995805</external-type>
+    <file-size-bytes>944</file-size-bytes>
+  </stream_ref>
+</doc>

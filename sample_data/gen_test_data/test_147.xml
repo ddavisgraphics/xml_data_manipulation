@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">171344</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Marish</spatial>
+    <agent>Ostbarrow TAFE</agent>
+    <subject>vga120rfwk</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Dacey Mormont</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>8umfoq9p52</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>8yp5ytet5k</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>text/javascript</mime-type>
+    <directory-path>path/to/cumque.webm</directory-path>
+    <file-id type="integer">262817</file-id>
+    <storage-id type="integer">130806</storage-id>
+    <external-type type="integer">633889</external-type>
+    <file-size-bytes>2688</file-size-bytes>
+  </stream_ref>
+</doc>

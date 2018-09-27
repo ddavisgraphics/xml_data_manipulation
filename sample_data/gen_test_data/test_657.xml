@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">247427</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Losgar</spatial>
+    <agent>Lakeacre TAFE</agent>
+    <subject>dbf6ynk3k6</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Othor</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>qk3s657aqg</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>2lth8wfp1p</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>model/mesh</mime-type>
+    <directory-path>path/to/voluptas.js</directory-path>
+    <file-id type="integer">798834</file-id>
+    <storage-id type="integer">788690</storage-id>
+    <external-type type="integer">379472</external-type>
+    <file-size-bytes>160</file-size-bytes>
+  </stream_ref>
+</doc>

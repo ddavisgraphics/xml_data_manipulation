@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">323636</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Tol Galen</spatial>
+    <agent>Clearcourt TAFE</agent>
+    <subject>gj2k1htj4s</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Lester</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>f07urspxok</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>c6bc4prn45</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>video/quicktime</mime-type>
+    <directory-path>path/to/placeat.numbers</directory-path>
+    <file-id type="integer">616270</file-id>
+    <storage-id type="integer">288743</storage-id>
+    <external-type type="integer">653131</external-type>
+    <file-size-bytes>608</file-size-bytes>
+  </stream_ref>
+</doc>

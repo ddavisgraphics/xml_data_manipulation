@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">198801</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>Núath</spatial>
+    <agent>Lakeacre TAFE</agent>
+    <subject>ek1sdt89zq</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Melly</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5y35phj1an</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>nis30vdzoi</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>application/EDI-X12</mime-type>
+    <directory-path>path/to/ipsa.avi</directory-path>
+    <file-id type="integer">216790</file-id>
+    <storage-id type="integer">468066</storage-id>
+    <external-type type="integer">474006</external-type>
+    <file-size-bytes>2272</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">133056</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Tol Morwen</spatial>
+    <agent>Flowerlake College</agent>
+    <subject>vi6fh7h7qh</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Endrew Tarth</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>g3ujqsp1xq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>sr51ix48x9</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/quasi.gif</directory-path>
+    <file-id type="integer">405390</file-id>
+    <storage-id type="integer">697976</storage-id>
+    <external-type type="integer">415705</external-type>
+    <file-size-bytes>672</file-size-bytes>
+  </stream_ref>
+</doc>

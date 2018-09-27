@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">109170</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Losgar</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>il27ucb50q</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Olymer Tyrell</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vdaibsixzp</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rcwymei854</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>application/postscript</mime-type>
+    <directory-path>path/to/modi.pptx</directory-path>
+    <file-id type="integer">178682</file-id>
+    <storage-id type="integer">300367</storage-id>
+    <external-type type="integer">193016</external-type>
+    <file-size-bytes>2176</file-size-bytes>
+  </stream_ref>
+</doc>

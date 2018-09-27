@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">520700</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Pelennor Fields</spatial>
+    <agent>Icelyn TAFE</agent>
+    <subject>fiaho0fnj5</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Jyana</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>7xl7p8bv9q</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ig9sodz9dy</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/beatae.tiff</directory-path>
+    <file-id type="integer">321129</file-id>
+    <storage-id type="integer">437975</storage-id>
+    <external-type type="integer">660370</external-type>
+    <file-size-bytes>2352</file-size-bytes>
+  </stream_ref>
+</doc>

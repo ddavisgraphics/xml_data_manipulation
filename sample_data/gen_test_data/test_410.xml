@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">464301</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Black Gate</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>ym2pc5hpo3</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Boy</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9264q67msy</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>3gas5gs0rm</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>application/rss+xml</mime-type>
+    <directory-path>path/to/harum.mp3</directory-path>
+    <file-id type="integer">336072</file-id>
+    <storage-id type="integer">586282</storage-id>
+    <external-type type="integer">952177</external-type>
+    <file-size-bytes>1104</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">584648</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Elostirion</spatial>
+    <agent>Ostbarrow University</agent>
+    <subject>ax4kygej54</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Roger Ryswell</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>bedzbs53kj</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>oszd5q7nqv</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>audio/mp4</mime-type>
+    <directory-path>path/to/sint.pages</directory-path>
+    <file-id type="integer">742160</file-id>
+    <storage-id type="integer">594141</storage-id>
+    <external-type type="integer">964217</external-type>
+    <file-size-bytes>48</file-size-bytes>
+  </stream_ref>
+</doc>

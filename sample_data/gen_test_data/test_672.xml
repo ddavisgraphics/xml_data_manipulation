@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">543424</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Tol Morwen</spatial>
+    <agent>Ironbarrow TAFE</agent>
+    <subject>vhxlp7izui</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Lew</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6c6w0aj3ai</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0kqkgmwurw</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>message/http</mime-type>
+    <directory-path>path/to/qui.docx</directory-path>
+    <file-id type="integer">991991</file-id>
+    <storage-id type="integer">738215</storage-id>
+    <external-type type="integer">422378</external-type>
+    <file-size-bytes>256</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">279267</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Fords of Isen</spatial>
+    <agent>Bluemeadow College</agent>
+    <subject>wowlojerdu</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Rainbow Knight</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>m1tsheu3mi</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qcu9ph23il</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>multipart/related</mime-type>
+    <directory-path>path/to/dolore.mp4</directory-path>
+    <file-id type="integer">605128</file-id>
+    <storage-id type="integer">367848</storage-id>
+    <external-type type="integer">188561</external-type>
+    <file-size-bytes>2384</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">515850</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Carchost</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>bgx5v3xn93</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Durran</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5xnvqi38i8</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>z0tuiiozzc</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>text/cmd</mime-type>
+    <directory-path>path/to/porro.wav</directory-path>
+    <file-id type="integer">764244</file-id>
+    <storage-id type="integer">582381</storage-id>
+    <external-type type="integer">338276</external-type>
+    <file-size-bytes>1024</file-size-bytes>
+  </stream_ref>
+</doc>

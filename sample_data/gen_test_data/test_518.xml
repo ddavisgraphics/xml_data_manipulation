@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">447856</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Orthanc</spatial>
+    <agent>Clearcourt University</agent>
+    <subject>jrik9ujker</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Selmond Stackspear</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2w87p606to</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>wewfijxtnm</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>application/rdf+xml</mime-type>
+    <directory-path>path/to/sint.bmp</directory-path>
+    <file-id type="integer">184024</file-id>
+    <storage-id type="integer">377353</storage-id>
+    <external-type type="integer">582821</external-type>
+    <file-size-bytes>880</file-size-bytes>
+  </stream_ref>
+</doc>

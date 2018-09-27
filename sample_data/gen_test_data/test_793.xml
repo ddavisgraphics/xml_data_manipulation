@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">190301</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Meduseld</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>pisdubw26h</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Denys Mallister</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>qbtgdsk2zl</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>run90ftsjk</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>application/json</mime-type>
+    <directory-path>path/to/ducimus.txt</directory-path>
+    <file-id type="integer">725055</file-id>
+    <storage-id type="integer">181903</storage-id>
+    <external-type type="integer">410326</external-type>
+    <file-size-bytes>1136</file-size-bytes>
+  </stream_ref>
+</doc>

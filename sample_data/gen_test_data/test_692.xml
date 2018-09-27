@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">127137</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>The Forsaken Inn</spatial>
+    <agent>Mallowpond College</agent>
+    <subject>inuqmxwu8o</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Kezmya</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ljx369kwzl</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>gqxquu4lt1</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>audio/ogg</mime-type>
+    <directory-path>path/to/quasi.xls</directory-path>
+    <file-id type="integer">367529</file-id>
+    <storage-id type="integer">224288</storage-id>
+    <external-type type="integer">120956</external-type>
+    <file-size-bytes>1344</file-size-bytes>
+  </stream_ref>
+</doc>

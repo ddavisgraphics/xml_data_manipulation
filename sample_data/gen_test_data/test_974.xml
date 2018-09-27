@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">486799</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Tumladen</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>ys1hxhha20</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Garth Greenfield</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>d6bv72j1dm</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>us6izg7b2e</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>message/http</mime-type>
+    <directory-path>path/to/et.webm</directory-path>
+    <file-id type="integer">423416</file-id>
+    <storage-id type="integer">968151</storage-id>
+    <external-type type="integer">922036</external-type>
+    <file-size-bytes>1392</file-size-bytes>
+  </stream_ref>
+</doc>

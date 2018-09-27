@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">101408</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Luthany</spatial>
+    <agent>Mallowtown TAFE</agent>
+    <subject>stigyaexm5</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Duncan Targaryen</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>zh3n42imrt</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>aurcptlajn</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>video/quicktime</mime-type>
+    <directory-path>path/to/sunt.odt</directory-path>
+    <file-id type="integer">602891</file-id>
+    <storage-id type="integer">50652</storage-id>
+    <external-type type="integer">487717</external-type>
+    <file-size-bytes>3104</file-size-bytes>
+  </stream_ref>
+</doc>

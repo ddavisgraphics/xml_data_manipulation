@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">578169</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Eä</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>qmgrhhn6n3</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Cleon</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>uwp4hlmc3m</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>soo31p9jls</file-name>
+    <file-extension>key</file-extension>
+    <mime-type>application/rss+xml</mime-type>
+    <directory-path>path/to/fugiat.tiff</directory-path>
+    <file-id type="integer">223364</file-id>
+    <storage-id type="integer">92495</storage-id>
+    <external-type type="integer">601688</external-type>
+    <file-size-bytes>2448</file-size-bytes>
+  </stream_ref>
+</doc>

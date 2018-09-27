@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">763670</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Dol Guldur</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>j6c9ov20m6</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Urras Ironfoot</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>bhrd35bai0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bbxby508tb</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>text/html</mime-type>
+    <directory-path>path/to/architecto.mov</directory-path>
+    <file-id type="integer">270899</file-id>
+    <storage-id type="integer">886290</storage-id>
+    <external-type type="integer">620867</external-type>
+    <file-size-bytes>2880</file-size-bytes>
+  </stream_ref>
+</doc>

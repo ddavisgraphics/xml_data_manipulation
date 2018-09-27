@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">21140</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Fens of Serech</spatial>
+    <agent>Lakeacre College</agent>
+    <subject>p0q53tvvc4</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Alesander Staedmon</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>eq4fxiuk7t</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4nb5rkcm0m</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/nulla.pages</directory-path>
+    <file-id type="integer">573052</file-id>
+    <storage-id type="integer">567138</storage-id>
+    <external-type type="integer">817147</external-type>
+    <file-size-bytes>2704</file-size-bytes>
+  </stream_ref>
+</doc>

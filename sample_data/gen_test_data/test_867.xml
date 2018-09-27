@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">30074</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Regions of the Shire</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>y2hq1smivs</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Qyburn</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>0p90eiy0qx</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>tqub115132</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>video/x-flv</mime-type>
+    <directory-path>path/to/saepe.gif</directory-path>
+    <file-id type="integer">704402</file-id>
+    <storage-id type="integer">827947</storage-id>
+    <external-type type="integer">814470</external-type>
+    <file-size-bytes>3136</file-size-bytes>
+  </stream_ref>
+</doc>

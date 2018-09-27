@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">405938</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Old Ford</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>d65on2uh5l</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Jason Mallister</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2e903dkxfv</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vqszmzjyz2</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/qui.docx</directory-path>
+    <file-id type="integer">45357</file-id>
+    <storage-id type="integer">282400</storage-id>
+    <external-type type="integer">939570</external-type>
+    <file-size-bytes>16</file-size-bytes>
+  </stream_ref>
+</doc>

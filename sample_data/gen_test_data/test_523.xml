@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">539998</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>East Road</spatial>
+    <agent>Brookville University</agent>
+    <subject>zi96xjz0ch</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Rohanne Webber</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>s9mbe11s2z</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>n78kbyguhe</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/et.jpeg</directory-path>
+    <file-id type="integer">71365</file-id>
+    <storage-id type="integer">794856</storage-id>
+    <external-type type="integer">579444</external-type>
+    <file-size-bytes>320</file-size-bytes>
+  </stream_ref>
+</doc>

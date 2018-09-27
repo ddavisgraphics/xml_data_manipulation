@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">918996</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Gladden Fields</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>2nbrn92kd7</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Leyla Hightower</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>e93fpufztk</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>lh602di5jw</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>application/xop+xml</mime-type>
+    <directory-path>path/to/nostrum.docx</directory-path>
+    <file-id type="integer">754509</file-id>
+    <storage-id type="integer">270919</storage-id>
+    <external-type type="integer">201188</external-type>
+    <file-size-bytes>992</file-size-bytes>
+  </stream_ref>
+</doc>

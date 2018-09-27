@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">490281</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Núath</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>up1opcs4kk</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Barthogan Stark</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hex6u2pxir</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vljzae9xbq</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>application/EDIFACT</mime-type>
+    <directory-path>path/to/eveniet.mov</directory-path>
+    <file-id type="integer">938817</file-id>
+    <storage-id type="integer">716472</storage-id>
+    <external-type type="integer">440662</external-type>
+    <file-size-bytes>816</file-size-bytes>
+  </stream_ref>
+</doc>

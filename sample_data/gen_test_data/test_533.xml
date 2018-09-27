@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">826678</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Haudh-en-Nirnaeth</spatial>
+    <agent>Falconholt TAFE</agent>
+    <subject>0n0z74uj1h</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Urras Ironfoot</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>m1xtrqgo8i</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>fvww0o2c84</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/perspiciatis.numbers</directory-path>
+    <file-id type="integer">502699</file-id>
+    <storage-id type="integer">502767</storage-id>
+    <external-type type="integer">193667</external-type>
+    <file-size-bytes>1920</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">713087</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Doriath</spatial>
+    <agent>Ostbarrow Technical College</agent>
+    <subject>l40gpnswkp</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Marwyn Belmore</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>fr2opd81vy</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>mco6dpc7g9</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>application/json</mime-type>
+    <directory-path>path/to/consequuntur.png</directory-path>
+    <file-id type="integer">792880</file-id>
+    <storage-id type="integer">805535</storage-id>
+    <external-type type="integer">719935</external-type>
+    <file-size-bytes>64</file-size-bytes>
+  </stream_ref>
+</doc>

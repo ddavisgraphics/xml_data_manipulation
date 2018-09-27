@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">135455</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Coldfells</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>f2ytotdjt5</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Chella</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gtn8fziffv</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>3v0qrtuzbv</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>message/imdn+xml</mime-type>
+    <directory-path>path/to/aut.jpg</directory-path>
+    <file-id type="integer">737321</file-id>
+    <storage-id type="integer">681686</storage-id>
+    <external-type type="integer">853786</external-type>
+    <file-size-bytes>800</file-size-bytes>
+  </stream_ref>
+</doc>

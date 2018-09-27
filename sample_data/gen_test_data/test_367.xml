@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">352492</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Nargothrond</spatial>
+    <agent>Lakeacre College</agent>
+    <subject>62dugzxc6x</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Mycah</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5gf2z0rdyf</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rw2ntxmxms</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>application/pdf</mime-type>
+    <directory-path>path/to/consequatur.js</directory-path>
+    <file-id type="integer">399902</file-id>
+    <storage-id type="integer">127141</storage-id>
+    <external-type type="integer">815556</external-type>
+    <file-size-bytes>1696</file-size-bytes>
+  </stream_ref>
+</doc>

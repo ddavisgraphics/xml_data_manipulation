@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">285283</pid>
+  <record>
+    <creator>Barliman Butterbur</creator>
+    <spatial>Utumno</spatial>
+    <agent>Brookville College</agent>
+    <subject>aojxa56fou</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Quellon Botley</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>7wpl9z7tn2</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>2uzqx6glap</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/non.json</directory-path>
+    <file-id type="integer">821433</file-id>
+    <storage-id type="integer">284564</storage-id>
+    <external-type type="integer">365007</external-type>
+    <file-size-bytes>704</file-size-bytes>
+  </stream_ref>
+</doc>

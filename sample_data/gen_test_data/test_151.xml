@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">850283</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Paths of the Dead</spatial>
+    <agent>Lakeacre TAFE</agent>
+    <subject>hlj8i6ks44</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Brandon the Burner</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>tlvq2y05is</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>la8xgpq54k</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>application/xhtml+xml</mime-type>
+    <directory-path>path/to/quia.key</directory-path>
+    <file-id type="integer">528055</file-id>
+    <storage-id type="integer">392161</storage-id>
+    <external-type type="integer">948837</external-type>
+    <file-size-bytes>528</file-size-bytes>
+  </stream_ref>
+</doc>

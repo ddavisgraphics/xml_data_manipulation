@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">274495</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Helm's Deep</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>v53gczjrmp</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Lewis Lanster</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>1hda6o72gx</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>he10891vki</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/enim.css</directory-path>
+    <file-id type="integer">293621</file-id>
+    <storage-id type="integer">282126</storage-id>
+    <external-type type="integer">999403</external-type>
+    <file-size-bytes>256</file-size-bytes>
+  </stream_ref>
+</doc>

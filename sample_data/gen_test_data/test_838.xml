@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">835708</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Pelennor Fields</spatial>
+    <agent>Flowerlake College</agent>
+    <subject>gcv8m1q4vs</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Clement</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>yn2rpsxmug</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>yy22va9yuc</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>video/x-ms-wmv</mime-type>
+    <directory-path>path/to/impedit.json</directory-path>
+    <file-id type="integer">31910</file-id>
+    <storage-id type="integer">529431</storage-id>
+    <external-type type="integer">884615</external-type>
+    <file-size-bytes>2736</file-size-bytes>
+  </stream_ref>
+</doc>

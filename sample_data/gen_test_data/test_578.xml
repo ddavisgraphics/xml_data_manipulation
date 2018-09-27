@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">761085</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Warning beacons of Gondor</spatial>
+    <agent>Falconholt University</agent>
+    <subject>bso71kf4yl</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Alys Arryn</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>v6iyo3kaje</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>g1kf7bkfj9</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/quo.csv</directory-path>
+    <file-id type="integer">17212</file-id>
+    <storage-id type="integer">768469</storage-id>
+    <external-type type="integer">499762</external-type>
+    <file-size-bytes>1792</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">751534</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Minhiriath</spatial>
+    <agent>Mallowpond College</agent>
+    <subject>rm7i98hiex</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Tumberjon</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>e3b4ajg1of</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>8jke4b3h7s</file-name>
+    <file-extension>key</file-extension>
+    <mime-type>text/xml</mime-type>
+    <directory-path>path/to/aut.tiff</directory-path>
+    <file-id type="integer">461148</file-id>
+    <storage-id type="integer">225583</storage-id>
+    <external-type type="integer">779783</external-type>
+    <file-size-bytes>256</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">580598</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Timeless Halls</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>4du3vc4hwi</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Assadora of Ibben</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>0o83rlz71n</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>m5nwyc1lzy</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/sequi.odt</directory-path>
+    <file-id type="integer">138914</file-id>
+    <storage-id type="integer">117674</storage-id>
+    <external-type type="integer">18285</external-type>
+    <file-size-bytes>1056</file-size-bytes>
+  </stream_ref>
+</doc>

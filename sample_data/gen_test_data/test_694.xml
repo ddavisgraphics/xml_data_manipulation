@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">729102</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Black Gate</spatial>
+    <agent>Icelyn TAFE</agent>
+    <subject>my8d7jd2nk</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Coldhands</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>3ozrfau3ko</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>calrr88c3d</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>model/x3d+xml</mime-type>
+    <directory-path>path/to/libero.mp4</directory-path>
+    <file-id type="integer">823865</file-id>
+    <storage-id type="integer">257217</storage-id>
+    <external-type type="integer">916312</external-type>
+    <file-size-bytes>2064</file-size-bytes>
+  </stream_ref>
+</doc>

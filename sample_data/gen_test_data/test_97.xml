@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">291659</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Rath Dínen</spatial>
+    <agent>Ostbarrow TAFE</agent>
+    <subject>idr63zy8h5</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Mebble</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>veg4ojbknf</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>zc6g597yqj</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/quas.xlsx</directory-path>
+    <file-id type="integer">436168</file-id>
+    <storage-id type="integer">132912</storage-id>
+    <external-type type="integer">20869</external-type>
+    <file-size-bytes>32</file-size-bytes>
+  </stream_ref>
+</doc>

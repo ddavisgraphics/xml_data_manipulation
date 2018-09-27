@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">50740</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Endless Stair</spatial>
+    <agent>Icelyn University</agent>
+    <subject>qnbo8are4o</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Edderion Stark</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>10blcdvau7</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>k00wsu0b3s</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>model/example</mime-type>
+    <directory-path>path/to/vitae.odt</directory-path>
+    <file-id type="integer">297075</file-id>
+    <storage-id type="integer">567955</storage-id>
+    <external-type type="integer">434705</external-type>
+    <file-size-bytes>432</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">82141</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Maglor's Gap</spatial>
+    <agent>Ostbarrow TAFE</agent>
+    <subject>a3atz0fag3</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Alia</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>emcw8fnsh3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0imql4qb91</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>application/gzip</mime-type>
+    <directory-path>path/to/delectus.key</directory-path>
+    <file-id type="integer">344776</file-id>
+    <storage-id type="integer">803198</storage-id>
+    <external-type type="integer">841686</external-type>
+    <file-size-bytes>2400</file-size-bytes>
+  </stream_ref>
+</doc>

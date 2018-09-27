@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">434633</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Isle of Balar</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>5ubcfrsbe5</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Cregan Karstark</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>zvtxq9yw9z</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rgqfkkog2u</file-name>
+    <file-extension>doc</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/sed.pages</directory-path>
+    <file-id type="integer">92863</file-id>
+    <storage-id type="integer">38875</storage-id>
+    <external-type type="integer">538031</external-type>
+    <file-size-bytes>2480</file-size-bytes>
+  </stream_ref>
+</doc>

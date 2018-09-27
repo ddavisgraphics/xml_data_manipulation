@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">261155</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Crack of Doom</spatial>
+    <agent>Marblewald College</agent>
+    <subject>ni3vgua14w</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Old Tattersalt</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>73783vf76a</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kgfh6p3sse</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>audio/vorbis</mime-type>
+    <directory-path>path/to/magnam.pdf</directory-path>
+    <file-id type="integer">373919</file-id>
+    <storage-id type="integer">341310</storage-id>
+    <external-type type="integer">792483</external-type>
+    <file-size-bytes>2608</file-size-bytes>
+  </stream_ref>
+</doc>

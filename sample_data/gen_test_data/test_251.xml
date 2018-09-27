@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">737320</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Sarn Ford</spatial>
+    <agent>Ironston University</agent>
+    <subject>wtdqqy2kvm</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Raynald Westerling</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4wm0bkkpsa</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>dmj4exxds3</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>text/plain</mime-type>
+    <directory-path>path/to/sint.gif</directory-path>
+    <file-id type="integer">557467</file-id>
+    <storage-id type="integer">224039</storage-id>
+    <external-type type="integer">884155</external-type>
+    <file-size-bytes>1856</file-size-bytes>
+  </stream_ref>
+</doc>

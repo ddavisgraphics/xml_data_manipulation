@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">320008</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Rath Dínen</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>q3etw2muzm</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Lyle Crakehall</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>89ok93ugka</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>laujfxcz5f</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>multipart/form-data</mime-type>
+    <directory-path>path/to/autem.avi</directory-path>
+    <file-id type="integer">268226</file-id>
+    <storage-id type="integer">250070</storage-id>
+    <external-type type="integer">71070</external-type>
+    <file-size-bytes>848</file-size-bytes>
+  </stream_ref>
+</doc>

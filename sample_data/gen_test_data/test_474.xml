@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">31040</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Endless Stair</spatial>
+    <agent>Iceborough Technical College</agent>
+    <subject>9wko9ldtbw</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Zei</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6lati86jyj</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>sy7mjc6mx7</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/nobis.html</directory-path>
+    <file-id type="integer">642733</file-id>
+    <storage-id type="integer">197052</storage-id>
+    <external-type type="integer">980503</external-type>
+    <file-size-bytes>208</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">10786</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Inn of the Prancing Pony</spatial>
+    <agent>Bluemeadow College</agent>
+    <subject>uqduxz9dfc</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Dickon Frey</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>v2y82ny6xy</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bzpl3fsvdl</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>multipart/signed</mime-type>
+    <directory-path>path/to/voluptatibus.gif</directory-path>
+    <file-id type="integer">773062</file-id>
+    <storage-id type="integer">189856</storage-id>
+    <external-type type="integer">458872</external-type>
+    <file-size-bytes>2864</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">96367</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Land of the Sun</spatial>
+    <agent>Iceborough Technical College</agent>
+    <subject>nbxnepvw8a</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Jyana</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>b06ffmle54</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ew6j1hj3xp</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>multipart/form-data</mime-type>
+    <directory-path>path/to/dolore.doc</directory-path>
+    <file-id type="integer">235852</file-id>
+    <storage-id type="integer">751033</storage-id>
+    <external-type type="integer">512592</external-type>
+    <file-size-bytes>2992</file-size-bytes>
+  </stream_ref>
+</doc>

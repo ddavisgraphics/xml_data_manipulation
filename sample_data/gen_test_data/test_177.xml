@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">599486</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Rath Dínen</spatial>
+    <agent>Brookville College</agent>
+    <subject>p1fji7p7ft</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Ryella Royce</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>qiiw79keow</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>h04mbe9g0n</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>image/jpeg</mime-type>
+    <directory-path>path/to/quis.jpg</directory-path>
+    <file-id type="integer">129502</file-id>
+    <storage-id type="integer">921535</storage-id>
+    <external-type type="integer">279420</external-type>
+    <file-size-bytes>2336</file-size-bytes>
+  </stream_ref>
+</doc>

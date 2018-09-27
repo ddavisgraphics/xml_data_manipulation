@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">950482</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Enchanted Isles</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>iy7l301r9n</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Mad Huntsman</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kq8tvrgdqr</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rsjze3jvrm</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>multipart/related</mime-type>
+    <directory-path>path/to/labore.odp</directory-path>
+    <file-id type="integer">228059</file-id>
+    <storage-id type="integer">298704</storage-id>
+    <external-type type="integer">289849</external-type>
+    <file-size-bytes>1840</file-size-bytes>
+  </stream_ref>
+</doc>

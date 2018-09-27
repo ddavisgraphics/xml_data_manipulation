@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">304885</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Regions of the Shire</spatial>
+    <agent>Mallowpond TAFE</agent>
+    <subject>cfnbca5otc</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Loren Lannister</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>fj0gj5zk6b</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>1kfjviww0e</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>audio/mpeg</mime-type>
+    <directory-path>path/to/aliquam.avi</directory-path>
+    <file-id type="integer">497778</file-id>
+    <storage-id type="integer">690652</storage-id>
+    <external-type type="integer">852449</external-type>
+    <file-size-bytes>1184</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">152419</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Luthany</spatial>
+    <agent>Falconholt University</agent>
+    <subject>uv61hoe3ud</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Horas Redwyne</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>1akdyte690</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>z7vgc131tp</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>model/vrml</mime-type>
+    <directory-path>path/to/necessitatibus.gif</directory-path>
+    <file-id type="integer">500762</file-id>
+    <storage-id type="integer">307532</storage-id>
+    <external-type type="integer">254445</external-type>
+    <file-size-bytes>2240</file-size-bytes>
+  </stream_ref>
+</doc>

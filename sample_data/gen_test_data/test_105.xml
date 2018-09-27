@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">102434</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Tol Morwen</spatial>
+    <agent>Ostbarrow University</agent>
+    <subject>o17xig171c</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Tobbot</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gy7t6rdxlq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>f7h37b1kmv</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>image/gif</mime-type>
+    <directory-path>path/to/dolor.mp3</directory-path>
+    <file-id type="integer">603092</file-id>
+    <storage-id type="integer">677501</storage-id>
+    <external-type type="integer">345459</external-type>
+    <file-size-bytes>912</file-size-bytes>
+  </stream_ref>
+</doc>

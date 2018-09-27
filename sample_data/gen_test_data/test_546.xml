@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">671405</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Tol Galen</spatial>
+    <agent>Brookville University</agent>
+    <subject>defr6nbyhi</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Jacks</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ty0lgzclo7</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>lxap19rdeg</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/aut.pages</directory-path>
+    <file-id type="integer">486274</file-id>
+    <storage-id type="integer">140957</storage-id>
+    <external-type type="integer">575607</external-type>
+    <file-size-bytes>832</file-size-bytes>
+  </stream_ref>
+</doc>

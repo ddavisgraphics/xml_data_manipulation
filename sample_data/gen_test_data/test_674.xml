@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">367142</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Orthanc</spatial>
+    <agent>Ironbarrow College</agent>
+    <subject>rhilw6hkiu</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Gunthor Hightower</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ycbemjw74i</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>o011zo05tc</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>video/webm</mime-type>
+    <directory-path>path/to/explicabo.js</directory-path>
+    <file-id type="integer">966506</file-id>
+    <storage-id type="integer">601084</storage-id>
+    <external-type type="integer">77487</external-type>
+    <file-size-bytes>1712</file-size-bytes>
+  </stream_ref>
+</doc>

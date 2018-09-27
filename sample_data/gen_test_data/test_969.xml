@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">28069</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>0mpcdqwxpg</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Jon Vance</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>jpk4fi1w17</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>8ur9ticc4c</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>text/csv</mime-type>
+    <directory-path>path/to/velit.tiff</directory-path>
+    <file-id type="integer">712690</file-id>
+    <storage-id type="integer">233944</storage-id>
+    <external-type type="integer">894454</external-type>
+    <file-size-bytes>1824</file-size-bytes>
+  </stream_ref>
+</doc>

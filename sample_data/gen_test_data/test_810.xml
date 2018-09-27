@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">747937</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Pelennor Fields</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>hyu5ioagrt</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Lady of the Leaves</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>f1ecu7qk14</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kdo4jp5p4l</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>model/x3d+xml</mime-type>
+    <directory-path>path/to/cum.mp3</directory-path>
+    <file-id type="integer">366728</file-id>
+    <storage-id type="integer">585022</storage-id>
+    <external-type type="integer">120720</external-type>
+    <file-size-bytes>2224</file-size-bytes>
+  </stream_ref>
+</doc>

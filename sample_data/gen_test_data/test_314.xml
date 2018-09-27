@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">972500</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Enchanted Isles</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>lsq59dzxsl</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Steffon Frey</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>qe245gps2i</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>x5rds4zpsx</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>video/ogg</mime-type>
+    <directory-path>path/to/similique.ods</directory-path>
+    <file-id type="integer">242640</file-id>
+    <storage-id type="integer">49056</storage-id>
+    <external-type type="integer">52300</external-type>
+    <file-size-bytes>1264</file-size-bytes>
+  </stream_ref>
+</doc>

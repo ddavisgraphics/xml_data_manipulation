@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">484594</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Doors of Durin</spatial>
+    <agent>Iceborough TAFE</agent>
+    <subject>ahrppr00yu</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Damon Lannister</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>niy9l156wr</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>t1gvsh8qnj</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>text/plain</mime-type>
+    <directory-path>path/to/recusandae.csv</directory-path>
+    <file-id type="integer">379480</file-id>
+    <storage-id type="integer">196756</storage-id>
+    <external-type type="integer">399384</external-type>
+    <file-size-bytes>480</file-size-bytes>
+  </stream_ref>
+</doc>

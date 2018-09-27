@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">387246</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Vaiya</spatial>
+    <agent>Ironston College</agent>
+    <subject>7l9fwk0nu4</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Cragorn</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>nqy7gv5bms</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>f819fhh4xj</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>application/json</mime-type>
+    <directory-path>path/to/eius.csv</directory-path>
+    <file-id type="integer">965374</file-id>
+    <storage-id type="integer">375467</storage-id>
+    <external-type type="integer">428193</external-type>
+    <file-size-bytes>720</file-size-bytes>
+  </stream_ref>
+</doc>

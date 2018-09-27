@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">230129</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Losgar</spatial>
+    <agent>Ostbarrow University</agent>
+    <subject>z3zdnm66a8</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Pate of the Night's Watch</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gavuqn13mx</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>5vhf42tulo</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>image/gif</mime-type>
+    <directory-path>path/to/assumenda.json</directory-path>
+    <file-id type="integer">63506</file-id>
+    <storage-id type="integer">365953</storage-id>
+    <external-type type="integer">435010</external-type>
+    <file-size-bytes>48</file-size-bytes>
+  </stream_ref>
+</doc>

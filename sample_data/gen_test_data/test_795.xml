@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">573321</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Endless Stair</spatial>
+    <agent>Iceborough University</agent>
+    <subject>c0swp15iag</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Amabel</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hp0h0x0s0x</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>6y9epuim4l</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>video/quicktime</mime-type>
+    <directory-path>path/to/nihil.pptx</directory-path>
+    <file-id type="integer">305865</file-id>
+    <storage-id type="integer">430909</storage-id>
+    <external-type type="integer">912789</external-type>
+    <file-size-bytes>624</file-size-bytes>
+  </stream_ref>
+</doc>

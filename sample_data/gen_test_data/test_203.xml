@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">87811</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Warning beacons of Gondor</spatial>
+    <agent>Marblewald College</agent>
+    <subject>szohycachj</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Minisa Whent</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>qff0jngqbx</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>76oiky77di</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>video/x-matroska</mime-type>
+    <directory-path>path/to/distinctio.flac</directory-path>
+    <file-id type="integer">129949</file-id>
+    <storage-id type="integer">771234</storage-id>
+    <external-type type="integer">484696</external-type>
+    <file-size-bytes>2256</file-size-bytes>
+  </stream_ref>
+</doc>

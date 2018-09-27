@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">346619</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Haudh-en-Nirnaeth</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>3lrm0f4ope</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Poxy Tym</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>wln11ywoa9</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>mchb8hlenw</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>audio/vorbis</mime-type>
+    <directory-path>path/to/laboriosam.docx</directory-path>
+    <file-id type="integer">220536</file-id>
+    <storage-id type="integer">100399</storage-id>
+    <external-type type="integer">607064</external-type>
+    <file-size-bytes>1808</file-size-bytes>
+  </stream_ref>
+</doc>

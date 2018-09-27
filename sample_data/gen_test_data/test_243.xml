@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">703688</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Gladden Fields</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>vgr4zk4gee</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Endehar</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>d5dqwfkl87</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bec4llk0nu</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>application/pdf</mime-type>
+    <directory-path>path/to/magni.numbers</directory-path>
+    <file-id type="integer">583130</file-id>
+    <storage-id type="integer">164448</storage-id>
+    <external-type type="integer">883453</external-type>
+    <file-size-bytes>272</file-size-bytes>
+  </stream_ref>
+</doc>

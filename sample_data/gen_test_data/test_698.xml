@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">182933</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Maglor's Gap</spatial>
+    <agent>Ironbarrow University</agent>
+    <subject>8hz061k9tu</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Walder Rivers</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>3aeosqrlv7</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>649cd4q2z0</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/beatae.tiff</directory-path>
+    <file-id type="integer">573925</file-id>
+    <storage-id type="integer">703702</storage-id>
+    <external-type type="integer">179831</external-type>
+    <file-size-bytes>768</file-size-bytes>
+  </stream_ref>
+</doc>

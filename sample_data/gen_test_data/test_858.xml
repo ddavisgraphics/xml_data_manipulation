@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">231123</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Vaiya</spatial>
+    <agent>Brighthurst TAFE</agent>
+    <subject>93w2ouc8jz</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Stafford Lannister</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>sfs3acavrf</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>639m8q5gxm</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>model/iges</mime-type>
+    <directory-path>path/to/magni.xls</directory-path>
+    <file-id type="integer">117353</file-id>
+    <storage-id type="integer">179756</storage-id>
+    <external-type type="integer">976551</external-type>
+    <file-size-bytes>1568</file-size-bytes>
+  </stream_ref>
+</doc>

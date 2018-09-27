@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">855588</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>East Road</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>57r6q249d2</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Knight of Ninestars</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>nv8blwg1wt</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kmkn3fgvkk</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/aut.gif</directory-path>
+    <file-id type="integer">570013</file-id>
+    <storage-id type="integer">779499</storage-id>
+    <external-type type="integer">636947</external-type>
+    <file-size-bytes>3024</file-size-bytes>
+  </stream_ref>
+</doc>

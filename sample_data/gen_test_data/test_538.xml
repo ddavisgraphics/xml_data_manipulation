@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">629182</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Falls of Rauros</spatial>
+    <agent>Brighthurst College</agent>
+    <subject>9i9sywedlu</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Torwynd</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>c4smmyl641</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>oam8gncoyx</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>audio/ogg</mime-type>
+    <directory-path>path/to/dolores.odt</directory-path>
+    <file-id type="integer">556558</file-id>
+    <storage-id type="integer">671533</storage-id>
+    <external-type type="integer">924043</external-type>
+    <file-size-bytes>2208</file-size-bytes>
+  </stream_ref>
+</doc>

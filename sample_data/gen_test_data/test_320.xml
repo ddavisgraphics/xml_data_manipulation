@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">321560</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Enchanted Isles</spatial>
+    <agent>Clearcourt TAFE</agent>
+    <subject>3m8ns4v1mj</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Lord Caswell</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>m37qe0kqub</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>v1ywkk7pd6</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/voluptatem.txt</directory-path>
+    <file-id type="integer">691726</file-id>
+    <storage-id type="integer">781549</storage-id>
+    <external-type type="integer">86472</external-type>
+    <file-size-bytes>352</file-size-bytes>
+  </stream_ref>
+</doc>

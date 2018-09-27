@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">731892</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Ilmen</spatial>
+    <agent>Iceborough University</agent>
+    <subject>noo1b12osf</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Lorren</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hidyznsn1e</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>n72g434jj1</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>text/javascript</mime-type>
+    <directory-path>path/to/perferendis.xls</directory-path>
+    <file-id type="integer">516298</file-id>
+    <storage-id type="integer">130114</storage-id>
+    <external-type type="integer">72097</external-type>
+    <file-size-bytes>2208</file-size-bytes>
+  </stream_ref>
+</doc>

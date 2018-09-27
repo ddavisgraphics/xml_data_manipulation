@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">527371</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Isle of Balar</spatial>
+    <agent>Mallowpond Technical College</agent>
+    <subject>qsefnijtzo</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Ambrose Butterwell</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>e7dxni16kb</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bxkmvgxqx2</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>model/example</mime-type>
+    <directory-path>path/to/rerum.txt</directory-path>
+    <file-id type="integer">782198</file-id>
+    <storage-id type="integer">321777</storage-id>
+    <external-type type="integer">40812</external-type>
+    <file-size-bytes>1792</file-size-bytes>
+  </stream_ref>
+</doc>

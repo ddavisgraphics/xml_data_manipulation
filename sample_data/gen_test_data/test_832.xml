@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">316150</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Doriath</spatial>
+    <agent>Mallowpond TAFE</agent>
+    <subject>f2hgdresob</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Vortimer Crane</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>zm9j2f93tm</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vhu29oi3p9</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>audio/vnd.rn-realaudio</mime-type>
+    <directory-path>path/to/excepturi.key</directory-path>
+    <file-id type="integer">822567</file-id>
+    <storage-id type="integer">909724</storage-id>
+    <external-type type="integer">723766</external-type>
+    <file-size-bytes>2512</file-size-bytes>
+  </stream_ref>
+</doc>

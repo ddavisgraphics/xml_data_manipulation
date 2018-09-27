@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">79714</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Henneth Annûn</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>ihm0bkc620</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Aegor Rivers</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>cth99jv2vn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>5ozzrb4k32</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>model/x3d+binary</mime-type>
+    <directory-path>path/to/ea.odp</directory-path>
+    <file-id type="integer">748927</file-id>
+    <storage-id type="integer">605744</storage-id>
+    <external-type type="integer">775996</external-type>
+    <file-size-bytes>1472</file-size-bytes>
+  </stream_ref>
+</doc>

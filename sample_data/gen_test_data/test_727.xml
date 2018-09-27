@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">712734</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Inn of the Prancing Pony</spatial>
+    <agent>Ironston College</agent>
+    <subject>zvv7yos4bs</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Barbara Bracken</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>0mwroxich8</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>wom7wg0b0p</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>application/xhtml+xml</mime-type>
+    <directory-path>path/to/nihil.pptx</directory-path>
+    <file-id type="integer">607154</file-id>
+    <storage-id type="integer">784391</storage-id>
+    <external-type type="integer">657383</external-type>
+    <file-size-bytes>416</file-size-bytes>
+  </stream_ref>
+</doc>

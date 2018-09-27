@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">936802</pid>
+  <record>
+    <creator>Gimli</creator>
+    <spatial>Vaiya</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>t3r7ip3d7b</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Symond Frey</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5tfjuh3xf6</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>l26tbhkmo6</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>message/partial</mime-type>
+    <directory-path>path/to/impedit.wav</directory-path>
+    <file-id type="integer">954078</file-id>
+    <storage-id type="integer">203707</storage-id>
+    <external-type type="integer">994598</external-type>
+    <file-size-bytes>144</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">159751</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Eithel Sirion</spatial>
+    <agent>Brookville University</agent>
+    <subject>acvfnmxn5v</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Corliss Penny</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>275gt5vlmq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>a16g130kom</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>multipart/signed</mime-type>
+    <directory-path>path/to/nihil.mp4</directory-path>
+    <file-id type="integer">112657</file-id>
+    <storage-id type="integer">948896</storage-id>
+    <external-type type="integer">509123</external-type>
+    <file-size-bytes>2560</file-size-bytes>
+  </stream_ref>
+</doc>

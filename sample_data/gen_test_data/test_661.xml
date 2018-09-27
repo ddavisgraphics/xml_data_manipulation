@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">606471</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Dark Land</spatial>
+    <agent>Ostbarrow Technical College</agent>
+    <subject>d3sk8dp2q6</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Clement Crabb</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>801mwaucsa</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>q0g75iahf2</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>image/tiff</mime-type>
+    <directory-path>path/to/aut.html</directory-path>
+    <file-id type="integer">879712</file-id>
+    <storage-id type="integer">637136</storage-id>
+    <external-type type="integer">666100</external-type>
+    <file-size-bytes>2432</file-size-bytes>
+  </stream_ref>
+</doc>

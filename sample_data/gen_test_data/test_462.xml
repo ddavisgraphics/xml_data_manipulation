@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">935256</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Henneth Annûn</spatial>
+    <agent>Ironston Technical College</agent>
+    <subject>6v55gcln1k</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Balon Swann</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>n1c60r4ya2</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>364quv5hkl</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>video/webm</mime-type>
+    <directory-path>path/to/laboriosam.flac</directory-path>
+    <file-id type="integer">525780</file-id>
+    <storage-id type="integer">331303</storage-id>
+    <external-type type="integer">27047</external-type>
+    <file-size-bytes>1504</file-size-bytes>
+  </stream_ref>
+</doc>

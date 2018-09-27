@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">296867</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Lakeacre TAFE</agent>
+    <subject>m59ocsruk0</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Daemon II Blackfyre</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>i4e4n0x0uh</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>9ty9fiea3g</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/debitis.mp4</directory-path>
+    <file-id type="integer">525165</file-id>
+    <storage-id type="integer">771536</storage-id>
+    <external-type type="integer">79658</external-type>
+    <file-size-bytes>720</file-size-bytes>
+  </stream_ref>
+</doc>

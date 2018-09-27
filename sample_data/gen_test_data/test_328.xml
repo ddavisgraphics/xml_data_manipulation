@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">519128</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Tol Morwen</spatial>
+    <agent>Ironbarrow College</agent>
+    <subject>geov5yskq7</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Roelle</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ypnw14wgug</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>srdy5q8lz2</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>text/javascript</mime-type>
+    <directory-path>path/to/aut.gif</directory-path>
+    <file-id type="integer">624975</file-id>
+    <storage-id type="integer">417942</storage-id>
+    <external-type type="integer">156106</external-type>
+    <file-size-bytes>3072</file-size-bytes>
+  </stream_ref>
+</doc>

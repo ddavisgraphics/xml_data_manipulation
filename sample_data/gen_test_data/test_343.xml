@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">880399</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Lothlorièn</spatial>
+    <agent>Clearcourt TAFE</agent>
+    <subject>gvvvsdl1n8</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Qarl Quickaxe</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>okxruf3dau</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>2gpv7hhksi</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>text/html</mime-type>
+    <directory-path>path/to/enim.mov</directory-path>
+    <file-id type="integer">650578</file-id>
+    <storage-id type="integer">466989</storage-id>
+    <external-type type="integer">92030</external-type>
+    <file-size-bytes>2976</file-size-bytes>
+  </stream_ref>
+</doc>

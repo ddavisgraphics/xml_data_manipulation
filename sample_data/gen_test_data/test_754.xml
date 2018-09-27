@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">894051</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>6j83j83ncd</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Utt</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>408pmf9l67</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ska4jgyroa</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>model/mesh</mime-type>
+    <directory-path>path/to/repellendus.css</directory-path>
+    <file-id type="integer">797857</file-id>
+    <storage-id type="integer">421183</storage-id>
+    <external-type type="integer">559759</external-type>
+    <file-size-bytes>1440</file-size-bytes>
+  </stream_ref>
+</doc>

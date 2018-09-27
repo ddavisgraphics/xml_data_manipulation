@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">732916</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Crack of Doom</spatial>
+    <agent>Lakeacre College</agent>
+    <subject>6xzs4527ne</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Osmynd</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>8s7z7w82or</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>unzwmrnxul</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>video/quicktime</mime-type>
+    <directory-path>path/to/qui.webm</directory-path>
+    <file-id type="integer">365251</file-id>
+    <storage-id type="integer">689302</storage-id>
+    <external-type type="integer">678543</external-type>
+    <file-size-bytes>1184</file-size-bytes>
+  </stream_ref>
+</doc>

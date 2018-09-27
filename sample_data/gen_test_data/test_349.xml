@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">415131</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Eithel Sirion</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>48rwihlvcl</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Harwin Strong</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>oyx5dte7ug</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bhg21wbfi7</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>application/javascript</mime-type>
+    <directory-path>path/to/necessitatibus.xlsx</directory-path>
+    <file-id type="integer">38271</file-id>
+    <storage-id type="integer">678765</storage-id>
+    <external-type type="integer">127610</external-type>
+    <file-size-bytes>2048</file-size-bytes>
+  </stream_ref>
+</doc>

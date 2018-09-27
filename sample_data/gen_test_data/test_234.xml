@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">697223</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Ironston University</agent>
+    <subject>uk95vo6yoc</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Jenny</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>veljee30op</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ffd27pq8it</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>model/example</mime-type>
+    <directory-path>path/to/iusto.ppt</directory-path>
+    <file-id type="integer">135196</file-id>
+    <storage-id type="integer">237085</storage-id>
+    <external-type type="integer">61786</external-type>
+    <file-size-bytes>1296</file-size-bytes>
+  </stream_ref>
+</doc>

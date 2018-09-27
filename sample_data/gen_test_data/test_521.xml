@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">969747</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Marish</spatial>
+    <agent>Mallowpond Technical College</agent>
+    <subject>mfpeebhx56</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Emberlei Frey</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>or8nz0l5um</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0pahej3egn</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>model/mesh</mime-type>
+    <directory-path>path/to/nam.tiff</directory-path>
+    <file-id type="integer">475023</file-id>
+    <storage-id type="integer">737243</storage-id>
+    <external-type type="integer">253794</external-type>
+    <file-size-bytes>2944</file-size-bytes>
+  </stream_ref>
+</doc>

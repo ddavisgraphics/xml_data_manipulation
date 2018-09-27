@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">192702</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Dol Guldur</spatial>
+    <agent>Mallowtown University</agent>
+    <subject>984h36881s</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Edwyle Stark</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>h8o69ql34d</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>npnv4f4wfb</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/ut.wav</directory-path>
+    <file-id type="integer">421951</file-id>
+    <storage-id type="integer">970473</storage-id>
+    <external-type type="integer">560038</external-type>
+    <file-size-bytes>288</file-size-bytes>
+  </stream_ref>
+</doc>

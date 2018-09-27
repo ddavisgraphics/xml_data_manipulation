@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">29959</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Losgar</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>m6hyanoutx</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Bryen</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>jl85nniweg</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ivzrqgs2cl</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>message/rfc822</mime-type>
+    <directory-path>path/to/earum.jpeg</directory-path>
+    <file-id type="integer">40585</file-id>
+    <storage-id type="integer">816963</storage-id>
+    <external-type type="integer">941659</external-type>
+    <file-size-bytes>2048</file-size-bytes>
+  </stream_ref>
+</doc>

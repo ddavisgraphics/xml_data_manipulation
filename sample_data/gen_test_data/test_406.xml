@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">836342</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Haudh-en-Nirnaeth</spatial>
+    <agent>Clearcourt TAFE</agent>
+    <subject>r171dqjes1</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Alliser Thorne</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>desf8d91f5</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>s4d6uijco3</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>model/x3d+binary</mime-type>
+    <directory-path>path/to/necessitatibus.xls</directory-path>
+    <file-id type="integer">445038</file-id>
+    <storage-id type="integer">934350</storage-id>
+    <external-type type="integer">426700</external-type>
+    <file-size-bytes>416</file-size-bytes>
+  </stream_ref>
+</doc>

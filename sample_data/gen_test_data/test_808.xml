@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">472759</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Black Gate</spatial>
+    <agent>Mallowtown University</agent>
+    <subject>vkivh49nkw</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Maron Martell</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>eomf22k4aq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>crl4cuzhac</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>audio/ogg</mime-type>
+    <directory-path>path/to/asperiores.mp4</directory-path>
+    <file-id type="integer">389039</file-id>
+    <storage-id type="integer">612459</storage-id>
+    <external-type type="integer">367325</external-type>
+    <file-size-bytes>2272</file-size-bytes>
+  </stream_ref>
+</doc>

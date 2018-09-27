@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">447980</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Helm's Deep</spatial>
+    <agent>Mallowpond College</agent>
+    <subject>zyg11dzoss</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Runcel Hightower</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>xvu22f5v70</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0vbdn0y782</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>image/gif</mime-type>
+    <directory-path>path/to/doloremque.ods</directory-path>
+    <file-id type="integer">761667</file-id>
+    <storage-id type="integer">896698</storage-id>
+    <external-type type="integer">854616</external-type>
+    <file-size-bytes>2240</file-size-bytes>
+  </stream_ref>
+</doc>

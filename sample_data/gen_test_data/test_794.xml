@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">540616</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Sarn Ford</spatial>
+    <agent>Mallowpond TAFE</agent>
+    <subject>o4pfmghr99</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Gwayne Gaunt</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>1a64q4i14a</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>hzrv3xz6e2</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/tempore.gif</directory-path>
+    <file-id type="integer">754817</file-id>
+    <storage-id type="integer">420837</storage-id>
+    <external-type type="integer">90631</external-type>
+    <file-size-bytes>560</file-size-bytes>
+  </stream_ref>
+</doc>

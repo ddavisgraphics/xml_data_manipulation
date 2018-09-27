@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">604713</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Fords of Isen</spatial>
+    <agent>Iceborough College</agent>
+    <subject>dj7rqgvgxl</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Jaime Lannister</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>y5wgtp1nsl</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>xmvov25p6x</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/qui.wav</directory-path>
+    <file-id type="integer">68056</file-id>
+    <storage-id type="integer">316355</storage-id>
+    <external-type type="integer">687623</external-type>
+    <file-size-bytes>912</file-size-bytes>
+  </stream_ref>
+</doc>

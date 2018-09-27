@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">569503</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Enchanted Isles</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>wstofjgyjx</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Maris</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>929f5xp6ba</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>3sbptbcmfd</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>application/EDI-X12</mime-type>
+    <directory-path>path/to/facere.html</directory-path>
+    <file-id type="integer">259592</file-id>
+    <storage-id type="integer">38025</storage-id>
+    <external-type type="integer">769161</external-type>
+    <file-size-bytes>1312</file-size-bytes>
+  </stream_ref>
+</doc>

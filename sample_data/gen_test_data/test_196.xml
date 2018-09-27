@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">309063</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Eä</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>174w88lg4x</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Azor Ahai</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>bzpv5ilr6e</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>pr9zo0t0xe</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>application/EDIFACT</mime-type>
+    <directory-path>path/to/dignissimos.docx</directory-path>
+    <file-id type="integer">629642</file-id>
+    <storage-id type="integer">241918</storage-id>
+    <external-type type="integer">354790</external-type>
+    <file-size-bytes>3136</file-size-bytes>
+  </stream_ref>
+</doc>

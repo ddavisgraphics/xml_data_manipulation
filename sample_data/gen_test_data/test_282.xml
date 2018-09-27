@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">309528</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Utumno</spatial>
+    <agent>Ostbarrow TAFE</agent>
+    <subject>vpe4ex8vf2</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Rosey</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>on24o59tiq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>hp81my2rti</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>video/webm</mime-type>
+    <directory-path>path/to/et.webm</directory-path>
+    <file-id type="integer">202922</file-id>
+    <storage-id type="integer">213905</storage-id>
+    <external-type type="integer">479188</external-type>
+    <file-size-bytes>176</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">799494</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Utumno</spatial>
+    <agent>Lakeacre College</agent>
+    <subject>wwau5to6sy</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Victarion Greyjoy</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9lggzjlfvl</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>r25poy97td</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>model/mesh</mime-type>
+    <directory-path>path/to/nemo.xlsx</directory-path>
+    <file-id type="integer">293777</file-id>
+    <storage-id type="integer">767112</storage-id>
+    <external-type type="integer">676463</external-type>
+    <file-size-bytes>1792</file-size-bytes>
+  </stream_ref>
+</doc>

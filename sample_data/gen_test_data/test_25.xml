@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">999481</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Argonath</spatial>
+    <agent>Brookville College</agent>
+    <subject>8u6aertpfl</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Gerold Grafton</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hlivo623gj</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ysp1zl14y0</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>audio/mp4</mime-type>
+    <directory-path>path/to/provident.csv</directory-path>
+    <file-id type="integer">341678</file-id>
+    <storage-id type="integer">695361</storage-id>
+    <external-type type="integer">315470</external-type>
+    <file-size-bytes>1600</file-size-bytes>
+  </stream_ref>
+</doc>

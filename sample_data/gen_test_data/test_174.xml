@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">83343</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Vaiya</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>4frsayop7q</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Agrivane</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>al9wn29hgq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>by35etlehq</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>model/vrml</mime-type>
+    <directory-path>path/to/voluptate.pdf</directory-path>
+    <file-id type="integer">477756</file-id>
+    <storage-id type="integer">596402</storage-id>
+    <external-type type="integer">941225</external-type>
+    <file-size-bytes>448</file-size-bytes>
+  </stream_ref>
+</doc>

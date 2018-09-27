@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">399551</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Gladden Fields</spatial>
+    <agent>Ironston University</agent>
+    <subject>c3u08flshb</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Martyn Lannister</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>96p36dojx6</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qku50y0qsf</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>audio/ogg</mime-type>
+    <directory-path>path/to/sint.js</directory-path>
+    <file-id type="integer">929111</file-id>
+    <storage-id type="integer">276998</storage-id>
+    <external-type type="integer">214185</external-type>
+    <file-size-bytes>3168</file-size-bytes>
+  </stream_ref>
+</doc>

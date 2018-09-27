@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">324579</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Andustar</spatial>
+    <agent>Clearcourt University</agent>
+    <subject>0j7p8nxa9p</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Orbelo</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>b05mr5p3k7</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4xi6bj1guf</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/aspernatur.mov</directory-path>
+    <file-id type="integer">901481</file-id>
+    <storage-id type="integer">844928</storage-id>
+    <external-type type="integer">821998</external-type>
+    <file-size-bytes>2144</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">258261</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Bridge of Khazad-dûm</spatial>
+    <agent>Falconholt College</agent>
+    <subject>uzu5v2rnkb</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Redwyn</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>b8xghoiwh5</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rvq48ki8u6</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/hic.css</directory-path>
+    <file-id type="integer">450703</file-id>
+    <storage-id type="integer">810216</storage-id>
+    <external-type type="integer">90572</external-type>
+    <file-size-bytes>496</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">933541</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Taur-en-Faroth</spatial>
+    <agent>Marblewald TAFE</agent>
+    <subject>sx4xohfqld</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Melicent</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>cil2n2gm4p</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>mf7k2m6m8a</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>application/rdf+xml</mime-type>
+    <directory-path>path/to/aperiam.txt</directory-path>
+    <file-id type="integer">505424</file-id>
+    <storage-id type="integer">62922</storage-id>
+    <external-type type="integer">656367</external-type>
+    <file-size-bytes>48</file-size-bytes>
+  </stream_ref>
+</doc>

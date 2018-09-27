@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">327002</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Vertapple University</agent>
+    <subject>044hxg4ei5</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Lester</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>m9gw63dgd8</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>nfjo7d3h1i</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>image/jpeg</mime-type>
+    <directory-path>path/to/dolorem.odt</directory-path>
+    <file-id type="integer">513401</file-id>
+    <storage-id type="integer">186632</storage-id>
+    <external-type type="integer">588714</external-type>
+    <file-size-bytes>2464</file-size-bytes>
+  </stream_ref>
+</doc>

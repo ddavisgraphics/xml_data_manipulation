@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">857323</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>ex83zqxkw3</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Wun Weg Wun Dar Wun</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>1xjvmmdrgt</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ppicubg1gl</file-name>
+    <file-extension>numbers</file-extension>
+    <mime-type>message/imdn+xml</mime-type>
+    <directory-path>path/to/eos.xls</directory-path>
+    <file-id type="integer">41100</file-id>
+    <storage-id type="integer">592691</storage-id>
+    <external-type type="integer">68075</external-type>
+    <file-size-bytes>80</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">526259</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Losgar</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>eiv5gobu2e</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Falyse Stokeworth</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>nh298ljdrd</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>03qtrnodq9</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>video/x-matroska</mime-type>
+    <directory-path>path/to/numquam.tiff</directory-path>
+    <file-id type="integer">809006</file-id>
+    <storage-id type="integer">352610</storage-id>
+    <external-type type="integer">383669</external-type>
+    <file-size-bytes>832</file-size-bytes>
+  </stream_ref>
+</doc>

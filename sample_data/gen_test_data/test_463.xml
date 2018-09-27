@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">637473</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Greenway</spatial>
+    <agent>Mallowtown TAFE</agent>
+    <subject>nx220yjh1s</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Oro Tendyris</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>cnihfw5igo</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qhry9ao97f</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>video/quicktime</mime-type>
+    <directory-path>path/to/laudantium.wav</directory-path>
+    <file-id type="integer">189339</file-id>
+    <storage-id type="integer">643053</storage-id>
+    <external-type type="integer">155051</external-type>
+    <file-size-bytes>496</file-size-bytes>
+  </stream_ref>
+</doc>

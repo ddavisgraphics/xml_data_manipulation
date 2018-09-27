@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">168057</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Vaiya</spatial>
+    <agent>Mallowtown TAFE</agent>
+    <subject>vqzfdmrr2p</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Vortimer Crane</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2erhiksg7n</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>t9h844p8ki</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>message/imdn+xml</mime-type>
+    <directory-path>path/to/fugit.ppt</directory-path>
+    <file-id type="integer">433156</file-id>
+    <storage-id type="integer">146890</storage-id>
+    <external-type type="integer">665907</external-type>
+    <file-size-bytes>2432</file-size-bytes>
+  </stream_ref>
+</doc>

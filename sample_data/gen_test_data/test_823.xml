@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">590352</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Taur-en-Faroth</spatial>
+    <agent>Iceborough College</agent>
+    <subject>acezg51z9u</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Chataya</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>sw2ugz0nle</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ga2zfymt8c</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>video/quicktime</mime-type>
+    <directory-path>path/to/magni.tiff</directory-path>
+    <file-id type="integer">575523</file-id>
+    <storage-id type="integer">774214</storage-id>
+    <external-type type="integer">38454</external-type>
+    <file-size-bytes>1488</file-size-bytes>
+  </stream_ref>
+</doc>

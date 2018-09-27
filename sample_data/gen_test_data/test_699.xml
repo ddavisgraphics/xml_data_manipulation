@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">217290</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>The Void</spatial>
+    <agent>Ostbarrow Technical College</agent>
+    <subject>92niosmfv4</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Willamen Frey</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2oudpk5ex0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ho747edzwh</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/quod.css</directory-path>
+    <file-id type="integer">558588</file-id>
+    <storage-id type="integer">499673</storage-id>
+    <external-type type="integer">890525</external-type>
+    <file-size-bytes>1712</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">915314</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Haven of the Eldar</spatial>
+    <agent>Clearcourt University</agent>
+    <subject>uklrkog3md</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Chella</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kyxdcm0bup</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>wlbhg4uwu9</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>image/pjpeg</mime-type>
+    <directory-path>path/to/nulla.png</directory-path>
+    <file-id type="integer">488308</file-id>
+    <storage-id type="integer">722798</storage-id>
+    <external-type type="integer">463017</external-type>
+    <file-size-bytes>1840</file-size-bytes>
+  </stream_ref>
+</doc>

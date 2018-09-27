@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">249033</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Máhanaxar</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>4gep39hr54</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Terrence Kenning</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>k41aztvk4r</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rxynzqtsin</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>application/EDIFACT</mime-type>
+    <directory-path>path/to/ipsam.webm</directory-path>
+    <file-id type="integer">718571</file-id>
+    <storage-id type="integer">70265</storage-id>
+    <external-type type="integer">963820</external-type>
+    <file-size-bytes>2064</file-size-bytes>
+  </stream_ref>
+</doc>

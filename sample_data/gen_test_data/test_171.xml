@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">710444</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Old Forest Road</spatial>
+    <agent>Ostbarrow TAFE</agent>
+    <subject>lj1i75wmet</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Androw Ashford</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2skwpyhewh</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>97pqeue35g</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>model/vrml</mime-type>
+    <directory-path>path/to/incidunt.odp</directory-path>
+    <file-id type="integer">346746</file-id>
+    <storage-id type="integer">487465</storage-id>
+    <external-type type="integer">207791</external-type>
+    <file-size-bytes>3168</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">850103</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Bag End</spatial>
+    <agent>Icelyn College</agent>
+    <subject>klvixuyf0x</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Mylenda Caron</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>d91hbv2jvb</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>dh3sbve8uc</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>image/svg+xml</mime-type>
+    <directory-path>path/to/aut.mov</directory-path>
+    <file-id type="integer">369607</file-id>
+    <storage-id type="integer">121741</storage-id>
+    <external-type type="integer">328082</external-type>
+    <file-size-bytes>352</file-size-bytes>
+  </stream_ref>
+</doc>

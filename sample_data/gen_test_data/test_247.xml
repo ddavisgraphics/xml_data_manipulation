@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">227036</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Máhanaxar</spatial>
+    <agent>Ostbarrow TAFE</agent>
+    <subject>1elrq0phuy</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Royce Coldwater</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>8ckuafsndl</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>amiju6badc</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/laboriosam.mp4</directory-path>
+    <file-id type="integer">44245</file-id>
+    <storage-id type="integer">451740</storage-id>
+    <external-type type="integer">506941</external-type>
+    <file-size-bytes>2640</file-size-bytes>
+  </stream_ref>
+</doc>

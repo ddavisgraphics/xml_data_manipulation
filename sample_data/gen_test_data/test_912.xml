@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">900218</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Gladden Fields</spatial>
+    <agent>Mallowtown College</agent>
+    <subject>bo9jk4zita</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Triston Sunderland</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4zxyvi17ig</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>9264gpjil1</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>video/x-matroska</mime-type>
+    <directory-path>path/to/quis.css</directory-path>
+    <file-id type="integer">165597</file-id>
+    <storage-id type="integer">719495</storage-id>
+    <external-type type="integer">972008</external-type>
+    <file-size-bytes>2640</file-size-bytes>
+  </stream_ref>
+</doc>

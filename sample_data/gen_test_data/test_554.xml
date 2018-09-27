@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">172489</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Gladden Fields</spatial>
+    <agent>Ironbarrow College</agent>
+    <subject>0cnpfdy0d1</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Terrence Kenning</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>mfvtgvria4</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>o6gm79q8z1</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>application/xop+xml</mime-type>
+    <directory-path>path/to/deleniti.js</directory-path>
+    <file-id type="integer">650892</file-id>
+    <storage-id type="integer">380391</storage-id>
+    <external-type type="integer">993752</external-type>
+    <file-size-bytes>3120</file-size-bytes>
+  </stream_ref>
+</doc>

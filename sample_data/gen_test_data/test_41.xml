@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">48252</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Taur-im-Duinath</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>iigsldnn1c</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Jarl</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hk4z8mzr1x</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>uik855ex5o</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>image/pjpeg</mime-type>
+    <directory-path>path/to/qui.bmp</directory-path>
+    <file-id type="integer">751277</file-id>
+    <storage-id type="integer">919579</storage-id>
+    <external-type type="integer">872590</external-type>
+    <file-size-bytes>2896</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">514930</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Endless Stair</spatial>
+    <agent>Lakeacre College</agent>
+    <subject>gpblem7y4g</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Raynald Westerling</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>49i70ijg42</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>8b6efwlmbo</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>video/x-flv</mime-type>
+    <directory-path>path/to/omnis.doc</directory-path>
+    <file-id type="integer">531063</file-id>
+    <storage-id type="integer">621140</storage-id>
+    <external-type type="integer">45725</external-type>
+    <file-size-bytes>1232</file-size-bytes>
+  </stream_ref>
+</doc>

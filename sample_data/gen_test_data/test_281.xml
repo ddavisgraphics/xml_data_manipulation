@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">443753</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Vaiya</spatial>
+    <agent>Falconholt University</agent>
+    <subject>urkyhowb1w</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Tormund</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>7bikptt33c</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ceyo2yrpej</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>text/cmd</mime-type>
+    <directory-path>path/to/id.bmp</directory-path>
+    <file-id type="integer">794422</file-id>
+    <storage-id type="integer">616289</storage-id>
+    <external-type type="integer">537222</external-type>
+    <file-size-bytes>2880</file-size-bytes>
+  </stream_ref>
+</doc>

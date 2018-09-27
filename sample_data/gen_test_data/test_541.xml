@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">831774</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Núath</spatial>
+    <agent>Marblewald TAFE</agent>
+    <subject>3qpsm12ulo</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Grey Worm</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>v0b1nfr8tr</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>v1sf0k4scr</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>model/vrml</mime-type>
+    <directory-path>path/to/pariatur.tiff</directory-path>
+    <file-id type="integer">257800</file-id>
+    <storage-id type="integer">649641</storage-id>
+    <external-type type="integer">226466</external-type>
+    <file-size-bytes>672</file-size-bytes>
+  </stream_ref>
+</doc>

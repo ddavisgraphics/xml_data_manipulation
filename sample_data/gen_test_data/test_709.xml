@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">749250</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Land of the Sun</spatial>
+    <agent>Icelyn University</agent>
+    <subject>s3l6x81pz9</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Jasper Redfort</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>zpgdi15uao</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ynqlfx4jto</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>video/ogg</mime-type>
+    <directory-path>path/to/exercitationem.pages</directory-path>
+    <file-id type="integer">820409</file-id>
+    <storage-id type="integer">760622</storage-id>
+    <external-type type="integer">68718</external-type>
+    <file-size-bytes>384</file-size-bytes>
+  </stream_ref>
+</doc>

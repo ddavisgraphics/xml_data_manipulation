@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">877384</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>The Rivers and Beacon-Hills of Gondor</spatial>
+    <agent>Iceborough University</agent>
+    <subject>yz7kjizx6r</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Ygritte</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>98m8gm2x8k</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>9hho6mw7hc</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>model/vrml</mime-type>
+    <directory-path>path/to/libero.xlsx</directory-path>
+    <file-id type="integer">726810</file-id>
+    <storage-id type="integer">140468</storage-id>
+    <external-type type="integer">892498</external-type>
+    <file-size-bytes>304</file-size-bytes>
+  </stream_ref>
+</doc>

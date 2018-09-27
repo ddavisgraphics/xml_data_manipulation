@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">251428</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>East Road</spatial>
+    <agent>Mallowpond TAFE</agent>
+    <subject>s5rxv2duxk</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Brella</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ova39i8qbn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ur5efagyz0</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>model/x3d+xml</mime-type>
+    <directory-path>path/to/iusto.ods</directory-path>
+    <file-id type="integer">962412</file-id>
+    <storage-id type="integer">984458</storage-id>
+    <external-type type="integer">733860</external-type>
+    <file-size-bytes>2720</file-size-bytes>
+  </stream_ref>
+</doc>

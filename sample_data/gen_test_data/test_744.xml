@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">485414</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Helm's Deep</spatial>
+    <agent>Iceborough TAFE</agent>
+    <subject>fen4oir96z</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Lucifer Hardy</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2fzlr71lwg</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>y4p391ikyf</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/praesentium.odt</directory-path>
+    <file-id type="integer">784897</file-id>
+    <storage-id type="integer">905008</storage-id>
+    <external-type type="integer">282865</external-type>
+    <file-size-bytes>1488</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">273285</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Isenmouthe</spatial>
+    <agent>Vertapple Technical College</agent>
+    <subject>oth49orm98</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Belgrave</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ku9ldcvngq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qgp9ly2mtu</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/eaque.doc</directory-path>
+    <file-id type="integer">30178</file-id>
+    <storage-id type="integer">996481</storage-id>
+    <external-type type="integer">257787</external-type>
+    <file-size-bytes>2720</file-size-bytes>
+  </stream_ref>
+</doc>

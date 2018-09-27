@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">530632</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Elostirion</spatial>
+    <agent>Ironston University</agent>
+    <subject>jy8jdnt91z</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Gevin Harlaw</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>cln63nrkrw</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>8ufj89ov0b</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>audio/ogg</mime-type>
+    <directory-path>path/to/facere.ppt</directory-path>
+    <file-id type="integer">878179</file-id>
+    <storage-id type="integer">229300</storage-id>
+    <external-type type="integer">181205</external-type>
+    <file-size-bytes>912</file-size-bytes>
+  </stream_ref>
+</doc>

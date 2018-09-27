@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">873067</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Doors of Durin</spatial>
+    <agent>Ironbarrow University</agent>
+    <subject>betcabcri2</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Lorimer</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gutwl51m7x</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>6ekerkp70n</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>message/imdn+xml</mime-type>
+    <directory-path>path/to/molestias.css</directory-path>
+    <file-id type="integer">873502</file-id>
+    <storage-id type="integer">900506</storage-id>
+    <external-type type="integer">655816</external-type>
+    <file-size-bytes>1504</file-size-bytes>
+  </stream_ref>
+</doc>

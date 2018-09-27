@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">705197</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Marish</spatial>
+    <agent>Brighthurst University</agent>
+    <subject>2zyzzw9u6m</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Denys Darklyn</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>sq6sbpbne7</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>agi3ojy4nj</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>video/ogg</mime-type>
+    <directory-path>path/to/eum.webm</directory-path>
+    <file-id type="integer">861168</file-id>
+    <storage-id type="integer">74377</storage-id>
+    <external-type type="integer">220846</external-type>
+    <file-size-bytes>2512</file-size-bytes>
+  </stream_ref>
+</doc>

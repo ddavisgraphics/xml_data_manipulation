@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">38267</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Old Forest Road</spatial>
+    <agent>Flowerlake Technical College</agent>
+    <subject>zde22qnr7r</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Pate of the Blue Fork</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ug8550ats3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ygnzjwoxj2</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/aut.mp3</directory-path>
+    <file-id type="integer">419398</file-id>
+    <storage-id type="integer">24948</storage-id>
+    <external-type type="integer">678984</external-type>
+    <file-size-bytes>448</file-size-bytes>
+  </stream_ref>
+</doc>

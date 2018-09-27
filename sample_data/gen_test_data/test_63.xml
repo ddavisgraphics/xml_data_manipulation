@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">114646</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Greenway</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>7xwlo1cmnr</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Porridge</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>z8qd5s5ksz</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>jdknt04vl6</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>application/javascript</mime-type>
+    <directory-path>path/to/sint.wav</directory-path>
+    <file-id type="integer">919790</file-id>
+    <storage-id type="integer">980466</storage-id>
+    <external-type type="integer">380607</external-type>
+    <file-size-bytes>80</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">28221</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>East Road</spatial>
+    <agent>Brookville College</agent>
+    <subject>hiqq6c60nt</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Roland Crakehall</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>nhrn9pghod</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>lpz0h7y4bx</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>audio/vorbis</mime-type>
+    <directory-path>path/to/nesciunt.bmp</directory-path>
+    <file-id type="integer">921268</file-id>
+    <storage-id type="integer">79715</storage-id>
+    <external-type type="integer">630282</external-type>
+    <file-size-bytes>544</file-size-bytes>
+  </stream_ref>
+</doc>

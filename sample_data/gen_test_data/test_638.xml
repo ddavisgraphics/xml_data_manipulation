@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">192231</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Gap of Rohan</spatial>
+    <agent>Vertapple College</agent>
+    <subject>90woev7op4</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Alysanne of Tarth</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ndge8f27m4</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>9prwcrf7us</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>image/jpeg</mime-type>
+    <directory-path>path/to/voluptatem.pptx</directory-path>
+    <file-id type="integer">845947</file-id>
+    <storage-id type="integer">754578</storage-id>
+    <external-type type="integer">962736</external-type>
+    <file-size-bytes>1744</file-size-bytes>
+  </stream_ref>
+</doc>

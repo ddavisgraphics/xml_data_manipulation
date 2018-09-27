@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">369145</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Isenmouthe</spatial>
+    <agent>Falconholt College</agent>
+    <subject>z55gwjxdvu</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Dudley</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>25ugn2rzys</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>i333y6jtvb</file-name>
+    <file-extension>txt</file-extension>
+    <mime-type>text/vcard</mime-type>
+    <directory-path>path/to/excepturi.key</directory-path>
+    <file-id type="integer">157428</file-id>
+    <storage-id type="integer">857177</storage-id>
+    <external-type type="integer">430035</external-type>
+    <file-size-bytes>2512</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">149382</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Regions of the Shire</spatial>
+    <agent>Iceborough College</agent>
+    <subject>d4h9ybml0g</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Lucantine Woodwright</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6ytnrp4t8y</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>fnt3uzeb3g</file-name>
+    <file-extension>doc</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/aut.html</directory-path>
+    <file-id type="integer">211246</file-id>
+    <storage-id type="integer">906819</storage-id>
+    <external-type type="integer">716581</external-type>
+    <file-size-bytes>1456</file-size-bytes>
+  </stream_ref>
+</doc>

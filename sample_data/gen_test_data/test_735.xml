@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">963443</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>East Beleriand</spatial>
+    <agent>Vertapple College</agent>
+    <subject>g8ju6michw</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Moonshadow</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>79hclcrv8a</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>b1jhnlpeal</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>image/svg+xml</mime-type>
+    <directory-path>path/to/deleniti.txt</directory-path>
+    <file-id type="integer">520460</file-id>
+    <storage-id type="integer">118218</storage-id>
+    <external-type type="integer">292475</external-type>
+    <file-size-bytes>1744</file-size-bytes>
+  </stream_ref>
+</doc>

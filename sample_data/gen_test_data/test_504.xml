@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">657679</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Old Forest Road</spatial>
+    <agent>Clearcourt University</agent>
+    <subject>hj60cx7yul</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Gladden Wylde</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>pt299vkzeu</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>95mxx3gr9s</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/consequuntur.js</directory-path>
+    <file-id type="integer">615371</file-id>
+    <storage-id type="integer">52788</storage-id>
+    <external-type type="integer">208252</external-type>
+    <file-size-bytes>2896</file-size-bytes>
+  </stream_ref>
+</doc>

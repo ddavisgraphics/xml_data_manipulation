@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">187938</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Andustar</spatial>
+    <agent>Mallowtown University</agent>
+    <subject>bjs7mldm8g</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Lady of the Leaves</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>tl1ei75s2n</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>xdcuzzatu2</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>audio/vnd.rn-realaudio</mime-type>
+    <directory-path>path/to/enim.webm</directory-path>
+    <file-id type="integer">789949</file-id>
+    <storage-id type="integer">959853</storage-id>
+    <external-type type="integer">185226</external-type>
+    <file-size-bytes>2352</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">389591</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Rivendell</spatial>
+    <agent>Mallowpond College</agent>
+    <subject>bbjjk5any8</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Daryn Hornwood</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>e1ajfwhn6s</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>z5tvvs7x6t</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>video/x-ms-wmv</mime-type>
+    <directory-path>path/to/dicta.json</directory-path>
+    <file-id type="integer">859931</file-id>
+    <storage-id type="integer">415263</storage-id>
+    <external-type type="integer">233689</external-type>
+    <file-size-bytes>1424</file-size-bytes>
+  </stream_ref>
+</doc>

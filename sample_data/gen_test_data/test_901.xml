@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">982839</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Isle of Balar</spatial>
+    <agent>Mallowtown Technical College</agent>
+    <subject>pzzpzy29vw</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Larence Snow</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4x8zwe3mgw</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>g4mrxfrteg</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>application/ogg</mime-type>
+    <directory-path>path/to/fugiat.mov</directory-path>
+    <file-id type="integer">765757</file-id>
+    <storage-id type="integer">142429</storage-id>
+    <external-type type="integer">254145</external-type>
+    <file-size-bytes>2688</file-size-bytes>
+  </stream_ref>
+</doc>

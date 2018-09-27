@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">826414</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Timeless Halls</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>0a8iqjina6</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Nettles</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>pw2ma7xqed</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ln9pb71ung</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>application/rdf+xml</mime-type>
+    <directory-path>path/to/nemo.xls</directory-path>
+    <file-id type="integer">624675</file-id>
+    <storage-id type="integer">174904</storage-id>
+    <external-type type="integer">778104</external-type>
+    <file-size-bytes>80</file-size-bytes>
+  </stream_ref>
+</doc>

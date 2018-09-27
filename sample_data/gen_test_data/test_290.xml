@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">834158</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Luthany</spatial>
+    <agent>Brookville TAFE</agent>
+    <subject>1enmy6vved</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Joss the Gloom</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>43yfwvxg1w</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4ek505ml6c</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>audio/vnd.wave</mime-type>
+    <directory-path>path/to/deserunt.docx</directory-path>
+    <file-id type="integer">547385</file-id>
+    <storage-id type="integer">800077</storage-id>
+    <external-type type="integer">947453</external-type>
+    <file-size-bytes>816</file-size-bytes>
+  </stream_ref>
+</doc>

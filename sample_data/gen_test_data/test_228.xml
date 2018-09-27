@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">380753</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Narchost</spatial>
+    <agent>Flowerlake University</agent>
+    <subject>grguoze3or</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Wendello Qar Deeth</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>x4kx4e86rw</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>mstmwjl8fa</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>audio/vnd.wave</mime-type>
+    <directory-path>path/to/architecto.wav</directory-path>
+    <file-id type="integer">109312</file-id>
+    <storage-id type="integer">185184</storage-id>
+    <external-type type="integer">463782</external-type>
+    <file-size-bytes>352</file-size-bytes>
+  </stream_ref>
+</doc>

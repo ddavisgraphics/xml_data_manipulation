@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">82422</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Dol Guldur</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>xxo36e3nj5</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Aemon Rivers</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4z0l9xke2r</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0u6k11nkzn</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>video/quicktime</mime-type>
+    <directory-path>path/to/ratione.html</directory-path>
+    <file-id type="integer">137267</file-id>
+    <storage-id type="integer">350417</storage-id>
+    <external-type type="integer">474842</external-type>
+    <file-size-bytes>1456</file-size-bytes>
+  </stream_ref>
+</doc>

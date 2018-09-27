@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">350538</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Marblewald University</agent>
+    <subject>3dn1200u57</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Sarnori</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9rv9ayr7jq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>y6idu8ryd5</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>application/atom+xml</mime-type>
+    <directory-path>path/to/odit.doc</directory-path>
+    <file-id type="integer">320871</file-id>
+    <storage-id type="integer">698512</storage-id>
+    <external-type type="integer">529809</external-type>
+    <file-size-bytes>1344</file-size-bytes>
+  </stream_ref>
+</doc>

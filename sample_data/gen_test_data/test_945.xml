@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">406497</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>Dome of Stars</spatial>
+    <agent>Ironston Technical College</agent>
+    <subject>onafb994h3</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Cressen</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5k9jqpd81g</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>dv1qysjrhl</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>text/cmd</mime-type>
+    <directory-path>path/to/iure.jpeg</directory-path>
+    <file-id type="integer">12813</file-id>
+    <storage-id type="integer">377402</storage-id>
+    <external-type type="integer">643836</external-type>
+    <file-size-bytes>1536</file-size-bytes>
+  </stream_ref>
+</doc>

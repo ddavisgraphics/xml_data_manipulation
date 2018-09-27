@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">380834</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>The Forsaken Inn</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>qqw640kvb1</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Elia Sand</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hm2qznac4u</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qhtqkyhc5p</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>model/x3d+xml</mime-type>
+    <directory-path>path/to/harum.html</directory-path>
+    <file-id type="integer">767126</file-id>
+    <storage-id type="integer">373860</storage-id>
+    <external-type type="integer">380097</external-type>
+    <file-size-bytes>784</file-size-bytes>
+  </stream_ref>
+</doc>

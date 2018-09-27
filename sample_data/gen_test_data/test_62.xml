@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">514902</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Inn of the Prancing Pony</spatial>
+    <agent>Marblewald TAFE</agent>
+    <subject>uwa6pzj603</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Thoros of Myr</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>og7a6co3gj</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>fhjycubtsq</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>video/x-flv</mime-type>
+    <directory-path>path/to/consequuntur.png</directory-path>
+    <file-id type="integer">141387</file-id>
+    <storage-id type="integer">666231</storage-id>
+    <external-type type="integer">325263</external-type>
+    <file-size-bytes>1936</file-size-bytes>
+  </stream_ref>
+</doc>

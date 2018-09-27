@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">788983</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Narchost</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>7t0pcx272u</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Blane</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>oe6yfvn4lf</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>x5fo3hxsca</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>video/x-matroska</mime-type>
+    <directory-path>path/to/qui.webm</directory-path>
+    <file-id type="integer">935107</file-id>
+    <storage-id type="integer">262873</storage-id>
+    <external-type type="integer">269943</external-type>
+    <file-size-bytes>416</file-size-bytes>
+  </stream_ref>
+</doc>

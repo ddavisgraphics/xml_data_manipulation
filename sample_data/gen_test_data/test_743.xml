@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">372561</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Angband</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>nwxeheuxcv</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Vardis Egen</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>zd16ddtmo2</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>v7rxshnkgw</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>text/javascript</mime-type>
+    <directory-path>path/to/ut.mov</directory-path>
+    <file-id type="integer">64464</file-id>
+    <storage-id type="integer">496522</storage-id>
+    <external-type type="integer">843670</external-type>
+    <file-size-bytes>2128</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">915979</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Taur-im-Duinath</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>n26drnrv1o</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Alys Frey</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>sie0mpnp72</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ee29koz7ke</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>image/tiff</mime-type>
+    <directory-path>path/to/consequatur.odt</directory-path>
+    <file-id type="integer">566072</file-id>
+    <storage-id type="integer">776086</storage-id>
+    <external-type type="integer">823008</external-type>
+    <file-size-bytes>112</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">183056</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Field of Celebrant</spatial>
+    <agent>Falconholt College</agent>
+    <subject>rs0q34ht6l</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Elia Martell</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6y9t0izpbf</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>yfw92am88l</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>image/jpeg</mime-type>
+    <directory-path>path/to/explicabo.pptx</directory-path>
+    <file-id type="integer">40552</file-id>
+    <storage-id type="integer">984491</storage-id>
+    <external-type type="integer">66498</external-type>
+    <file-size-bytes>3200</file-size-bytes>
+  </stream_ref>
+</doc>

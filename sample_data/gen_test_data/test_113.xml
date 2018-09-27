@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">955262</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Old Forest</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>saub8qrg98</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Sky Blue Su</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>98jmha4cry</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>envq7kdj0n</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>audio/mp4</mime-type>
+    <directory-path>path/to/nesciunt.mp3</directory-path>
+    <file-id type="integer">760822</file-id>
+    <storage-id type="integer">786099</storage-id>
+    <external-type type="integer">991012</external-type>
+    <file-size-bytes>2960</file-size-bytes>
+  </stream_ref>
+</doc>

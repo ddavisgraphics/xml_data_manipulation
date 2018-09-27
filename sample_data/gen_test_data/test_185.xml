@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">355310</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Aglarond</spatial>
+    <agent>Ironbarrow TAFE</agent>
+    <subject>nf0i2a2uhy</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Ronnel Stout</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>mh83o8ftuq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4y0fr7na2u</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>application/rss+xml</mime-type>
+    <directory-path>path/to/accusamus.avi</directory-path>
+    <file-id type="integer">331888</file-id>
+    <storage-id type="integer">558555</storage-id>
+    <external-type type="integer">121701</external-type>
+    <file-size-bytes>1968</file-size-bytes>
+  </stream_ref>
+</doc>

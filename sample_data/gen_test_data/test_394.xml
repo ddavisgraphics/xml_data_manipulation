@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">526699</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>East Road</spatial>
+    <agent>Mallowtown Technical College</agent>
+    <subject>z1t6bw5svl</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Griffin King</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>tmciouq8jt</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>xlxcy1g0io</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/consequatur.odt</directory-path>
+    <file-id type="integer">247192</file-id>
+    <storage-id type="integer">373226</storage-id>
+    <external-type type="integer">708108</external-type>
+    <file-size-bytes>2736</file-size-bytes>
+  </stream_ref>
+</doc>

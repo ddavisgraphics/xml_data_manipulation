@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">531861</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Black Gate</spatial>
+    <agent>Ostbarrow University</agent>
+    <subject>tp45j7q6s8</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Duram Bar Emmon</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gzj4wr54ca</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>94eg2hlc0v</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>video/mpeg</mime-type>
+    <directory-path>path/to/rerum.gif</directory-path>
+    <file-id type="integer">851226</file-id>
+    <storage-id type="integer">466304</storage-id>
+    <external-type type="integer">743107</external-type>
+    <file-size-bytes>1904</file-size-bytes>
+  </stream_ref>
+</doc>

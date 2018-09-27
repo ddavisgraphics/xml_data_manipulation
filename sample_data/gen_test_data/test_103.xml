@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">571021</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Luthany</spatial>
+    <agent>Iceborough College</agent>
+    <subject>8q86g56tt6</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Waif</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>dotp2ybfbx</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>pm8gn5wwun</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>video/webm</mime-type>
+    <directory-path>path/to/iusto.js</directory-path>
+    <file-id type="integer">686825</file-id>
+    <storage-id type="integer">362989</storage-id>
+    <external-type type="integer">563656</external-type>
+    <file-size-bytes>2848</file-size-bytes>
+  </stream_ref>
+</doc>

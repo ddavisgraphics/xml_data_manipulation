@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">234203</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Taur-im-Duinath</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>cz6c4fplsu</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Lady of the Leaves</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>1b9wwbrftb</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>13lypmfefm</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>application/json</mime-type>
+    <directory-path>path/to/distinctio.gif</directory-path>
+    <file-id type="integer">473988</file-id>
+    <storage-id type="integer">206752</storage-id>
+    <external-type type="integer">649096</external-type>
+    <file-size-bytes>832</file-size-bytes>
+  </stream_ref>
+</doc>

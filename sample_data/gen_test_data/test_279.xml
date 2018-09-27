@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">77734</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>East Road</spatial>
+    <agent>Icelyn University</agent>
+    <subject>bht3666cm1</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Robin Hill</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>sdu20pq2nt</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>hb2eckmcin</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>application/ecmascript</mime-type>
+    <directory-path>path/to/distinctio.css</directory-path>
+    <file-id type="integer">517437</file-id>
+    <storage-id type="integer">104872</storage-id>
+    <external-type type="integer">564111</external-type>
+    <file-size-bytes>2352</file-size-bytes>
+  </stream_ref>
+</doc>

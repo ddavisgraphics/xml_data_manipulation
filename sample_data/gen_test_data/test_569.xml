@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">159808</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Aldburg</spatial>
+    <agent>Ironston Technical College</agent>
+    <subject>gz9indrnj1</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Loren Lannister</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2gpked8bmz</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ut7s3ttr61</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>application/atom+xml</mime-type>
+    <directory-path>path/to/labore.mp3</directory-path>
+    <file-id type="integer">325608</file-id>
+    <storage-id type="integer">111488</storage-id>
+    <external-type type="integer">247441</external-type>
+    <file-size-bytes>1856</file-size-bytes>
+  </stream_ref>
+</doc>

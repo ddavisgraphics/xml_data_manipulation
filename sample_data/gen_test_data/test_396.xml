@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">203218</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Taur-im-Duinath</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>w6d039karr</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Matarys Targaryen</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>dcrhj98d3r</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qq64x6r5ud</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>audio/mp4</mime-type>
+    <directory-path>path/to/eveniet.png</directory-path>
+    <file-id type="integer">971559</file-id>
+    <storage-id type="integer">697086</storage-id>
+    <external-type type="integer">760608</external-type>
+    <file-size-bytes>1872</file-size-bytes>
+  </stream_ref>
+</doc>

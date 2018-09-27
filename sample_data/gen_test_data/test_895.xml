@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">418710</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Isengard</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>bx18k9iq7b</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Quickfinger</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>g379y2j4ro</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>waz3f5t8aj</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>text/css</mime-type>
+    <directory-path>path/to/similique.doc</directory-path>
+    <file-id type="integer">697634</file-id>
+    <storage-id type="integer">672650</storage-id>
+    <external-type type="integer">615934</external-type>
+    <file-size-bytes>848</file-size-bytes>
+  </stream_ref>
+</doc>

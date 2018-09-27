@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">98603</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Losgar</spatial>
+    <agent>Icelyn College</agent>
+    <subject>j82cfxf0ob</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Waldon Wynch</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5l5xqk41ax</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>jlfiiyg2s4</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>application/gzip</mime-type>
+    <directory-path>path/to/non.pages</directory-path>
+    <file-id type="integer">881491</file-id>
+    <storage-id type="integer">587487</storage-id>
+    <external-type type="integer">167818</external-type>
+    <file-size-bytes>1376</file-size-bytes>
+  </stream_ref>
+</doc>

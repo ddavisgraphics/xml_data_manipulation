@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">871353</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Losgar</spatial>
+    <agent>Ironston University</agent>
+    <subject>k2drez0xbr</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Bannen</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>27mnibw735</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>n3wy9w3i6v</file-name>
+    <file-extension>numbers</file-extension>
+    <mime-type>application/font-woff</mime-type>
+    <directory-path>path/to/totam.flac</directory-path>
+    <file-id type="integer">685886</file-id>
+    <storage-id type="integer">772095</storage-id>
+    <external-type type="integer">862906</external-type>
+    <file-size-bytes>2512</file-size-bytes>
+  </stream_ref>
+</doc>

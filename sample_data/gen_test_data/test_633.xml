@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">634338</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Aglarond</spatial>
+    <agent>Marblewald TAFE</agent>
+    <subject>pzyz86mqgf</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Alyn Ambrose</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ggn4n600af</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0g2nqr880t</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>image/gif</mime-type>
+    <directory-path>path/to/nulla.csv</directory-path>
+    <file-id type="integer">80069</file-id>
+    <storage-id type="integer">751969</storage-id>
+    <external-type type="integer">931254</external-type>
+    <file-size-bytes>3152</file-size-bytes>
+  </stream_ref>
+</doc>

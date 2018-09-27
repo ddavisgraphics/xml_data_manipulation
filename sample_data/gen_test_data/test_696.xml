@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">230364</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Sarn Ford</spatial>
+    <agent>Brookville University</agent>
+    <subject>3o6ujq9qxm</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Ralf Kenning</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>o0b4ozjqx9</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4fesjqup9u</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/facere.doc</directory-path>
+    <file-id type="integer">777803</file-id>
+    <storage-id type="integer">288393</storage-id>
+    <external-type type="integer">363316</external-type>
+    <file-size-bytes>1168</file-size-bytes>
+  </stream_ref>
+</doc>

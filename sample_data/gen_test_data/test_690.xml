@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">767074</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Hyarnustar</spatial>
+    <agent>Brighthurst University</agent>
+    <subject>a7gffw2dkw</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Tremond Gargalen</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ulw1fo4v6e</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ihjas2y080</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>audio/mpeg</mime-type>
+    <directory-path>path/to/ut.avi</directory-path>
+    <file-id type="integer">718814</file-id>
+    <storage-id type="integer">981077</storage-id>
+    <external-type type="integer">29217</external-type>
+    <file-size-bytes>368</file-size-bytes>
+  </stream_ref>
+</doc>

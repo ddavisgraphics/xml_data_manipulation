@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">200137</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Enchanted Isles</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>6bs7yo8z28</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Galladon of Morne</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>zsbyribdx8</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>plorfhp329</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>multipart/form-data</mime-type>
+    <directory-path>path/to/dolor.pdf</directory-path>
+    <file-id type="integer">380538</file-id>
+    <storage-id type="integer">808661</storage-id>
+    <external-type type="integer">313161</external-type>
+    <file-size-bytes>2608</file-size-bytes>
+  </stream_ref>
+</doc>

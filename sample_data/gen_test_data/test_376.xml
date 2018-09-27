@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">348275</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>pyl9vndi4i</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Perwyn Osgrey</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kw5djstfyb</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>721q9rys8n</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>image/jpeg</mime-type>
+    <directory-path>path/to/natus.mp4</directory-path>
+    <file-id type="integer">980624</file-id>
+    <storage-id type="integer">846667</storage-id>
+    <external-type type="integer">594892</external-type>
+    <file-size-bytes>2320</file-size-bytes>
+  </stream_ref>
+</doc>

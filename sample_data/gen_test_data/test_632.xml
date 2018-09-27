@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">435382</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Enchanted Isles</spatial>
+    <agent>Flowerlake Technical College</agent>
+    <subject>b2y6ck1qcv</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Othor</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4n5ligeys3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0h384i7qb8</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>video/x-flv</mime-type>
+    <directory-path>path/to/aut.html</directory-path>
+    <file-id type="integer">569574</file-id>
+    <storage-id type="integer">678317</storage-id>
+    <external-type type="integer">787234</external-type>
+    <file-size-bytes>2512</file-size-bytes>
+  </stream_ref>
+</doc>

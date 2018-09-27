@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">704535</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>Haudh-en-Nirnaeth</spatial>
+    <agent>Mallowpond TAFE</agent>
+    <subject>3jak8xi4mp</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Syrio Forel</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9zafrri4zn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>9eie9yt91e</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>application/EDIFACT</mime-type>
+    <directory-path>path/to/voluptates.mp3</directory-path>
+    <file-id type="integer">934171</file-id>
+    <storage-id type="integer">368696</storage-id>
+    <external-type type="integer">629132</external-type>
+    <file-size-bytes>1520</file-size-bytes>
+  </stream_ref>
+</doc>

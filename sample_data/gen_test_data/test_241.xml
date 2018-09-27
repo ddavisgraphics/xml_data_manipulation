@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">150171</pid>
+  <record>
+    <creator>Barliman Butterbur</creator>
+    <spatial>Taur-im-Duinath</spatial>
+    <agent>Mallowpond University</agent>
+    <subject>c0moe2sg6d</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Ormond</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>jwvhk81udy</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>edopb4g30u</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>application/EDI-X12</mime-type>
+    <directory-path>path/to/dolores.json</directory-path>
+    <file-id type="integer">747159</file-id>
+    <storage-id type="integer">606193</storage-id>
+    <external-type type="integer">83799</external-type>
+    <file-size-bytes>1168</file-size-bytes>
+  </stream_ref>
+</doc>

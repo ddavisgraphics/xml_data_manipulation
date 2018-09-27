@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">527133</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Minas Tirith</spatial>
+    <agent>Mallowtown University</agent>
+    <subject>5xdad1rlos</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Theon Stark</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>dsvxwmkyts</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vf147fy1h2</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>image/gif</mime-type>
+    <directory-path>path/to/velit.ods</directory-path>
+    <file-id type="integer">969629</file-id>
+    <storage-id type="integer">66503</storage-id>
+    <external-type type="integer">585622</external-type>
+    <file-size-bytes>640</file-size-bytes>
+  </stream_ref>
+</doc>

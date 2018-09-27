@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">123266</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Pelennor Fields</spatial>
+    <agent>Ironston University</agent>
+    <subject>cxsw727sf0</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Simon Leygood</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>01rjjjggf1</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>20l8q0r09e</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>video/x-flv</mime-type>
+    <directory-path>path/to/a.jpeg</directory-path>
+    <file-id type="integer">724824</file-id>
+    <storage-id type="integer">255473</storage-id>
+    <external-type type="integer">656846</external-type>
+    <file-size-bytes>640</file-size-bytes>
+  </stream_ref>
+</doc>

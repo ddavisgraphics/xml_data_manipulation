@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">87277</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Falls of Rauros</spatial>
+    <agent>Bluemeadow College</agent>
+    <subject>9s682e7qg0</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Beldecar</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vaxbdi9otp</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>wx6ujl5vs8</file-name>
+    <file-extension>doc</file-extension>
+    <mime-type>text/javascript</mime-type>
+    <directory-path>path/to/porro.doc</directory-path>
+    <file-id type="integer">742712</file-id>
+    <storage-id type="integer">721368</storage-id>
+    <external-type type="integer">183483</external-type>
+    <file-size-bytes>1168</file-size-bytes>
+  </stream_ref>
+</doc>

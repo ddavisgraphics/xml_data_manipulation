@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">244242</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Vaiya</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>7k6al29q7i</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Pudding</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>8aclpynf6l</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ojd17pnjdl</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>application/pdf</mime-type>
+    <directory-path>path/to/qui.csv</directory-path>
+    <file-id type="integer">771360</file-id>
+    <storage-id type="integer">373510</storage-id>
+    <external-type type="integer">290764</external-type>
+    <file-size-bytes>2032</file-size-bytes>
+  </stream_ref>
+</doc>

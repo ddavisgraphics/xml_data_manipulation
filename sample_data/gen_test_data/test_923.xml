@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">708967</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Andustar</spatial>
+    <agent>Brookville University</agent>
+    <subject>5pp9xkugy7</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Arthur Dayne</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>emdy9qvco7</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>mxvhv7bvop</file-name>
+    <file-extension>txt</file-extension>
+    <mime-type>image/gif</mime-type>
+    <directory-path>path/to/tenetur.tiff</directory-path>
+    <file-id type="integer">939312</file-id>
+    <storage-id type="integer">960250</storage-id>
+    <external-type type="integer">761721</external-type>
+    <file-size-bytes>480</file-size-bytes>
+  </stream_ref>
+</doc>

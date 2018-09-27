@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">642306</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Old Forest Road</spatial>
+    <agent>Brighthurst College</agent>
+    <subject>lvp2x1kv5t</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Racallio Ryndoon</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>08scxqiw8l</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>beknjyav56</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/aspernatur.jpg</directory-path>
+    <file-id type="integer">327486</file-id>
+    <storage-id type="integer">532511</storage-id>
+    <external-type type="integer">844991</external-type>
+    <file-size-bytes>1216</file-size-bytes>
+  </stream_ref>
+</doc>

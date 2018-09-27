@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">13025</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Black Gate</spatial>
+    <agent>Marblewald College</agent>
+    <subject>wcb7c5i80u</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Raymun Fossoway</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5kto36gu5i</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rzeg3mkr9g</file-name>
+    <file-extension>key</file-extension>
+    <mime-type>model/x3d+binary</mime-type>
+    <directory-path>path/to/aut.pptx</directory-path>
+    <file-id type="integer">587422</file-id>
+    <storage-id type="integer">442779</storage-id>
+    <external-type type="integer">846540</external-type>
+    <file-size-bytes>1424</file-size-bytes>
+  </stream_ref>
+</doc>

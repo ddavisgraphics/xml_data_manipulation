@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">417972</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Doriath</spatial>
+    <agent>Mallowtown Technical College</agent>
+    <subject>q7mzmzba5e</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Hake</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>s8rirts8z3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>jgtpkvj5gh</file-name>
+    <file-extension>key</file-extension>
+    <mime-type>application/json</mime-type>
+    <directory-path>path/to/necessitatibus.pptx</directory-path>
+    <file-id type="integer">955118</file-id>
+    <storage-id type="integer">754089</storage-id>
+    <external-type type="integer">260405</external-type>
+    <file-size-bytes>272</file-size-bytes>
+  </stream_ref>
+</doc>

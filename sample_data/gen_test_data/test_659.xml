@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">324493</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Fords of Isen</spatial>
+    <agent>Mallowpond TAFE</agent>
+    <subject>8s19pf9xn9</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Daryn Hornwood</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2g2jp2qbrp</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>a5neoo67z9</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>video/x-matroska</mime-type>
+    <directory-path>path/to/rerum.wav</directory-path>
+    <file-id type="integer">214304</file-id>
+    <storage-id type="integer">30585</storage-id>
+    <external-type type="integer">480575</external-type>
+    <file-size-bytes>1712</file-size-bytes>
+  </stream_ref>
+</doc>

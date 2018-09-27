@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">503802</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Black Gate</spatial>
+    <agent>Brookville College</agent>
+    <subject>q0h550dluj</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Danelle Lothston</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>mcpdcxixga</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ydm781u4hg</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>multipart/signed</mime-type>
+    <directory-path>path/to/non.docx</directory-path>
+    <file-id type="integer">683184</file-id>
+    <storage-id type="integer">323846</storage-id>
+    <external-type type="integer">289757</external-type>
+    <file-size-bytes>608</file-size-bytes>
+  </stream_ref>
+</doc>

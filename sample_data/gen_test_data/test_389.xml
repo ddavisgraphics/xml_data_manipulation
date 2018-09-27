@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">852568</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Doriath</spatial>
+    <agent>Lakeacre College</agent>
+    <subject>tejwso3nuc</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Clubfoot Karl</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kzwymd97am</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>n47kmli46w</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>text/csv</mime-type>
+    <directory-path>path/to/atque.xls</directory-path>
+    <file-id type="integer">304118</file-id>
+    <storage-id type="integer">627519</storage-id>
+    <external-type type="integer">123793</external-type>
+    <file-size-bytes>528</file-size-bytes>
+  </stream_ref>
+</doc>

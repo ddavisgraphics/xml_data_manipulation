@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">688079</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Dol Guldur</spatial>
+    <agent>Marblewald TAFE</agent>
+    <subject>avitwq1vr4</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Daeron I Targaryen</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>igc9650v6h</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>uz3rgk2un4</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>text/css</mime-type>
+    <directory-path>path/to/natus.odt</directory-path>
+    <file-id type="integer">334508</file-id>
+    <storage-id type="integer">539322</storage-id>
+    <external-type type="integer">336100</external-type>
+    <file-size-bytes>3168</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">740952</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Minhiriath</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>ie4bfwipn8</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Androw Ashford</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gafiq9d230</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>u8p2gskaco</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>text/xml</mime-type>
+    <directory-path>path/to/enim.ppt</directory-path>
+    <file-id type="integer">215657</file-id>
+    <storage-id type="integer">880124</storage-id>
+    <external-type type="integer">53169</external-type>
+    <file-size-bytes>720</file-size-bytes>
+  </stream_ref>
+</doc>

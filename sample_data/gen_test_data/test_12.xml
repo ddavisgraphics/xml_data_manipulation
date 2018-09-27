@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">608714</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Sarn Ford</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>58ysag6lz8</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Cetheres</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>cpzocyv7n3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>po52zeppmq</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>text/vcard</mime-type>
+    <directory-path>path/to/praesentium.webm</directory-path>
+    <file-id type="integer">949973</file-id>
+    <storage-id type="integer">968303</storage-id>
+    <external-type type="integer">454723</external-type>
+    <file-size-bytes>576</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">938011</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Utumno</spatial>
+    <agent>Brookville University</agent>
+    <subject>fa3bnwy3rc</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Bandy</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>683afii1df</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>uhf9dfakrr</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>audio/vnd.rn-realaudio</mime-type>
+    <directory-path>path/to/voluptatem.odt</directory-path>
+    <file-id type="integer">196610</file-id>
+    <storage-id type="integer">235518</storage-id>
+    <external-type type="integer">445450</external-type>
+    <file-size-bytes>240</file-size-bytes>
+  </stream_ref>
+</doc>

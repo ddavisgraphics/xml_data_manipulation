@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">583239</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Crack of Doom</spatial>
+    <agent>Icelyn University</agent>
+    <subject>a6sds1lsk2</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Zharaq zo Loraq</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>xq7zwc4qks</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>wre4xp0ofj</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/vitae.mov</directory-path>
+    <file-id type="integer">380174</file-id>
+    <storage-id type="integer">234554</storage-id>
+    <external-type type="integer">906053</external-type>
+    <file-size-bytes>1376</file-size-bytes>
+  </stream_ref>
+</doc>

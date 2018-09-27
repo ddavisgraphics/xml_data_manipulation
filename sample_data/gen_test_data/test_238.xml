@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">736152</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Tol Galen</spatial>
+    <agent>Vertapple College</agent>
+    <subject>q0z7icd6gs</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Aemon Estermont</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2ujjt6u2ff</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>91j6ojr4k3</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>image/jpeg</mime-type>
+    <directory-path>path/to/sunt.gif</directory-path>
+    <file-id type="integer">635698</file-id>
+    <storage-id type="integer">899228</storage-id>
+    <external-type type="integer">41636</external-type>
+    <file-size-bytes>2896</file-size-bytes>
+  </stream_ref>
+</doc>

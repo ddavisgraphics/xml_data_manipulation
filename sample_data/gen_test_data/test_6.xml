@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">704246</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Isengard</spatial>
+    <agent>Ironston University</agent>
+    <subject>z06rtorlwa</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Leo Lefford</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4w9814t5wv</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>z42msb5low</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>application/EDI-X12</mime-type>
+    <directory-path>path/to/provident.png</directory-path>
+    <file-id type="integer">993944</file-id>
+    <storage-id type="integer">384641</storage-id>
+    <external-type type="integer">704109</external-type>
+    <file-size-bytes>1424</file-size-bytes>
+  </stream_ref>
+</doc>

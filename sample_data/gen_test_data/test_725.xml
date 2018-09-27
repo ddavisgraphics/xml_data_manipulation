@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">587440</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>East Beleriand</spatial>
+    <agent>Flowerlake College</agent>
+    <subject>92mcsr6o81</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Rafe</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gg1ilq4ma7</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>nsk2ngiog8</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>multipart/form-data</mime-type>
+    <directory-path>path/to/vel.gif</directory-path>
+    <file-id type="integer">704585</file-id>
+    <storage-id type="integer">533908</storage-id>
+    <external-type type="integer">505123</external-type>
+    <file-size-bytes>1792</file-size-bytes>
+  </stream_ref>
+</doc>

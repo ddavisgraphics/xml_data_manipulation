@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">599690</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Máhanaxar</spatial>
+    <agent>Ostbarrow University</agent>
+    <subject>9c145vap4g</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Sigfry Stonetree</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>drqkgu0ghx</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>xjhldtghon</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>model/x3d+binary</mime-type>
+    <directory-path>path/to/animi.bmp</directory-path>
+    <file-id type="integer">588351</file-id>
+    <storage-id type="integer">508236</storage-id>
+    <external-type type="integer">995215</external-type>
+    <file-size-bytes>288</file-size-bytes>
+  </stream_ref>
+</doc>

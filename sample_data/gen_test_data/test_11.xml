@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">954699</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Dome of Stars</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>axvjosbfz9</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Robin Potter</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9z73b5r4gd</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>lboo87oofi</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>video/webm</mime-type>
+    <directory-path>path/to/natus.pptx</directory-path>
+    <file-id type="integer">720734</file-id>
+    <storage-id type="integer">334812</storage-id>
+    <external-type type="integer">386994</external-type>
+    <file-size-bytes>1264</file-size-bytes>
+  </stream_ref>
+</doc>

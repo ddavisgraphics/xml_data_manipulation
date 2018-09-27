@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">142630</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Argonath</spatial>
+    <agent>Mallowtown College</agent>
+    <subject>fvtz387hwl</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Kyle Royce</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>40krsud51b</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>s4ydpaqgus</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>audio/mp4</mime-type>
+    <directory-path>path/to/sit.mov</directory-path>
+    <file-id type="integer">201518</file-id>
+    <storage-id type="integer">496818</storage-id>
+    <external-type type="integer">742105</external-type>
+    <file-size-bytes>864</file-size-bytes>
+  </stream_ref>
+</doc>

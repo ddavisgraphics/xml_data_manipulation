@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">576656</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Coldfells</spatial>
+    <agent>Ostbarrow TAFE</agent>
+    <subject>gx4pk5jqgr</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Arianne of Tarth</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>agtyvk5mls</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qyesf0lxng</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>message/rfc822</mime-type>
+    <directory-path>path/to/ullam.ppt</directory-path>
+    <file-id type="integer">574044</file-id>
+    <storage-id type="integer">685445</storage-id>
+    <external-type type="integer">242235</external-type>
+    <file-size-bytes>496</file-size-bytes>
+  </stream_ref>
+</doc>

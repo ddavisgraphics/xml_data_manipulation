@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">269687</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Land of the Sun</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>00rnr9x7h0</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Falia Flowers</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gbibef5b1d</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>g89z6dbx1o</file-name>
+    <file-extension>numbers</file-extension>
+    <mime-type>video/x-ms-wmv</mime-type>
+    <directory-path>path/to/perspiciatis.tiff</directory-path>
+    <file-id type="integer">641912</file-id>
+    <storage-id type="integer">889632</storage-id>
+    <external-type type="integer">383206</external-type>
+    <file-size-bytes>864</file-size-bytes>
+  </stream_ref>
+</doc>

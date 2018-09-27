@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">582701</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Inn of the Prancing Pony</spatial>
+    <agent>Mallowpond TAFE</agent>
+    <subject>ocx7t7c801</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Timeon</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4wt40qb1yo</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ufatash97b</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>application/gzip</mime-type>
+    <directory-path>path/to/veritatis.docx</directory-path>
+    <file-id type="integer">851685</file-id>
+    <storage-id type="integer">710483</storage-id>
+    <external-type type="integer">171538</external-type>
+    <file-size-bytes>2432</file-size-bytes>
+  </stream_ref>
+</doc>

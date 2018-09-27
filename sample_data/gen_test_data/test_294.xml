@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">401723</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Vaiya</spatial>
+    <agent>Iceborough College</agent>
+    <subject>muhuxmqlp4</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Barsena Blackhair</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>c49jmg335p</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>i1d2yeevjp</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>application/ogg</mime-type>
+    <directory-path>path/to/dicta.mov</directory-path>
+    <file-id type="integer">377647</file-id>
+    <storage-id type="integer">706820</storage-id>
+    <external-type type="integer">256098</external-type>
+    <file-size-bytes>2240</file-size-bytes>
+  </stream_ref>
+</doc>

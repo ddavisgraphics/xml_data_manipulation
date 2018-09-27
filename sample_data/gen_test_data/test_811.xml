@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">563884</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Parth Galen</spatial>
+    <agent>Mallowpond University</agent>
+    <subject>ktfy56kr56</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Long Lew</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4d82odthkz</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>cqu4f03ltz</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>application/postscript</mime-type>
+    <directory-path>path/to/placeat.txt</directory-path>
+    <file-id type="integer">737440</file-id>
+    <storage-id type="integer">527075</storage-id>
+    <external-type type="integer">367304</external-type>
+    <file-size-bytes>2672</file-size-bytes>
+  </stream_ref>
+</doc>

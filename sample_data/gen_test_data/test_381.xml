@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">576955</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Núath</spatial>
+    <agent>Lakeacre University</agent>
+    <subject>hbhsr4dqlt</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Nymella Toland</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>stbg56b9g7</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>q22an663xq</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>message/http</mime-type>
+    <directory-path>path/to/quisquam.js</directory-path>
+    <file-id type="integer">802981</file-id>
+    <storage-id type="integer">266227</storage-id>
+    <external-type type="integer">674645</external-type>
+    <file-size-bytes>2496</file-size-bytes>
+  </stream_ref>
+</doc>

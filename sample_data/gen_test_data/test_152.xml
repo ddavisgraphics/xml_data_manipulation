@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">653386</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Losgar</spatial>
+    <agent>Ironbarrow College</agent>
+    <subject>1xl0ww5uic</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Watt</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>d3dgnqv0tz</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>y5o9g2xlzr</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>audio/vorbis</mime-type>
+    <directory-path>path/to/repudiandae.png</directory-path>
+    <file-id type="integer">103692</file-id>
+    <storage-id type="integer">436853</storage-id>
+    <external-type type="integer">568665</external-type>
+    <file-size-bytes>912</file-size-bytes>
+  </stream_ref>
+</doc>

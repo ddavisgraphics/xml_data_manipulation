@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">124694</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Marish</spatial>
+    <agent>Lakeacre University</agent>
+    <subject>t8rp7ebnzx</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Elyana Vypren</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>bmptmntatv</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4pv3g3qr03</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>application/EDIFACT</mime-type>
+    <directory-path>path/to/nesciunt.doc</directory-path>
+    <file-id type="integer">127387</file-id>
+    <storage-id type="integer">308730</storage-id>
+    <external-type type="integer">670016</external-type>
+    <file-size-bytes>2128</file-size-bytes>
+  </stream_ref>
+</doc>

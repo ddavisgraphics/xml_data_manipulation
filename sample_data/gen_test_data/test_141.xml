@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">322530</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Black Gate</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>q3fxgjvcl2</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Qarro Volentin</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gls640h6h1</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>47mnfvctki</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>message/partial</mime-type>
+    <directory-path>path/to/tempore.tiff</directory-path>
+    <file-id type="integer">837852</file-id>
+    <storage-id type="integer">161002</storage-id>
+    <external-type type="integer">469713</external-type>
+    <file-size-bytes>672</file-size-bytes>
+  </stream_ref>
+</doc>

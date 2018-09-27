@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">413399</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Gladden Fields</spatial>
+    <agent>Mallowtown University</agent>
+    <subject>9v6nmdmo28</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Willam Wythers</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>diaq1u8d6i</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>69ae7xf9ft</file-name>
+    <file-extension>numbers</file-extension>
+    <mime-type>application/EDI-X12</mime-type>
+    <directory-path>path/to/aut.jpeg</directory-path>
+    <file-id type="integer">788940</file-id>
+    <storage-id type="integer">172688</storage-id>
+    <external-type type="integer">746058</external-type>
+    <file-size-bytes>96</file-size-bytes>
+  </stream_ref>
+</doc>

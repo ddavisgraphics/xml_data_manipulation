@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">909806</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Regions of the Shire</spatial>
+    <agent>Brighthurst University</agent>
+    <subject>717w77xhqg</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Omer Florent</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>wy70pvlun4</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>i2bowlk4ul</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/ducimus.flac</directory-path>
+    <file-id type="integer">390809</file-id>
+    <storage-id type="integer">694200</storage-id>
+    <external-type type="integer">506457</external-type>
+    <file-size-bytes>32</file-size-bytes>
+  </stream_ref>
+</doc>

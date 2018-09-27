@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">156494</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Tol Galen</spatial>
+    <agent>Marblewald College</agent>
+    <subject>0rvcv6a68e</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Jonos Bracken</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>f8rsv8k649</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>pooxo5pmam</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>application/rss+xml</mime-type>
+    <directory-path>path/to/alias.js</directory-path>
+    <file-id type="integer">615964</file-id>
+    <storage-id type="integer">677063</storage-id>
+    <external-type type="integer">918182</external-type>
+    <file-size-bytes>2640</file-size-bytes>
+  </stream_ref>
+</doc>

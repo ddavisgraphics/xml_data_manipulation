@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">415195</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Máhanaxar</spatial>
+    <agent>Brookville Technical College</agent>
+    <subject>wtud3o35vq</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Jate</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>5kd7ldv486</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>q5fbo5j94y</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>model/x3d+xml</mime-type>
+    <directory-path>path/to/architecto.numbers</directory-path>
+    <file-id type="integer">573483</file-id>
+    <storage-id type="integer">409736</storage-id>
+    <external-type type="integer">679001</external-type>
+    <file-size-bytes>2112</file-size-bytes>
+  </stream_ref>
+</doc>

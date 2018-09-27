@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">532744</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Núath</spatial>
+    <agent>Ironbarrow University</agent>
+    <subject>pni2ys030o</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Addam Frey</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>1mtcj9rri0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>wlxflkeb0c</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>model/example</mime-type>
+    <directory-path>path/to/illum.mp3</directory-path>
+    <file-id type="integer">733007</file-id>
+    <storage-id type="integer">200236</storage-id>
+    <external-type type="integer">800103</external-type>
+    <file-size-bytes>2976</file-size-bytes>
+  </stream_ref>
+</doc>

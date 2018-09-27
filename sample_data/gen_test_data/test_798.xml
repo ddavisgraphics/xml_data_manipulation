@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">813338</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>Warning beacons of Gondor</spatial>
+    <agent>Ironston College</agent>
+    <subject>duth0tcuux</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Josua Willum</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>p51h6t2u3g</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rulvpd7jff</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>multipart/signed</mime-type>
+    <directory-path>path/to/provident.ods</directory-path>
+    <file-id type="integer">913812</file-id>
+    <storage-id type="integer">825298</storage-id>
+    <external-type type="integer">505611</external-type>
+    <file-size-bytes>768</file-size-bytes>
+  </stream_ref>
+</doc>

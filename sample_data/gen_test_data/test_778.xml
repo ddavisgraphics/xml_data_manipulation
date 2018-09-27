@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">745331</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Hobbit-hole</spatial>
+    <agent>Falconholt College</agent>
+    <subject>obrrupwdby</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Mors Umber</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>s731qb8ui5</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rzcf4wemgz</file-name>
+    <file-extension>key</file-extension>
+    <mime-type>audio/vnd.rn-realaudio</mime-type>
+    <directory-path>path/to/aliquam.odp</directory-path>
+    <file-id type="integer">775968</file-id>
+    <storage-id type="integer">161952</storage-id>
+    <external-type type="integer">556593</external-type>
+    <file-size-bytes>1712</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">663498</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Warning beacons of Gondor</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>x0rtqfzuir</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Kyle</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>too6f7a5tm</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>puf5ijgb3h</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>message/partial</mime-type>
+    <directory-path>path/to/quam.json</directory-path>
+    <file-id type="integer">933328</file-id>
+    <storage-id type="integer">328789</storage-id>
+    <external-type type="integer">270230</external-type>
+    <file-size-bytes>480</file-size-bytes>
+  </stream_ref>
+</doc>

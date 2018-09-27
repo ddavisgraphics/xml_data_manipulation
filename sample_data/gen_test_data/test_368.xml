@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">293704</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Hobbit-hole</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>uotj1maor1</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Eleanor Mooton</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ih9w4kpcho</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>wy1aosbd2z</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>model/example</mime-type>
+    <directory-path>path/to/ex.xls</directory-path>
+    <file-id type="integer">48172</file-id>
+    <storage-id type="integer">97511</storage-id>
+    <external-type type="integer">652398</external-type>
+    <file-size-bytes>2560</file-size-bytes>
+  </stream_ref>
+</doc>

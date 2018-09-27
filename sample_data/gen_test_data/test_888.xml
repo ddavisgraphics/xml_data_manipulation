@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">124198</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Rivendell</spatial>
+    <agent>Iceborough College</agent>
+    <subject>jwy3ohyyfx</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Black Balaq</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>duhah8ovog</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>slaepynrlk</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>video/ogg</mime-type>
+    <directory-path>path/to/adipisci.docx</directory-path>
+    <file-id type="integer">117170</file-id>
+    <storage-id type="integer">692249</storage-id>
+    <external-type type="integer">994147</external-type>
+    <file-size-bytes>992</file-size-bytes>
+  </stream_ref>
+</doc>

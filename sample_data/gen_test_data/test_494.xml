@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">975383</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Luthany</spatial>
+    <agent>Ostbarrow College</agent>
+    <subject>nh3jg3z9ui</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Ysilla</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>lv0xe12i45</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ub72bogm6g</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/itaque.pdf</directory-path>
+    <file-id type="integer">560095</file-id>
+    <storage-id type="integer">308283</storage-id>
+    <external-type type="integer">17176</external-type>
+    <file-size-bytes>1376</file-size-bytes>
+  </stream_ref>
+</doc>

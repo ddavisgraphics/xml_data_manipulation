@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">892097</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Sarn Ford</spatial>
+    <agent>Falconholt TAFE</agent>
+    <subject>06tqlc12ze</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Laenor Velaryon</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>7y5kuf5lcg</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>snim565die</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/quod.ods</directory-path>
+    <file-id type="integer">858739</file-id>
+    <storage-id type="integer">383892</storage-id>
+    <external-type type="integer">781809</external-type>
+    <file-size-bytes>848</file-size-bytes>
+  </stream_ref>
+</doc>

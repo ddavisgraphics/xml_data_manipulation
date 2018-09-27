@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">686454</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Aglarond</spatial>
+    <agent>Vertapple University</agent>
+    <subject>qbsbiozvfq</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Heward</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>agj6u71emk</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>38s0z9d193</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/ut.xls</directory-path>
+    <file-id type="integer">146851</file-id>
+    <storage-id type="integer">924453</storage-id>
+    <external-type type="integer">539781</external-type>
+    <file-size-bytes>464</file-size-bytes>
+  </stream_ref>
+</doc>

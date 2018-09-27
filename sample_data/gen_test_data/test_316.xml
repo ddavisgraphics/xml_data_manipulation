@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">168160</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Gap of Rohan</spatial>
+    <agent>Iceborough College</agent>
+    <subject>epg6ysv3zr</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Wendell Webber</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>uwq4skj06q</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>zdo3nhkyxd</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>audio/ogg</mime-type>
+    <directory-path>path/to/sed.ppt</directory-path>
+    <file-id type="integer">606526</file-id>
+    <storage-id type="integer">380866</storage-id>
+    <external-type type="integer">321607</external-type>
+    <file-size-bytes>2432</file-size-bytes>
+  </stream_ref>
+</doc>

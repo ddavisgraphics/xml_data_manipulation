@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">449719</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Fords of Isen</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>g05q85i3lu</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Aegon III Targaryen</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>su9o6reyyp</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>jbk371d0xb</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/quos.numbers</directory-path>
+    <file-id type="integer">61026</file-id>
+    <storage-id type="integer">46919</storage-id>
+    <external-type type="integer">959049</external-type>
+    <file-size-bytes>2000</file-size-bytes>
+  </stream_ref>
+</doc>

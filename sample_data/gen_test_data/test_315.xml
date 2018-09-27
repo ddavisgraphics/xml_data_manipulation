@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">179999</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>East Road</spatial>
+    <agent>Flowerlake University</agent>
+    <subject>7u9wwo263u</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Mychel Redfort</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vgz4owtj54</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ewu7oi4gxj</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>video/x-flv</mime-type>
+    <directory-path>path/to/quo.jpg</directory-path>
+    <file-id type="integer">738048</file-id>
+    <storage-id type="integer">722933</storage-id>
+    <external-type type="integer">313952</external-type>
+    <file-size-bytes>2688</file-size-bytes>
+  </stream_ref>
+</doc>

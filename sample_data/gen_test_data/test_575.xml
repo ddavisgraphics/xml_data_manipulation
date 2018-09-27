@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">313473</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Carchost</spatial>
+    <agent>Flowerlake University</agent>
+    <subject>jipy1mahrs</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Kyra</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>luiem3zbpw</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>c53trz7v3g</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>model/mesh</mime-type>
+    <directory-path>path/to/qui.avi</directory-path>
+    <file-id type="integer">18205</file-id>
+    <storage-id type="integer">320351</storage-id>
+    <external-type type="integer">715840</external-type>
+    <file-size-bytes>1168</file-size-bytes>
+  </stream_ref>
+</doc>

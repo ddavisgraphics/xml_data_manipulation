@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">318635</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>Minhiriath</spatial>
+    <agent>Brookville University</agent>
+    <subject>0s2jwlawtz</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Uller</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>g6l9q134uz</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>etacnxnixb</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>application/xop+xml</mime-type>
+    <directory-path>path/to/velit.pptx</directory-path>
+    <file-id type="integer">314738</file-id>
+    <storage-id type="integer">727304</storage-id>
+    <external-type type="integer">743409</external-type>
+    <file-size-bytes>2240</file-size-bytes>
+  </stream_ref>
+</doc>

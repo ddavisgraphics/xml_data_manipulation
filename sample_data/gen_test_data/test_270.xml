@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">783736</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Luthany</spatial>
+    <agent>Clearcourt TAFE</agent>
+    <subject>yur2gmbmtq</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Benjen the Sweet</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>8ldpn2xmto</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>2p9lalhgzr</file-name>
+    <file-extension>doc</file-extension>
+    <mime-type>audio/vnd.rn-realaudio</mime-type>
+    <directory-path>path/to/quae.gif</directory-path>
+    <file-id type="integer">682438</file-id>
+    <storage-id type="integer">572510</storage-id>
+    <external-type type="integer">953255</external-type>
+    <file-size-bytes>416</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">447582</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Tol Galen</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>ejmwuwltss</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Raymond Nayland</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>wnc33c6i9k</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>acuy8eq3vi</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>application/ogg</mime-type>
+    <directory-path>path/to/ex.mp3</directory-path>
+    <file-id type="integer">330241</file-id>
+    <storage-id type="integer">624274</storage-id>
+    <external-type type="integer">897326</external-type>
+    <file-size-bytes>2560</file-size-bytes>
+  </stream_ref>
+</doc>

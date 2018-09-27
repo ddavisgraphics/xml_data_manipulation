@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">478536</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Eastfarthing</spatial>
+    <agent>Ironbarrow University</agent>
+    <subject>pjz99e3tjv</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Drennan</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9xmqurx9hp</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>cxwg41m7b6</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>application/atom+xml</mime-type>
+    <directory-path>path/to/nam.xlsx</directory-path>
+    <file-id type="integer">303725</file-id>
+    <storage-id type="integer">270263</storage-id>
+    <external-type type="integer">58625</external-type>
+    <file-size-bytes>2304</file-size-bytes>
+  </stream_ref>
+</doc>

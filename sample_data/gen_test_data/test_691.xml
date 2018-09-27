@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">206969</pid>
+  <record>
+    <creator>Gimli</creator>
+    <spatial>Rath Dínen</spatial>
+    <agent>Bluemeadow College</agent>
+    <subject>p5gicqsy3b</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Alayaya</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>k0jwmz5g5t</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>5pi3vfga8h</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>application/javascript</mime-type>
+    <directory-path>path/to/non.mp3</directory-path>
+    <file-id type="integer">404348</file-id>
+    <storage-id type="integer">565569</storage-id>
+    <external-type type="integer">707340</external-type>
+    <file-size-bytes>1920</file-size-bytes>
+  </stream_ref>
+</doc>

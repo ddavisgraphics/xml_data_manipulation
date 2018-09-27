@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">672844</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Inn of the Prancing Pony</spatial>
+    <agent>Brookville TAFE</agent>
+    <subject>gmo49gctev</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Tansy</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vs7n124gjj</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>lw2y5bw05a</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>text/css</mime-type>
+    <directory-path>path/to/beatae.bmp</directory-path>
+    <file-id type="integer">165287</file-id>
+    <storage-id type="integer">347322</storage-id>
+    <external-type type="integer">608974</external-type>
+    <file-size-bytes>768</file-size-bytes>
+  </stream_ref>
+</doc>

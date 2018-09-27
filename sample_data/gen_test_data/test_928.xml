@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">866859</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Isle of Balar</spatial>
+    <agent>Marblewald University</agent>
+    <subject>1n1rwmgoq3</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Tom Costayne</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>p4oqtoyk51</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ejxivxc93f</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>audio/mpeg</mime-type>
+    <directory-path>path/to/quasi.doc</directory-path>
+    <file-id type="integer">635393</file-id>
+    <storage-id type="integer">458357</storage-id>
+    <external-type type="integer">919702</external-type>
+    <file-size-bytes>1440</file-size-bytes>
+  </stream_ref>
+</doc>

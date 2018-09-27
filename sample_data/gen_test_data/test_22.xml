@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">900715</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Eastfarthing</spatial>
+    <agent>Ironston College</agent>
+    <subject>3imun6mb9n</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Hazzea</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>nik78hw6p4</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>2yhkm0mvu7</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/ut.json</directory-path>
+    <file-id type="integer">277972</file-id>
+    <storage-id type="integer">503529</storage-id>
+    <external-type type="integer">215356</external-type>
+    <file-size-bytes>2592</file-size-bytes>
+  </stream_ref>
+</doc>

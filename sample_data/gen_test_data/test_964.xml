@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">17504</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Doors of Durin</spatial>
+    <agent>Falconholt University</agent>
+    <subject>7pdciq91fg</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Brandon the Bad</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>x272emdpmb</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vagjscfqrb</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>image/vnd.microsoft.icon</mime-type>
+    <directory-path>path/to/magni.avi</directory-path>
+    <file-id type="integer">797964</file-id>
+    <storage-id type="integer">427425</storage-id>
+    <external-type type="integer">737046</external-type>
+    <file-size-bytes>1856</file-size-bytes>
+  </stream_ref>
+</doc>

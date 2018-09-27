@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">937453</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Barad-dûr</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>08fezd6325</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Tysane Frey</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>dbjoy12ymd</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bpafos4u6e</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>image/gif</mime-type>
+    <directory-path>path/to/sapiente.avi</directory-path>
+    <file-id type="integer">489770</file-id>
+    <storage-id type="integer">922829</storage-id>
+    <external-type type="integer">486436</external-type>
+    <file-size-bytes>3088</file-size-bytes>
+  </stream_ref>
+</doc>

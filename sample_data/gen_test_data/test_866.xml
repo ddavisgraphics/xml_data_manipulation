@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">594043</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Brookville University</agent>
+    <subject>v2w5agi9st</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Unella</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hxcirw178n</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ofl8zkvrxs</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>audio/ogg</mime-type>
+    <directory-path>path/to/repellat.odp</directory-path>
+    <file-id type="integer">172273</file-id>
+    <storage-id type="integer">453472</storage-id>
+    <external-type type="integer">223852</external-type>
+    <file-size-bytes>1920</file-size-bytes>
+  </stream_ref>
+</doc>

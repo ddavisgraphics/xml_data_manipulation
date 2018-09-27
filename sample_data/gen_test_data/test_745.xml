@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">103122</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Taur-en-Faroth</spatial>
+    <agent>Mallowtown TAFE</agent>
+    <subject>snv1v9mn8e</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Jon Penny</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9iclp1jft2</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>x0uue2z9g7</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>image/gif</mime-type>
+    <directory-path>path/to/sed.pdf</directory-path>
+    <file-id type="integer">982703</file-id>
+    <storage-id type="integer">92047</storage-id>
+    <external-type type="integer">308028</external-type>
+    <file-size-bytes>2464</file-size-bytes>
+  </stream_ref>
+</doc>

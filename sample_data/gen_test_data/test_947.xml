@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">998906</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>East Road</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>m9h698qfef</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Ronnel Arryn</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>0f7xpwaw4w</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>k61xjbb4ze</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>application/json</mime-type>
+    <directory-path>path/to/voluptatibus.odp</directory-path>
+    <file-id type="integer">382603</file-id>
+    <storage-id type="integer">22923</storage-id>
+    <external-type type="integer">574230</external-type>
+    <file-size-bytes>992</file-size-bytes>
+  </stream_ref>
+</doc>

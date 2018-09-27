@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">105673</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Barad-dûr</spatial>
+    <agent>Marblewald University</agent>
+    <subject>rz0m6mh6we</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Alekyne Florent</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>zc0ohbjgwd</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>emc7nxh0hj</file-name>
+    <file-extension>doc</file-extension>
+    <mime-type>application/ecmascript</mime-type>
+    <directory-path>path/to/non.json</directory-path>
+    <file-id type="integer">533435</file-id>
+    <storage-id type="integer">582769</storage-id>
+    <external-type type="integer">466984</external-type>
+    <file-size-bytes>1120</file-size-bytes>
+  </stream_ref>
+</doc>

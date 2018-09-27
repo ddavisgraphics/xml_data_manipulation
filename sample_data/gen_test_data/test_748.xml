@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">227483</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>The Void</spatial>
+    <agent>Ostbarrow Technical College</agent>
+    <subject>orrqve014f</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Eustace Brune</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>z4bzsieboi</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>p22z9402dx</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>image/vnd.microsoft.icon</mime-type>
+    <directory-path>path/to/non.js</directory-path>
+    <file-id type="integer">127681</file-id>
+    <storage-id type="integer">963453</storage-id>
+    <external-type type="integer">366758</external-type>
+    <file-size-bytes>1680</file-size-bytes>
+  </stream_ref>
+</doc>

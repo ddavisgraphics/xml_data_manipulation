@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">712178</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Isengard</spatial>
+    <agent>Flowerlake Technical College</agent>
+    <subject>6phlufekhe</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Delonne Allyrion</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>6gbxxesb63</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4uhzgkuqhs</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>application/ogg</mime-type>
+    <directory-path>path/to/et.pdf</directory-path>
+    <file-id type="integer">957365</file-id>
+    <storage-id type="integer">792269</storage-id>
+    <external-type type="integer">831218</external-type>
+    <file-size-bytes>2992</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">549673</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Argonath</spatial>
+    <agent>Ostbarrow TAFE</agent>
+    <subject>e9putk8s3v</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Mors Martell</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>k84g7it1ro</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>onmdhjyjxe</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>application/ecmascript</mime-type>
+    <directory-path>path/to/ut.avi</directory-path>
+    <file-id type="integer">538688</file-id>
+    <storage-id type="integer">801397</storage-id>
+    <external-type type="integer">685780</external-type>
+    <file-size-bytes>2656</file-size-bytes>
+  </stream_ref>
+</doc>

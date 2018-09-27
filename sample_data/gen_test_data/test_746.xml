@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">361031</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Doriath</spatial>
+    <agent>Iceborough University</agent>
+    <subject>48oixy5i5c</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Rhialta Vance</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>s17tuclk7o</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>7ju0rdocw1</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>multipart/related</mime-type>
+    <directory-path>path/to/totam.css</directory-path>
+    <file-id type="integer">521072</file-id>
+    <storage-id type="integer">457252</storage-id>
+    <external-type type="integer">500875</external-type>
+    <file-size-bytes>2496</file-size-bytes>
+  </stream_ref>
+</doc>

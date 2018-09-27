@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">258804</pid>
+  <record>
+    <creator>Grìma Wormtongue</creator>
+    <spatial>Greenway</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>2z2wmj6sxp</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Harrold Westerling</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4iyptenuy3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>p6q2wkmfl2</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/dolor.avi</directory-path>
+    <file-id type="integer">75865</file-id>
+    <storage-id type="integer">534252</storage-id>
+    <external-type type="integer">187883</external-type>
+    <file-size-bytes>1776</file-size-bytes>
+  </stream_ref>
+</doc>

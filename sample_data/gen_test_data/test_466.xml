@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">804206</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Utumno</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>1m6e9not2u</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Toregg the Tall</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>dpqqsnfjpu</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>i9mo49engj</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>application/ecmascript</mime-type>
+    <directory-path>path/to/aut.docx</directory-path>
+    <file-id type="integer">834786</file-id>
+    <storage-id type="integer">901886</storage-id>
+    <external-type type="integer">590863</external-type>
+    <file-size-bytes>288</file-size-bytes>
+  </stream_ref>
+</doc>

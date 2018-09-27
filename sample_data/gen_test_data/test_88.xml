@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">104334</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Dome of Stars</spatial>
+    <agent>Lakeacre University</agent>
+    <subject>m9xqzciww7</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Dorcas</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>no5ncvfbra</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>nqhk3zesor</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>application/EDIFACT</mime-type>
+    <directory-path>path/to/sunt.css</directory-path>
+    <file-id type="integer">860673</file-id>
+    <storage-id type="integer">533518</storage-id>
+    <external-type type="integer">713574</external-type>
+    <file-size-bytes>2544</file-size-bytes>
+  </stream_ref>
+</doc>

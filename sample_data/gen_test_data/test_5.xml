@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">613638</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Angband</spatial>
+    <agent>Mallowtown University</agent>
+    <subject>w7axs42cpx</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Maegor I Targaryen</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kr8hwf6fc0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>xv9zhivklz</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>model/x3d+xml</mime-type>
+    <directory-path>path/to/laudantium.mp3</directory-path>
+    <file-id type="integer">589906</file-id>
+    <storage-id type="integer">674203</storage-id>
+    <external-type type="integer">12311</external-type>
+    <file-size-bytes>2256</file-size-bytes>
+  </stream_ref>
+</doc>

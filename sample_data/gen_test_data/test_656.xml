@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">55620</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Ilmen</spatial>
+    <agent>Iceborough College</agent>
+    <subject>aij4r38opa</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Barth</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ilx89z3e89</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>we1hpjgqeq</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>application/xop+xml</mime-type>
+    <directory-path>path/to/qui.mp4</directory-path>
+    <file-id type="integer">516608</file-id>
+    <storage-id type="integer">483259</storage-id>
+    <external-type type="integer">576231</external-type>
+    <file-size-bytes>1952</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">827102</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Marish</spatial>
+    <agent>Icelyn University</agent>
+    <subject>eu8zvtzk22</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Kyle Condon</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ygu0de5m3m</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ca2yd7jl9x</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>message/partial</mime-type>
+    <directory-path>path/to/adipisci.webm</directory-path>
+    <file-id type="integer">130850</file-id>
+    <storage-id type="integer">249038</storage-id>
+    <external-type type="integer">133425</external-type>
+    <file-size-bytes>736</file-size-bytes>
+  </stream_ref>
+</doc>

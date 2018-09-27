@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">789920</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Dark Land</spatial>
+    <agent>Bluemeadow TAFE</agent>
+    <subject>wm291puucm</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Cellador</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>3gelu9dc9b</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>stknk1tqco</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/animi.ods</directory-path>
+    <file-id type="integer">700059</file-id>
+    <storage-id type="integer">29520</storage-id>
+    <external-type type="integer">859950</external-type>
+    <file-size-bytes>1728</file-size-bytes>
+  </stream_ref>
+</doc>

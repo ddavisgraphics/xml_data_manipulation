@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">110270</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Parth Galen</spatial>
+    <agent>Mallowpond University</agent>
+    <subject>8fevgzxbre</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Harlon Botley</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>42dqth0j0b</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>7r6r400j32</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>text/csv</mime-type>
+    <directory-path>path/to/totam.ods</directory-path>
+    <file-id type="integer">585793</file-id>
+    <storage-id type="integer">463603</storage-id>
+    <external-type type="integer">477720</external-type>
+    <file-size-bytes>1312</file-size-bytes>
+  </stream_ref>
+</doc>

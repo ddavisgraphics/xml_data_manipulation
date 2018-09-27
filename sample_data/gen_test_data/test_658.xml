@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">126636</pid>
+  <record>
+    <creator>Samwise Gamgee</creator>
+    <spatial>Carchost</spatial>
+    <agent>Mallowtown TAFE</agent>
+    <subject>rc4rmzgonz</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Timoth</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>180dogpjbs</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vossi93a4b</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>model/example</mime-type>
+    <directory-path>path/to/voluptatem.key</directory-path>
+    <file-id type="integer">331488</file-id>
+    <storage-id type="integer">205587</storage-id>
+    <external-type type="integer">728512</external-type>
+    <file-size-bytes>1088</file-size-bytes>
+  </stream_ref>
+</doc>

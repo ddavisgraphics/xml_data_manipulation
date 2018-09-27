@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">171381</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Enchanted Isles</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>fyg4l2hl4t</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Garrison Prester</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2soogkah28</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>s24qp0vqp4</file-name>
+    <file-extension>txt</file-extension>
+    <mime-type>video/x-ms-wmv</mime-type>
+    <directory-path>path/to/esse.docx</directory-path>
+    <file-id type="integer">820958</file-id>
+    <storage-id type="integer">23406</storage-id>
+    <external-type type="integer">979250</external-type>
+    <file-size-bytes>112</file-size-bytes>
+  </stream_ref>
+</doc>

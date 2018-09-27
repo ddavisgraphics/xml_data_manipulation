@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">82683</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Isengard</spatial>
+    <agent>Icelyn College</agent>
+    <subject>js7snc1gni</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Small Paul</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>h9t5l9hnw5</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>33zq56xhtv</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>audio/webm</mime-type>
+    <directory-path>path/to/est.jpg</directory-path>
+    <file-id type="integer">839348</file-id>
+    <storage-id type="integer">363622</storage-id>
+    <external-type type="integer">88935</external-type>
+    <file-size-bytes>112</file-size-bytes>
+  </stream_ref>
+</doc>

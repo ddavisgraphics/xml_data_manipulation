@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">317050</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Parth Galen</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>k740yeondt</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Franklyn Fowler</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vpxuqcec77</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>phtiw01ie3</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>application/xhtml+xml</mime-type>
+    <directory-path>path/to/omnis.json</directory-path>
+    <file-id type="integer">611136</file-id>
+    <storage-id type="integer">832437</storage-id>
+    <external-type type="integer">457745</external-type>
+    <file-size-bytes>1744</file-size-bytes>
+  </stream_ref>
+</doc>

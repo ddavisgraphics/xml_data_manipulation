@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">449760</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Taur-en-Faroth</spatial>
+    <agent>Lakeacre TAFE</agent>
+    <subject>l15rvnz36b</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Palla</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>n2ezxoi2kc</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>zeyvftvc71</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/sit.odt</directory-path>
+    <file-id type="integer">119969</file-id>
+    <storage-id type="integer">943018</storage-id>
+    <external-type type="integer">40672</external-type>
+    <file-size-bytes>2704</file-size-bytes>
+  </stream_ref>
+</doc>

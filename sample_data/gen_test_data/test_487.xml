@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">417159</pid>
+  <record>
+    <creator>Faramir</creator>
+    <spatial>Utumno</spatial>
+    <agent>Marblewald University</agent>
+    <subject>8idsgctwh3</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Bronn</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>xpf1by0nlz</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>c8mxcs0gh2</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>application/ogg</mime-type>
+    <directory-path>path/to/omnis.odp</directory-path>
+    <file-id type="integer">958516</file-id>
+    <storage-id type="integer">760385</storage-id>
+    <external-type type="integer">668735</external-type>
+    <file-size-bytes>2992</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">914578</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Isengard</spatial>
+    <agent>Vertapple TAFE</agent>
+    <subject>bhpyvw61pa</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Burton Crakehall</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kjhv7oddhl</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>w51eba42d9</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/tenetur.key</directory-path>
+    <file-id type="integer">561406</file-id>
+    <storage-id type="integer">706163</storage-id>
+    <external-type type="integer">385129</external-type>
+    <file-size-bytes>400</file-size-bytes>
+  </stream_ref>
+</doc>

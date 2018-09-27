@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">564123</pid>
+  <record>
+    <creator>Barliman Butterbur</creator>
+    <spatial>The Forsaken Inn</spatial>
+    <agent>Brighthurst University</agent>
+    <subject>imwktneh1h</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Oro Tendyris</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>dtl5jjvqkg</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4su7bw6q36</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>text/css</mime-type>
+    <directory-path>path/to/repellendus.docx</directory-path>
+    <file-id type="integer">615131</file-id>
+    <storage-id type="integer">690287</storage-id>
+    <external-type type="integer">347120</external-type>
+    <file-size-bytes>944</file-size-bytes>
+  </stream_ref>
+</doc>

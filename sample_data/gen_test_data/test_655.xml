@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">72910</pid>
+  <record>
+    <creator>Barliman Butterbur</creator>
+    <spatial>East Road</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>7uyvvydmwo</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Sarella Sand</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>v8j70nrk7i</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kh0a4p3sb2</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/corrupti.gif</directory-path>
+    <file-id type="integer">248631</file-id>
+    <storage-id type="integer">511859</storage-id>
+    <external-type type="integer">257453</external-type>
+    <file-size-bytes>2624</file-size-bytes>
+  </stream_ref>
+</doc>

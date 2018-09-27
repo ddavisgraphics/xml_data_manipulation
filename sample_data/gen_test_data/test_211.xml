@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">690622</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Tumladen</spatial>
+    <agent>Lakeacre TAFE</agent>
+    <subject>tfhmsqea68</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Temmo</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hedafafmap</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>3k0rxjosz4</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>application/postscript</mime-type>
+    <directory-path>path/to/est.mp3</directory-path>
+    <file-id type="integer">410904</file-id>
+    <storage-id type="integer">504406</storage-id>
+    <external-type type="integer">938938</external-type>
+    <file-size-bytes>2432</file-size-bytes>
+  </stream_ref>
+</doc>

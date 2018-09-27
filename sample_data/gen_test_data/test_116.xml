@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">583769</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>East Beleriand</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>a4tos9v9qg</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Syrio Forel</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>adgk2nln25</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>iyl1hxs6ie</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>application/ecmascript</mime-type>
+    <directory-path>path/to/consectetur.xls</directory-path>
+    <file-id type="integer">609947</file-id>
+    <storage-id type="integer">94794</storage-id>
+    <external-type type="integer">243333</external-type>
+    <file-size-bytes>2784</file-size-bytes>
+  </stream_ref>
+</doc>

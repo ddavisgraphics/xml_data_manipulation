@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">488379</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Tol Morwen</spatial>
+    <agent>Brookville Technical College</agent>
+    <subject>ta4cbowsby</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Kurleket</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gkcb7g1vay</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>w91vfa1ruz</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>application/xop+xml</mime-type>
+    <directory-path>path/to/alias.png</directory-path>
+    <file-id type="integer">719565</file-id>
+    <storage-id type="integer">21284</storage-id>
+    <external-type type="integer">400051</external-type>
+    <file-size-bytes>432</file-size-bytes>
+  </stream_ref>
+</doc>

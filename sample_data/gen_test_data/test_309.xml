@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">461779</pid>
+  <record>
+    <creator>Barliman Butterbur</creator>
+    <spatial>Field of Celebrant</spatial>
+    <agent>Lakeacre TAFE</agent>
+    <subject>hewmr04po7</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Warryn Beesbury</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>3u7dcuws3p</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>tbpuu23jr2</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>message/imdn+xml</mime-type>
+    <directory-path>path/to/corporis.flac</directory-path>
+    <file-id type="integer">538843</file-id>
+    <storage-id type="integer">39382</storage-id>
+    <external-type type="integer">900936</external-type>
+    <file-size-bytes>32</file-size-bytes>
+  </stream_ref>
+</doc>

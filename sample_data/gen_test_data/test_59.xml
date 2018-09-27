@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">842308</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Tol Galen</spatial>
+    <agent>Brookville University</agent>
+    <subject>uxbp513tq2</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Criston Cole</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ffbzv5u7oc</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ryrodfrlgt</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>application/gzip</mime-type>
+    <directory-path>path/to/omnis.xlsx</directory-path>
+    <file-id type="integer">66993</file-id>
+    <storage-id type="integer">994798</storage-id>
+    <external-type type="integer">972360</external-type>
+    <file-size-bytes>688</file-size-bytes>
+  </stream_ref>
+</doc>

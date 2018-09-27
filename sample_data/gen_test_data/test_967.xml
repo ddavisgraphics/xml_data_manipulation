@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">707063</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Isle of Balar</spatial>
+    <agent>Iceborough Technical College</agent>
+    <subject>0gkfrskzjy</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Rupert Crabb</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>wq73gvmd79</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>252z4t1f04</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>multipart/signed</mime-type>
+    <directory-path>path/to/officiis.ods</directory-path>
+    <file-id type="integer">205388</file-id>
+    <storage-id type="integer">375739</storage-id>
+    <external-type type="integer">567066</external-type>
+    <file-size-bytes>1920</file-size-bytes>
+  </stream_ref>
+</doc>

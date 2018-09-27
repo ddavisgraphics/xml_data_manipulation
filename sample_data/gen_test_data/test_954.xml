@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">440680</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Isengard</spatial>
+    <agent>Ironston TAFE</agent>
+    <subject>gkfnrd6l5x</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Waltyr Frey</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>qlzhn96cpq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qrjwfrs70f</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>image/vnd.microsoft.icon</mime-type>
+    <directory-path>path/to/magnam.bmp</directory-path>
+    <file-id type="integer">213918</file-id>
+    <storage-id type="integer">331079</storage-id>
+    <external-type type="integer">15767</external-type>
+    <file-size-bytes>896</file-size-bytes>
+  </stream_ref>
+</doc>

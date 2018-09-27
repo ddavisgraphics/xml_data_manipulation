@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">728821</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>The Void</spatial>
+    <agent>Ostbarrow TAFE</agent>
+    <subject>sw2751xg2g</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Helaena Targaryen</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ze84mrh5yw</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>dp2a1hzbx8</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/necessitatibus.bmp</directory-path>
+    <file-id type="integer">955528</file-id>
+    <storage-id type="integer">212594</storage-id>
+    <external-type type="integer">732916</external-type>
+    <file-size-bytes>2016</file-size-bytes>
+  </stream_ref>
+</doc>

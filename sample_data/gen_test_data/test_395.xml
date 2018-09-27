@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">62416</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Old Forest Road</spatial>
+    <agent>Lakeacre University</agent>
+    <subject>8cbkwaf6s9</subject>
+    <college>Icelyn Campus</college>
+    <committeeChair>Igon Vyrwel</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>jl2yd40hbs</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>z7tmmksuma</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>application/javascript</mime-type>
+    <directory-path>path/to/temporibus.docx</directory-path>
+    <file-id type="integer">236146</file-id>
+    <storage-id type="integer">224357</storage-id>
+    <external-type type="integer">216976</external-type>
+    <file-size-bytes>368</file-size-bytes>
+  </stream_ref>
+</doc>

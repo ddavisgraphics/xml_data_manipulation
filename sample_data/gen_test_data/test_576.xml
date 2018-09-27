@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">41627</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>East Beleriand</spatial>
+    <agent>Bluemeadow Technical College</agent>
+    <subject>jzwuh9my4g</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Aegor Rivers</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>lxhfh17205</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>hbs7qi4zy3</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>application/pdf</mime-type>
+    <directory-path>path/to/dicta.odt</directory-path>
+    <file-id type="integer">606722</file-id>
+    <storage-id type="integer">651275</storage-id>
+    <external-type type="integer">69429</external-type>
+    <file-size-bytes>1504</file-size-bytes>
+  </stream_ref>
+</doc>

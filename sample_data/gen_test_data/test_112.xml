@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">186138</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Dark Land</spatial>
+    <agent>Ostbarrow College</agent>
+    <subject>ffzpjvqowb</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Quincy Cox</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ivlxghdjxv</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>oz39ic56wi</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>message/imdn+xml</mime-type>
+    <directory-path>path/to/aut.jpg</directory-path>
+    <file-id type="integer">838493</file-id>
+    <storage-id type="integer">950761</storage-id>
+    <external-type type="integer">937365</external-type>
+    <file-size-bytes>1984</file-size-bytes>
+  </stream_ref>
+</doc>

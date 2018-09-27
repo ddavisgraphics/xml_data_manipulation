@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">977766</pid>
+  <record>
+    <creator>Barliman Butterbur</creator>
+    <spatial>Minas Tirith</spatial>
+    <agent>Falconholt Technical College</agent>
+    <subject>j3zqefkw3p</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Harys Swyft</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>rybmfwwrun</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>aqc6d84o7b</file-name>
+    <file-extension>mov</file-extension>
+    <mime-type>image/pjpeg</mime-type>
+    <directory-path>path/to/asperiores.mp4</directory-path>
+    <file-id type="integer">487651</file-id>
+    <storage-id type="integer">502114</storage-id>
+    <external-type type="integer">10877</external-type>
+    <file-size-bytes>848</file-size-bytes>
+  </stream_ref>
+</doc>

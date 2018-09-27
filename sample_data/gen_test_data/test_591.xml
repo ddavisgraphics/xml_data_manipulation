@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">217502</pid>
+  <record>
+    <creator>Barliman Butterbur</creator>
+    <spatial>Luthany</spatial>
+    <agent>Vertapple University</agent>
+    <subject>3lnvqbhczs</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Jarmen Buckwell</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>jpjldbearw</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>tvncpbq0cx</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/voluptatem.js</directory-path>
+    <file-id type="integer">775935</file-id>
+    <storage-id type="integer">989197</storage-id>
+    <external-type type="integer">52169</external-type>
+    <file-size-bytes>2304</file-size-bytes>
+  </stream_ref>
+</doc>

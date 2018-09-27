@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">105159</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Narchost</spatial>
+    <agent>Ironston Technical College</agent>
+    <subject>5tyz8ctbfs</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Benedict</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hfn82lecnm</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>wsepug9b19</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>application/xhtml+xml</mime-type>
+    <directory-path>path/to/facilis.bmp</directory-path>
+    <file-id type="integer">861679</file-id>
+    <storage-id type="integer">630571</storage-id>
+    <external-type type="integer">474696</external-type>
+    <file-size-bytes>1776</file-size-bytes>
+  </stream_ref>
+</doc>

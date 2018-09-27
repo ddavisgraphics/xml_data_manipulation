@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">444846</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Inn of the Prancing Pony</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>5i1hx5livm</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Qos</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>32k0ttawjp</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>6yss2qwbtg</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>text/csv</mime-type>
+    <directory-path>path/to/quisquam.ppt</directory-path>
+    <file-id type="integer">48906</file-id>
+    <storage-id type="integer">680983</storage-id>
+    <external-type type="integer">985360</external-type>
+    <file-size-bytes>1504</file-size-bytes>
+  </stream_ref>
+</doc>

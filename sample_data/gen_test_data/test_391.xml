@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">800161</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Tol Galen</spatial>
+    <agent>Vertapple University</agent>
+    <subject>x5q2kofjuu</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Maegor I Targaryen</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>tu2vqcbv4f</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>9j65uhtfge</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>application/gzip</mime-type>
+    <directory-path>path/to/voluptatem.jpg</directory-path>
+    <file-id type="integer">929671</file-id>
+    <storage-id type="integer">728220</storage-id>
+    <external-type type="integer">314094</external-type>
+    <file-size-bytes>2048</file-size-bytes>
+  </stream_ref>
+</doc>

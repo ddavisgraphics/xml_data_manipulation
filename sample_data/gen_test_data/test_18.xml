@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">43826</pid>
+  <record>
+    <creator>Barliman Butterbur</creator>
+    <spatial>Tumladen</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>m18kga1gx7</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Jyck</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hvugejd4d4</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>pcye86iym7</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>audio/vorbis</mime-type>
+    <directory-path>path/to/magni.flac</directory-path>
+    <file-id type="integer">996173</file-id>
+    <storage-id type="integer">677609</storage-id>
+    <external-type type="integer">412419</external-type>
+    <file-size-bytes>1808</file-size-bytes>
+  </stream_ref>
+</doc>

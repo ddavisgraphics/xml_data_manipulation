@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">237950</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Núath</spatial>
+    <agent>Mallowpond University</agent>
+    <subject>cw4dhx2316</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Dareon</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>lk5nxut368</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>015cdmby6d</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>image/tiff</mime-type>
+    <directory-path>path/to/sed.wav</directory-path>
+    <file-id type="integer">937284</file-id>
+    <storage-id type="integer">710827</storage-id>
+    <external-type type="integer">386706</external-type>
+    <file-size-bytes>1712</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">815750</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Meduseld</spatial>
+    <agent>Flowerlake Technical College</agent>
+    <subject>3k68aq0gy7</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Tagganaro</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4i0roj43zb</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>flw93zoj4t</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>application/pdf</mime-type>
+    <directory-path>path/to/repudiandae.jpeg</directory-path>
+    <file-id type="integer">333270</file-id>
+    <storage-id type="integer">359757</storage-id>
+    <external-type type="integer">256810</external-type>
+    <file-size-bytes>928</file-size-bytes>
+  </stream_ref>
+</doc>

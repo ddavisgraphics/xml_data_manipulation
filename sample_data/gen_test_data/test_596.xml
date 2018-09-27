@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">926397</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Pelennor Fields</spatial>
+    <agent>Iceborough College</agent>
+    <subject>ucia4zh3jd</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Qarro Volentin</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>rag5u536gm</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>7heds0phyl</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/ad.mp4</directory-path>
+    <file-id type="integer">245871</file-id>
+    <storage-id type="integer">520868</storage-id>
+    <external-type type="integer">55998</external-type>
+    <file-size-bytes>2128</file-size-bytes>
+  </stream_ref>
+</doc>

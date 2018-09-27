@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">590914</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Old Forest Road</spatial>
+    <agent>Ostbarrow TAFE</agent>
+    <subject>pmt1tg0fyj</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Mag Mar Tun Doh Weg</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vp1881733w</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>njlt9wl1x1</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>model/iges</mime-type>
+    <directory-path>path/to/ut.png</directory-path>
+    <file-id type="integer">786329</file-id>
+    <storage-id type="integer">137780</storage-id>
+    <external-type type="integer">682002</external-type>
+    <file-size-bytes>3072</file-size-bytes>
+  </stream_ref>
+</doc>

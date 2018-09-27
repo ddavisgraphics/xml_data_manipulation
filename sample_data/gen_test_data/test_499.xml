@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">531346</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Coldfells</spatial>
+    <agent>Falconholt College</agent>
+    <subject>piwisj0b6i</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Oswell Kettleblack</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>o3n5b6f2se</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>xaue1le9uq</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>audio/ogg</mime-type>
+    <directory-path>path/to/reprehenderit.avi</directory-path>
+    <file-id type="integer">697032</file-id>
+    <storage-id type="integer">301079</storage-id>
+    <external-type type="integer">802386</external-type>
+    <file-size-bytes>1360</file-size-bytes>
+  </stream_ref>
+</doc>

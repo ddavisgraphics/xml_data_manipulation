@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">394687</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Angband</spatial>
+    <agent>Icelyn College</agent>
+    <subject>av6frryo5g</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Lysono Maar</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>r99y3wwf3y</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0e3d8srdh6</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>application/xhtml+xml</mime-type>
+    <directory-path>path/to/sit.webm</directory-path>
+    <file-id type="integer">534556</file-id>
+    <storage-id type="integer">633642</storage-id>
+    <external-type type="integer">731544</external-type>
+    <file-size-bytes>256</file-size-bytes>
+  </stream_ref>
+</doc>

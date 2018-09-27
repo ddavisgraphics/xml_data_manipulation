@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">631835</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Isle of Balar</spatial>
+    <agent>Mallowpond College</agent>
+    <subject>400aep9idv</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Dennet</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>mh77pqf4ki</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>obgifcfefp</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>audio/mp4</mime-type>
+    <directory-path>path/to/quam.mp4</directory-path>
+    <file-id type="integer">199677</file-id>
+    <storage-id type="integer">835979</storage-id>
+    <external-type type="integer">429913</external-type>
+    <file-size-bytes>2880</file-size-bytes>
+  </stream_ref>
+</doc>

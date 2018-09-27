@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">132784</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Crack of Doom</spatial>
+    <agent>Vertapple University</agent>
+    <subject>0lnscyok1i</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Halder</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>7a9m3gkhqy</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kk4xm5j6xy</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>application/rdf+xml</mime-type>
+    <directory-path>path/to/pariatur.xlsx</directory-path>
+    <file-id type="integer">668676</file-id>
+    <storage-id type="integer">84682</storage-id>
+    <external-type type="integer">666864</external-type>
+    <file-size-bytes>1776</file-size-bytes>
+  </stream_ref>
+</doc>

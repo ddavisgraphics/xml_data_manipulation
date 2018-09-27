@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">532147</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Luthany</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>tctwl0skbu</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Mordane</committeeChair>
+    <abstract>That's it! You people have stood in my way long enough. I'm going to clown college!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>u1gjyyfaib</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>icqm62c3k2</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>model/vrml</mime-type>
+    <directory-path>path/to/explicabo.xls</directory-path>
+    <file-id type="integer">30549</file-id>
+    <storage-id type="integer">755992</storage-id>
+    <external-type type="integer">20477</external-type>
+    <file-size-bytes>2752</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">300582</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Taur-im-Duinath</spatial>
+    <agent>Mallowtown Technical College</agent>
+    <subject>6emwa4aqyd</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Clifford Conklyn</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>woyjkq59tr</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>h33jcxgj1z</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>model/iges</mime-type>
+    <directory-path>path/to/consequatur.csv</directory-path>
+    <file-id type="integer">365917</file-id>
+    <storage-id type="integer">82548</storage-id>
+    <external-type type="integer">390541</external-type>
+    <file-size-bytes>1920</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">666410</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Pelennor Fields</spatial>
+    <agent>Brookville College</agent>
+    <subject>59isgofj4d</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Torrhen Stark</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>m98lwhusns</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>1mxl3ya8g3</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/dolorem.wav</directory-path>
+    <file-id type="integer">783957</file-id>
+    <storage-id type="integer">294458</storage-id>
+    <external-type type="integer">675665</external-type>
+    <file-size-bytes>1536</file-size-bytes>
+  </stream_ref>
+</doc>

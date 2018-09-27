@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">466479</pid>
+  <record>
+    <creator>Gandalf the Grey</creator>
+    <spatial>Black Gate</spatial>
+    <agent>Ironston Technical College</agent>
+    <subject>730hltzakd</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Tanselle</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>jrsisb4ll3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>38ao9hezz1</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>application/rss+xml</mime-type>
+    <directory-path>path/to/et.pages</directory-path>
+    <file-id type="integer">279346</file-id>
+    <storage-id type="integer">662749</storage-id>
+    <external-type type="integer">229285</external-type>
+    <file-size-bytes>464</file-size-bytes>
+  </stream_ref>
+</doc>

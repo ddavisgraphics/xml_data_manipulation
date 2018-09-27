@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">138251</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Doriath</spatial>
+    <agent>Mallowpond College</agent>
+    <subject>nv7lujvb3z</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Qarl the Thrall</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>10ssbmnni1</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>m3e8ajz4o0</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>application/json</mime-type>
+    <directory-path>path/to/ea.jpeg</directory-path>
+    <file-id type="integer">504600</file-id>
+    <storage-id type="integer">888648</storage-id>
+    <external-type type="integer">23236</external-type>
+    <file-size-bytes>2448</file-size-bytes>
+  </stream_ref>
+</doc>

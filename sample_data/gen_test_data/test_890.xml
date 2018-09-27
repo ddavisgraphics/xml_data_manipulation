@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">827353</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Bag End</spatial>
+    <agent>Icelyn College</agent>
+    <subject>yd9hxtcqdm</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Jon Penny</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>icfv43i763</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>i295exyal6</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>video/x-ms-wmv</mime-type>
+    <directory-path>path/to/natus.bmp</directory-path>
+    <file-id type="integer">538289</file-id>
+    <storage-id type="integer">765483</storage-id>
+    <external-type type="integer">881610</external-type>
+    <file-size-bytes>1392</file-size-bytes>
+  </stream_ref>
+</doc>

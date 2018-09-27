@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">738614</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Coldfells</spatial>
+    <agent>Vertapple College</agent>
+    <subject>pmvcu9wh40</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Bowen Marsh</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gok23aulsh</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rc3a3pbk6t</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>video/mp4</mime-type>
+    <directory-path>path/to/dignissimos.pdf</directory-path>
+    <file-id type="integer">344033</file-id>
+    <storage-id type="integer">492574</storage-id>
+    <external-type type="integer">781270</external-type>
+    <file-size-bytes>1232</file-size-bytes>
+  </stream_ref>
+</doc>

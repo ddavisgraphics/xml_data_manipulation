@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">965500</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Old Forest</spatial>
+    <agent>Marblewald Technical College</agent>
+    <subject>m9o7o650jw</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Karyl Vance</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vbr3grh2ee</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>zjs8v31zr4</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>application/atom+xml</mime-type>
+    <directory-path>path/to/libero.xls</directory-path>
+    <file-id type="integer">394306</file-id>
+    <storage-id type="integer">419858</storage-id>
+    <external-type type="integer">496659</external-type>
+    <file-size-bytes>1632</file-size-bytes>
+  </stream_ref>
+</doc>

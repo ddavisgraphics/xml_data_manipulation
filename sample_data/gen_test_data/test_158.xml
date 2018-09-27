@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">560314</pid>
+  <record>
+    <creator>Peregrin Took</creator>
+    <spatial>Fens of Serech</spatial>
+    <agent>Lakeacre University</agent>
+    <subject>uj9wm67nwb</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Alesander Frey</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ihau32dtwd</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>pldx2gaxej</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>application/javascript</mime-type>
+    <directory-path>path/to/culpa.json</directory-path>
+    <file-id type="integer">649036</file-id>
+    <storage-id type="integer">484296</storage-id>
+    <external-type type="integer">794595</external-type>
+    <file-size-bytes>1184</file-size-bytes>
+  </stream_ref>
+</doc>

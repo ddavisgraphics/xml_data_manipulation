@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">314181</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Paths of the Dead</spatial>
+    <agent>Iceborough University</agent>
+    <subject>ttrmmcrnxy</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Igon Vyrwel</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vra32wgo7k</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>9xy31iq5fd</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>message/http</mime-type>
+    <directory-path>path/to/excepturi.docx</directory-path>
+    <file-id type="integer">263933</file-id>
+    <storage-id type="integer">877568</storage-id>
+    <external-type type="integer">336158</external-type>
+    <file-size-bytes>2944</file-size-bytes>
+  </stream_ref>
+</doc>

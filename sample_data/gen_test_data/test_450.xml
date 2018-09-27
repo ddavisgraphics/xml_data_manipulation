@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">488760</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Marish</spatial>
+    <agent>Vertapple College</agent>
+    <subject>dks2dkglmt</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Lync</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>torm9bmd79</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>gqn3euz87v</file-name>
+    <file-extension>gif</file-extension>
+    <mime-type>model/x3d+vrml</mime-type>
+    <directory-path>path/to/iure.flac</directory-path>
+    <file-id type="integer">248670</file-id>
+    <storage-id type="integer">342744</storage-id>
+    <external-type type="integer">429629</external-type>
+    <file-size-bytes>2736</file-size-bytes>
+  </stream_ref>
+</doc>

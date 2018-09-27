@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">272152</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Andustar</spatial>
+    <agent>Brookville TAFE</agent>
+    <subject>2e45b200u2</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Leana Frey</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>c3vysswk9q</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>cxhfcocjyk</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>application/xml-dtd</mime-type>
+    <directory-path>path/to/sunt.ppt</directory-path>
+    <file-id type="integer">974630</file-id>
+    <storage-id type="integer">750465</storage-id>
+    <external-type type="integer">135880</external-type>
+    <file-size-bytes>1648</file-size-bytes>
+  </stream_ref>
+</doc>

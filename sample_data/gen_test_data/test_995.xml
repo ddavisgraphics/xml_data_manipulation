@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">759123</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Warning beacons of Gondor</spatial>
+    <agent>Flowerlake Technical College</agent>
+    <subject>12x00ktyum</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Daemon I Blackfyre</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>np7vk2olmv</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kh323e4uw1</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/sit.csv</directory-path>
+    <file-id type="integer">297951</file-id>
+    <storage-id type="integer">259670</storage-id>
+    <external-type type="integer">847745</external-type>
+    <file-size-bytes>2976</file-size-bytes>
+  </stream_ref>
+</doc>

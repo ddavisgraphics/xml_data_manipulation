@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">48851</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Isle of Balar</spatial>
+    <agent>Falconholt University</agent>
+    <subject>vo5o2dm3aw</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Lucimore Botley</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>j81bwrh9nn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>88up3e3mjc</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>video/x-flv</mime-type>
+    <directory-path>path/to/voluptatum.png</directory-path>
+    <file-id type="integer">919841</file-id>
+    <storage-id type="integer">450857</storage-id>
+    <external-type type="integer">59636</external-type>
+    <file-size-bytes>2304</file-size-bytes>
+  </stream_ref>
+</doc>

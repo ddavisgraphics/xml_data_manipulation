@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">87401</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Eä</spatial>
+    <agent>Ironston College</agent>
+    <subject>62aydwnblj</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Marwyn Belmore</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kr626gvysz</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>79bgw79cpx</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>audio/webm</mime-type>
+    <directory-path>path/to/quia.mp4</directory-path>
+    <file-id type="integer">906366</file-id>
+    <storage-id type="integer">37798</storage-id>
+    <external-type type="integer">694343</external-type>
+    <file-size-bytes>896</file-size-bytes>
+  </stream_ref>
+</doc>

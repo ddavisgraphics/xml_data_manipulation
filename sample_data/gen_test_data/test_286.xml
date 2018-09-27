@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">335825</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Tol Galen</spatial>
+    <agent>Ironston Technical College</agent>
+    <subject>qs9ntm16tc</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Bess Bracken</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>eii1lad683</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rpck8uhuxo</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/assumenda.txt</directory-path>
+    <file-id type="integer">11500</file-id>
+    <storage-id type="integer">46228</storage-id>
+    <external-type type="integer">443996</external-type>
+    <file-size-bytes>3040</file-size-bytes>
+  </stream_ref>
+</doc>

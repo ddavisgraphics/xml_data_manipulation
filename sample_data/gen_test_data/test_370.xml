@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">732353</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Eä</spatial>
+    <agent>Ostbarrow University</agent>
+    <subject>dycpmvj9lk</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Symon Santagar</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>a05d429hjt</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4m0oohp3xq</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>audio/webm</mime-type>
+    <directory-path>path/to/quo.odt</directory-path>
+    <file-id type="integer">834261</file-id>
+    <storage-id type="integer">787643</storage-id>
+    <external-type type="integer">40882</external-type>
+    <file-size-bytes>2208</file-size-bytes>
+  </stream_ref>
+</doc>

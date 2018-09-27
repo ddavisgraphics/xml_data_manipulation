@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">163123</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Eä</spatial>
+    <agent>Flowerlake Technical College</agent>
+    <subject>tf0rhycqbz</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Daella Targaryen</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>mnubptiuxa</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>1fccji31h1</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>audio/mp4</mime-type>
+    <directory-path>path/to/nostrum.pdf</directory-path>
+    <file-id type="integer">442626</file-id>
+    <storage-id type="integer">196729</storage-id>
+    <external-type type="integer">466636</external-type>
+    <file-size-bytes>2336</file-size-bytes>
+  </stream_ref>
+</doc>

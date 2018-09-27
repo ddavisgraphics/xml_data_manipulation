@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">539321</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Hobbit-hole</spatial>
+    <agent>Ostbarrow Technical College</agent>
+    <subject>bxet8nvsr9</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Haggon</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>8fcl4d1b6r</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>jlevobgoxm</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>text/plain</mime-type>
+    <directory-path>path/to/et.ppt</directory-path>
+    <file-id type="integer">487228</file-id>
+    <storage-id type="integer">708766</storage-id>
+    <external-type type="integer">547711</external-type>
+    <file-size-bytes>848</file-size-bytes>
+  </stream_ref>
+</doc>

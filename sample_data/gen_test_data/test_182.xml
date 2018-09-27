@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">594731</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Tol-in-Gaurhoth</spatial>
+    <agent>Ironbarrow College</agent>
+    <subject>y6ebmc61en</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Ralf Stonehouse</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>623ice6e63</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>y4tuwo64yl</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>application/atom+xml</mime-type>
+    <directory-path>path/to/non.gif</directory-path>
+    <file-id type="integer">23870</file-id>
+    <storage-id type="integer">463778</storage-id>
+    <external-type type="integer">774235</external-type>
+    <file-size-bytes>992</file-size-bytes>
+  </stream_ref>
+</doc>

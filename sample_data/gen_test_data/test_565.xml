@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">725687</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Doriath</spatial>
+    <agent>Lakeacre College</agent>
+    <subject>vrg932l34m</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Jhogo</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>0t5bao8z2m</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rewhyzchp6</file-name>
+    <file-extension>xls</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/aut.webm</directory-path>
+    <file-id type="integer">428593</file-id>
+    <storage-id type="integer">360880</storage-id>
+    <external-type type="integer">990113</external-type>
+    <file-size-bytes>768</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">191410</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Elostirion</spatial>
+    <agent>Mallowpond Technical College</agent>
+    <subject>5j7hrkzi4l</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Donyse</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>e8vs2uw39h</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>sp1gy4gfh2</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/earum.jpeg</directory-path>
+    <file-id type="integer">511027</file-id>
+    <storage-id type="integer">888382</storage-id>
+    <external-type type="integer">318858</external-type>
+    <file-size-bytes>112</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">790984</pid>
+  <record>
+    <creator>Shadowfax</creator>
+    <spatial>Luthany</spatial>
+    <agent>Clearcourt Technical College</agent>
+    <subject>8xb7ckgbgq</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Samwell Spicer</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>zet9r8uyy4</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kmh4wu37qx</file-name>
+    <file-extension>doc</file-extension>
+    <mime-type>application/rdf+xml</mime-type>
+    <directory-path>path/to/nisi.ppt</directory-path>
+    <file-id type="integer">845382</file-id>
+    <storage-id type="integer">71839</storage-id>
+    <external-type type="integer">183803</external-type>
+    <file-size-bytes>1856</file-size-bytes>
+  </stream_ref>
+</doc>

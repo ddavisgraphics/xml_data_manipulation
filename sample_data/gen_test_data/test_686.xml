@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">395266</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>East Road</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>ob277azp6t</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Goodwin</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>tjljlo4keq</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rwg7bciqr2</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>multipart/related</mime-type>
+    <directory-path>path/to/ea.json</directory-path>
+    <file-id type="integer">659979</file-id>
+    <storage-id type="integer">596471</storage-id>
+    <external-type type="integer">743455</external-type>
+    <file-size-bytes>656</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">602170</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Eithel Sirion</spatial>
+    <agent>Ironbarrow TAFE</agent>
+    <subject>j82c0wt94r</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Ollo Lophand</committeeChair>
+    <abstract>Go out on a Tuesday? Who am I, Charlie Sheen?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>aa2xvswskm</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>n1emffjnnw</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>application/pdf</mime-type>
+    <directory-path>path/to/corporis.mp4</directory-path>
+    <file-id type="integer">641664</file-id>
+    <storage-id type="integer">602820</storage-id>
+    <external-type type="integer">650912</external-type>
+    <file-size-bytes>1920</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">284547</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Taur-en-Faroth</spatial>
+    <agent>Icelyn University</agent>
+    <subject>9xbudjeh0q</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Robett Glover</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>czpkb00e74</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>yrjssofasy</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>audio/ogg</mime-type>
+    <directory-path>path/to/atque.xls</directory-path>
+    <file-id type="integer">99078</file-id>
+    <storage-id type="integer">793150</storage-id>
+    <external-type type="integer">423554</external-type>
+    <file-size-bytes>3152</file-size-bytes>
+  </stream_ref>
+</doc>

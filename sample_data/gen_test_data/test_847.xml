@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">378278</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Lakeacre University</agent>
+    <subject>zjno33pfb9</subject>
+    <college>Bluemeadow Campus</college>
+    <committeeChair>Rohanne Webber</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>p8hrkfiupn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>addxy7miby</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>image/tiff</mime-type>
+    <directory-path>path/to/laborum.xls</directory-path>
+    <file-id type="integer">653067</file-id>
+    <storage-id type="integer">662981</storage-id>
+    <external-type type="integer">93086</external-type>
+    <file-size-bytes>560</file-size-bytes>
+  </stream_ref>
+</doc>

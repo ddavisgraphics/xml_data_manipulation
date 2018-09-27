@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">888939</pid>
+  <record>
+    <creator>Aragorn</creator>
+    <spatial>Dome of Stars</spatial>
+    <agent>Flowerlake College</agent>
+    <subject>shyk8vcehi</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Kraznys mo Nakloz</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>jzfbqqapvk</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vs0gpb687k</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>model/x3d+binary</mime-type>
+    <directory-path>path/to/soluta.bmp</directory-path>
+    <file-id type="integer">756516</file-id>
+    <storage-id type="integer">483261</storage-id>
+    <external-type type="integer">225766</external-type>
+    <file-size-bytes>1264</file-size-bytes>
+  </stream_ref>
+</doc>

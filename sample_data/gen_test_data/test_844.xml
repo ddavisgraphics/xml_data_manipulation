@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">266507</pid>
+  <record>
+    <creator>Shelob</creator>
+    <spatial>Eä</spatial>
+    <agent>Iceborough TAFE</agent>
+    <subject>v7ghugbppj</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Dirk</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>2aennl0zww</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>v4egn6d4a4</file-name>
+    <file-extension>ppt</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/quo.pages</directory-path>
+    <file-id type="integer">982135</file-id>
+    <storage-id type="integer">924471</storage-id>
+    <external-type type="integer">935296</external-type>
+    <file-size-bytes>960</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">539456</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>East Beleriand</spatial>
+    <agent>Falconholt University</agent>
+    <subject>kb4tqkp0hs</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Vargo Hoat</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vnu5pv7ide</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bv3g6a5xet</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/doloremque.jpeg</directory-path>
+    <file-id type="integer">693203</file-id>
+    <storage-id type="integer">95564</storage-id>
+    <external-type type="integer">29517</external-type>
+    <file-size-bytes>384</file-size-bytes>
+  </stream_ref>
+</doc>

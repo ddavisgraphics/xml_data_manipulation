@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">494366</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Luthany</spatial>
+    <agent>Lakeacre College</agent>
+    <subject>g646qwwq9v</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Meralyn</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>xariml82a9</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ifypgfwy96</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>multipart/alternative</mime-type>
+    <directory-path>path/to/debitis.mov</directory-path>
+    <file-id type="integer">507741</file-id>
+    <storage-id type="integer">488634</storage-id>
+    <external-type type="integer">20728</external-type>
+    <file-size-bytes>2784</file-size-bytes>
+  </stream_ref>
+</doc>

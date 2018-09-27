@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">685303</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>Taur-en-Faroth</spatial>
+    <agent>Ironston Technical College</agent>
+    <subject>9zlp30jzr1</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Arneld</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vhpjddfmn3</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>t4qm6vaw90</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>video/x-matroska</mime-type>
+    <directory-path>path/to/aut.bmp</directory-path>
+    <file-id type="integer">454684</file-id>
+    <storage-id type="integer">385545</storage-id>
+    <external-type type="integer">343368</external-type>
+    <file-size-bytes>2528</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">42510</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Eithel Sirion</spatial>
+    <agent>Vertapple TAFE</agent>
+    <subject>giez5p5501</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Triston of Tally Hill</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>uafs01qs6t</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vkno8m0e07</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>text/html</mime-type>
+    <directory-path>path/to/velit.ppt</directory-path>
+    <file-id type="integer">884332</file-id>
+    <storage-id type="integer">641466</storage-id>
+    <external-type type="integer">680044</external-type>
+    <file-size-bytes>1872</file-size-bytes>
+  </stream_ref>
+</doc>

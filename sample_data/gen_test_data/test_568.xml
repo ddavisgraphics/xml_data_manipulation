@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">221628</pid>
+  <record>
+    <creator>Bilbo Baggins</creator>
+    <spatial>Land of the Sun</spatial>
+    <agent>Vertapple University</agent>
+    <subject>gmlsz249jk</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Jeyne Rivers</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>mtj9pgjv2z</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>vmaiw4830h</file-name>
+    <file-extension>csv</file-extension>
+    <mime-type>image/jpeg</mime-type>
+    <directory-path>path/to/possimus.js</directory-path>
+    <file-id type="integer">165558</file-id>
+    <storage-id type="integer">996515</storage-id>
+    <external-type type="integer">126327</external-type>
+    <file-size-bytes>1360</file-size-bytes>
+  </stream_ref>
+</doc>

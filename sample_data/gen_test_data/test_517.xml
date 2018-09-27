@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">850008</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Regions of the Shire</spatial>
+    <agent>Ironston University</agent>
+    <subject>jrowiryjqh</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Orbelo</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>qp4rj60jkl</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>6dk8bi6jwd</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>multipart/signed</mime-type>
+    <directory-path>path/to/ut.png</directory-path>
+    <file-id type="integer">627446</file-id>
+    <storage-id type="integer">650973</storage-id>
+    <external-type type="integer">801431</external-type>
+    <file-size-bytes>928</file-size-bytes>
+  </stream_ref>
+</doc>

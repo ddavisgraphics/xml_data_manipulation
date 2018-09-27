@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">106468</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Eithel Sirion</spatial>
+    <agent>Iceborough Technical College</agent>
+    <subject>mnfdgs540d</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Norjen</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>4wjh288bs8</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>h0u1v41mzt</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/sunt.js</directory-path>
+    <file-id type="integer">694103</file-id>
+    <storage-id type="integer">875838</storage-id>
+    <external-type type="integer">183512</external-type>
+    <file-size-bytes>800</file-size-bytes>
+  </stream_ref>
+</doc>

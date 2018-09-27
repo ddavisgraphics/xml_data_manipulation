@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">47148</pid>
+  <record>
+    <creator>Legolas</creator>
+    <spatial>Tol-in-Gaurhoth</spatial>
+    <agent>Brighthurst College</agent>
+    <subject>zwwcmeie8d</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Cynthea Frey</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>bi2itzx7r7</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>41zee1qlyb</file-name>
+    <file-extension>avi</file-extension>
+    <mime-type>audio/vnd.wave</mime-type>
+    <directory-path>path/to/velit.pages</directory-path>
+    <file-id type="integer">607798</file-id>
+    <storage-id type="integer">828370</storage-id>
+    <external-type type="integer">216135</external-type>
+    <file-size-bytes>3184</file-size-bytes>
+  </stream_ref>
+</doc>

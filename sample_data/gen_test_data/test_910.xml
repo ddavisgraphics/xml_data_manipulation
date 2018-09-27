@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">313059</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Falls of Rauros</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>6r2tmr5yjj</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Jalabhar Xho</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>adbgw5su6n</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>3g4j4xkjvu</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>application/xop+xml</mime-type>
+    <directory-path>path/to/voluptatem.gif</directory-path>
+    <file-id type="integer">858441</file-id>
+    <storage-id type="integer">405948</storage-id>
+    <external-type type="integer">860036</external-type>
+    <file-size-bytes>2944</file-size-bytes>
+  </stream_ref>
+</doc>

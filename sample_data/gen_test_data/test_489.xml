@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">169341</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Cirith Ungol</spatial>
+    <agent>Ironbarrow University</agent>
+    <subject>9syq9ba7w1</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Aegor Rivers</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>e4jvqmx6g9</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>oc6pb1evk4</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>video/x-matroska</mime-type>
+    <directory-path>path/to/itaque.html</directory-path>
+    <file-id type="integer">902531</file-id>
+    <storage-id type="integer">913472</storage-id>
+    <external-type type="integer">578293</external-type>
+    <file-size-bytes>2848</file-size-bytes>
+  </stream_ref>
+</doc>

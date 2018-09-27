@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">897905</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Meduseld</spatial>
+    <agent>Ironbarrow College</agent>
+    <subject>4kxy6bojzn</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Aemon Targaryen</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ro6hirrp3w</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ucycu7jeez</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/sint.js</directory-path>
+    <file-id type="integer">910954</file-id>
+    <storage-id type="integer">24261</storage-id>
+    <external-type type="integer">360325</external-type>
+    <file-size-bytes>2080</file-size-bytes>
+  </stream_ref>
+</doc>

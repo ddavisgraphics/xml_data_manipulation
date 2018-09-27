@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">580666</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Dome of Stars</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>t7kaxh4zz3</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Cheyk</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vmax9bm5mt</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>0bo3k2dp1x</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>multipart/encrypted</mime-type>
+    <directory-path>path/to/est.odp</directory-path>
+    <file-id type="integer">11688</file-id>
+    <storage-id type="integer">280377</storage-id>
+    <external-type type="integer">501187</external-type>
+    <file-size-bytes>2640</file-size-bytes>
+  </stream_ref>
+</doc>

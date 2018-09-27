@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">239832</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Isle of Balar</spatial>
+    <agent>Flowerlake TAFE</agent>
+    <subject>3guuufnk4n</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Viserys I Targaryen</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>bqna2udxs9</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>z5hh0dz2su</file-name>
+    <file-extension>flac</file-extension>
+    <mime-type>audio/basic</mime-type>
+    <directory-path>path/to/ut.avi</directory-path>
+    <file-id type="integer">581984</file-id>
+    <storage-id type="integer">412740</storage-id>
+    <external-type type="integer">952001</external-type>
+    <file-size-bytes>3040</file-size-bytes>
+  </stream_ref>
+</doc>

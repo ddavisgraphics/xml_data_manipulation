@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">105586</pid>
+  <record>
+    <creator>Barliman Butterbur</creator>
+    <spatial>Meduseld</spatial>
+    <agent>Flowerlake College</agent>
+    <subject>wjm4q6fewq</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Meralyn</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>hgr7fvt93g</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>1m8mct6n3m</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>text/cmd</mime-type>
+    <directory-path>path/to/nesciunt.doc</directory-path>
+    <file-id type="integer">830464</file-id>
+    <storage-id type="integer">28353</storage-id>
+    <external-type type="integer">163991</external-type>
+    <file-size-bytes>1264</file-size-bytes>
+  </stream_ref>
+</doc>

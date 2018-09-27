@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">115736</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Henneth Annûn</spatial>
+    <agent>Clearcourt University</agent>
+    <subject>b4q2u1peks</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Quenten Banefort</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>x23zaixo0h</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>8prwlt31nl</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>video/mp4</mime-type>
+    <directory-path>path/to/harum.avi</directory-path>
+    <file-id type="integer">23596</file-id>
+    <storage-id type="integer">880788</storage-id>
+    <external-type type="integer">479856</external-type>
+    <file-size-bytes>1536</file-size-bytes>
+  </stream_ref>
+</doc>

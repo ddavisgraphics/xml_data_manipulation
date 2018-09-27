@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">734053</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Houses of Healing</spatial>
+    <agent>Icelyn TAFE</agent>
+    <subject>zhi6r7r1ve</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Aegon Targaryen</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>vpg0f8ernz</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>4ju7kqro9x</file-name>
+    <file-extension>mp3</file-extension>
+    <mime-type>image/jpeg</mime-type>
+    <directory-path>path/to/et.odp</directory-path>
+    <file-id type="integer">533621</file-id>
+    <storage-id type="integer">809392</storage-id>
+    <external-type type="integer">69639</external-type>
+    <file-size-bytes>992</file-size-bytes>
+  </stream_ref>
+</doc>

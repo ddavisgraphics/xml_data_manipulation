@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">623576</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Hobbit-hole</spatial>
+    <agent>Vertapple TAFE</agent>
+    <subject>knp52naz54</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Ronnel Harclay</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>1nbke0a6xr</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>8z4jlk889t</file-name>
+    <file-extension>pages</file-extension>
+    <mime-type>multipart/mixed</mime-type>
+    <directory-path>path/to/laudantium.css</directory-path>
+    <file-id type="integer">788458</file-id>
+    <storage-id type="integer">975963</storage-id>
+    <external-type type="integer">817989</external-type>
+    <file-size-bytes>400</file-size-bytes>
+  </stream_ref>
+</doc>

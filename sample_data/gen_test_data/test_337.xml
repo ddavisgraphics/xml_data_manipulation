@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">679023</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Henneth Annûn</spatial>
+    <agent>Brighthurst TAFE</agent>
+    <subject>76uvtisax1</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Maggy</committeeChair>
+    <abstract>Cheating is the gift man gives himself.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>93fztl1xm0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>imzth3a4jv</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>text/css</mime-type>
+    <directory-path>path/to/et.gif</directory-path>
+    <file-id type="integer">699796</file-id>
+    <storage-id type="integer">304080</storage-id>
+    <external-type type="integer">566093</external-type>
+    <file-size-bytes>1840</file-size-bytes>
+  </stream_ref>
+</doc>

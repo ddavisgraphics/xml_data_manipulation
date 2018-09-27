@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">150729</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Ilmen</spatial>
+    <agent>Mallowpond TAFE</agent>
+    <subject>gy4e8exrm6</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Gareth Clifton</committeeChair>
+    <abstract>Trust me, Bart, it's better to walk in on both your parents than on just one of them.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>7s6j3bt8fs</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>p3l2ukpggo</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>model/iges</mime-type>
+    <directory-path>path/to/et.xls</directory-path>
+    <file-id type="integer">166532</file-id>
+    <storage-id type="integer">475509</storage-id>
+    <external-type type="integer">11360</external-type>
+    <file-size-bytes>2416</file-size-bytes>
+  </stream_ref>
+</doc>

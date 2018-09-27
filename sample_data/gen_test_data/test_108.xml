@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">845240</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Taur-im-Duinath</spatial>
+    <agent>Lakeacre University</agent>
+    <subject>19tcxjduix</subject>
+    <college>Clearcourt Campus</college>
+    <committeeChair>Donnel Hill</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>m085p0l7pn</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>b55nsxsj2t</file-name>
+    <file-extension>jpeg</file-extension>
+    <mime-type>application/EDIFACT</mime-type>
+    <directory-path>path/to/ut.json</directory-path>
+    <file-id type="integer">234253</file-id>
+    <storage-id type="integer">566970</storage-id>
+    <external-type type="integer">310320</external-type>
+    <file-size-bytes>1248</file-size-bytes>
+  </stream_ref>
+</doc>

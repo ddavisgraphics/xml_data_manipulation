@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">692745</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Tumladen</spatial>
+    <agent>Ironston College</agent>
+    <subject>tyc5i6cj5e</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Allyria Dayne</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gyezhvyu6s</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>cptf1q9saq</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>text/xml</mime-type>
+    <directory-path>path/to/et.css</directory-path>
+    <file-id type="integer">763749</file-id>
+    <storage-id type="integer">769777</storage-id>
+    <external-type type="integer">57982</external-type>
+    <file-size-bytes>2176</file-size-bytes>
+  </stream_ref>
+</doc>

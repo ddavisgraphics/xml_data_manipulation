@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">416031</pid>
+  <record>
+    <creator>Gollum</creator>
+    <spatial>Marish</spatial>
+    <agent>Iceborough TAFE</agent>
+    <subject>t0z6vdc8qi</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Humfrey Swyft</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>e7b34qr2m0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>i9mqkb0puj</file-name>
+    <file-extension>jpg</file-extension>
+    <mime-type>model/iges</mime-type>
+    <directory-path>path/to/ut.flac</directory-path>
+    <file-id type="integer">711494</file-id>
+    <storage-id type="integer">576467</storage-id>
+    <external-type type="integer">310125</external-type>
+    <file-size-bytes>1840</file-size-bytes>
+  </stream_ref>
+</doc>

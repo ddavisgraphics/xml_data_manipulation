@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">950305</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Ilmen</spatial>
+    <agent>Clearcourt University</agent>
+    <subject>k4lm6qudzo</subject>
+    <college>Falconholt Campus</college>
+    <committeeChair>Osfryd Kettleblack</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>kb46yszk5e</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>34kj7hoqe8</file-name>
+    <file-extension>json</file-extension>
+    <mime-type>image/vnd.microsoft.icon</mime-type>
+    <directory-path>path/to/est.js</directory-path>
+    <file-id type="integer">848108</file-id>
+    <storage-id type="integer">941896</storage-id>
+    <external-type type="integer">248014</external-type>
+    <file-size-bytes>704</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">853374</pid>
+  <record>
+    <creator>Beregond</creator>
+    <spatial>Doriath</spatial>
+    <agent>Brookville Technical College</agent>
+    <subject>wff3eh9v6u</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Kojja Mo</committeeChair>
+    <abstract>You tried your best and you failed miserably. The lesson is: Never try.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>45xm8vonay</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>akrejxymp7</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>text/cmd</mime-type>
+    <directory-path>path/to/qui.tiff</directory-path>
+    <file-id type="integer">935436</file-id>
+    <storage-id type="integer">740889</storage-id>
+    <external-type type="integer">589017</external-type>
+    <file-size-bytes>2400</file-size-bytes>
+  </stream_ref>
+</doc>

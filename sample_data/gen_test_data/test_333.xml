@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">673196</pid>
+  <record>
+    <creator>Quickbeam</creator>
+    <spatial>Crack of Doom</spatial>
+    <agent>Ironbarrow College</agent>
+    <subject>vrgzgudyvp</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Biter</committeeChair>
+    <abstract>Oh, loneliness and cheeseburgers are a dangerous mix.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>9k6q81azki</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>284r3p26m0</file-name>
+    <file-extension>bmp</file-extension>
+    <mime-type>audio/vorbis</mime-type>
+    <directory-path>path/to/aliquam.pages</directory-path>
+    <file-id type="integer">492201</file-id>
+    <storage-id type="integer">10322</storage-id>
+    <external-type type="integer">472221</external-type>
+    <file-size-bytes>1648</file-size-bytes>
+  </stream_ref>
+</doc>

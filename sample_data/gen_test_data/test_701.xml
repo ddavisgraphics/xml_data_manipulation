@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">84285</pid>
+  <record>
+    <creator>Glorfindel</creator>
+    <spatial>Tol Brandir</spatial>
+    <agent>Clearcourt College</agent>
+    <subject>xckbonpgve</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Murenmure</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>j9rdhe2ql1</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bzypc9shrn</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>application/ecmascript</mime-type>
+    <directory-path>path/to/ea.jpeg</directory-path>
+    <file-id type="integer">568572</file-id>
+    <storage-id type="integer">712120</storage-id>
+    <external-type type="integer">620391</external-type>
+    <file-size-bytes>112</file-size-bytes>
+  </stream_ref>
+</doc>

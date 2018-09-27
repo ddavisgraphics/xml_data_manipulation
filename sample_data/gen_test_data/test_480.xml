@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">450498</pid>
+  <record>
+    <creator>Gimli</creator>
+    <spatial>Taur-im-Duinath</spatial>
+    <agent>Brighthurst Technical College</agent>
+    <subject>e97vhpqs19</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Dudley</committeeChair>
+    <abstract>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>re4y57iiky</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>oqbl3q40z5</file-name>
+    <file-extension>html</file-extension>
+    <mime-type>application/javascript</mime-type>
+    <directory-path>path/to/pariatur.xlsx</directory-path>
+    <file-id type="integer">317253</file-id>
+    <storage-id type="integer">410325</storage-id>
+    <external-type type="integer">810945</external-type>
+    <file-size-bytes>2000</file-size-bytes>
+  </stream_ref>
+</doc>

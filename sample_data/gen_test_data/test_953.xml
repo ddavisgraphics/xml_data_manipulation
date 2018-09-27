@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">444704</pid>
+  <record>
+    <creator>Treebeard</creator>
+    <spatial>Núath</spatial>
+    <agent>Falconholt Technical College</agent>
+    <subject>mvs76p84l7</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Bedwyck</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>1loy6ag1yl</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>qpw7r2xcow</file-name>
+    <file-extension>tiff</file-extension>
+    <mime-type>image/tiff</mime-type>
+    <directory-path>path/to/itaque.html</directory-path>
+    <file-id type="integer">60423</file-id>
+    <storage-id type="integer">707211</storage-id>
+    <external-type type="integer">486157</external-type>
+    <file-size-bytes>1024</file-size-bytes>
+  </stream_ref>
+</doc>

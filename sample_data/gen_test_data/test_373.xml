@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">551873</pid>
+  <record>
+    <creator>Éowyn</creator>
+    <spatial>Dome of Stars</spatial>
+    <agent>Icelyn College</agent>
+    <subject>azn81fco5c</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Erreg</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>rd66j6osf0</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>scgiacxrs5</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>audio/mp4</mime-type>
+    <directory-path>path/to/aliquid.mp4</directory-path>
+    <file-id type="integer">638900</file-id>
+    <storage-id type="integer">506015</storage-id>
+    <external-type type="integer">267287</external-type>
+    <file-size-bytes>2848</file-size-bytes>
+  </stream_ref>
+</doc>

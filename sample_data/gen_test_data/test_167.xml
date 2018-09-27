@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">91407</pid>
+  <record>
+    <creator>Elrond</creator>
+    <spatial>Taur-en-Faroth</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>nayfm64rfv</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Arnell</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ui2ayzqfal</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>q5mtkd33os</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>image/tiff</mime-type>
+    <directory-path>path/to/rerum.mp3</directory-path>
+    <file-id type="integer">352205</file-id>
+    <storage-id type="integer">393475</storage-id>
+    <external-type type="integer">280676</external-type>
+    <file-size-bytes>1520</file-size-bytes>
+  </stream_ref>
+</doc>

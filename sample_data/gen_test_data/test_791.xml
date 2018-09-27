@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">381404</pid>
+  <record>
+    <creator>Tom Bombadil</creator>
+    <spatial>Old Forest</spatial>
+    <agent>Icelyn University</agent>
+    <subject>t4zo06c4of</subject>
+    <college>Ironston Campus</college>
+    <committeeChair>Sigrin</committeeChair>
+    <abstract>When will I learn? The answers to life’s problems aren’t at the bottom of a bottle, they’re on TV!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>s6tfueah8v</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>l7ub28klcv</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>video/x-flv</mime-type>
+    <directory-path>path/to/et.mp4</directory-path>
+    <file-id type="integer">433173</file-id>
+    <storage-id type="integer">145508</storage-id>
+    <external-type type="integer">468411</external-type>
+    <file-size-bytes>2368</file-size-bytes>
+  </stream_ref>
+</doc>

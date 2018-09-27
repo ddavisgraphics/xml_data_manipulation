@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">871909</pid>
+  <record>
+    <creator>Galadriel</creator>
+    <spatial>Regions of the Shire</spatial>
+    <agent>Iceborough TAFE</agent>
+    <subject>r5qy22157p</subject>
+    <college>Mallowtown Campus</college>
+    <committeeChair>Jeyne</committeeChair>
+    <abstract>Kill my boss? Do I dare live out the American dream?</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>osidrnsblb</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>x4f6k6kqkl</file-name>
+    <file-extension>webm</file-extension>
+    <mime-type>application/rdf+xml</mime-type>
+    <directory-path>path/to/sunt.xls</directory-path>
+    <file-id type="integer">809081</file-id>
+    <storage-id type="integer">611324</storage-id>
+    <external-type type="integer">94726</external-type>
+    <file-size-bytes>832</file-size-bytes>
+  </stream_ref>
+</doc>

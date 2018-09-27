@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">373967</pid>
+  <record>
+    <creator>Sauron</creator>
+    <spatial>Ilmen</spatial>
+    <agent>Lakeacre College</agent>
+    <subject>dwyfcuw9lv</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Guncer Sunglass</committeeChair>
+    <abstract>Books are useless! I only ever read one book, To Kill A Mockingbird, and it gave me absolutely no insight on how to kill mockingbirds!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>u3c2z0np2d</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>rcv2gw0yaz</file-name>
+    <file-extension>css</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/facere.png</directory-path>
+    <file-id type="integer">54891</file-id>
+    <storage-id type="integer">702020</storage-id>
+    <external-type type="integer">854076</external-type>
+    <file-size-bytes>128</file-size-bytes>
+  </stream_ref>
+</doc>

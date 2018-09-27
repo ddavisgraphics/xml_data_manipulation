@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">202641</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Barad-dûr</spatial>
+    <agent>Ironbarrow Technical College</agent>
+    <subject>l34ly31k90</subject>
+    <college>Iceborough Campus</college>
+    <committeeChair>Puckens</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>cp953whecc</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>gkwwka2nwv</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>audio/webm</mime-type>
+    <directory-path>path/to/est.doc</directory-path>
+    <file-id type="integer">519879</file-id>
+    <storage-id type="integer">490427</storage-id>
+    <external-type type="integer">160855</external-type>
+    <file-size-bytes>176</file-size-bytes>
+  </stream_ref>
+</doc>

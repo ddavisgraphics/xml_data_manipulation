@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">920393</pid>
+  <record>
+    <creator>Meriadoc Brandybuck</creator>
+    <spatial>Haven of the Eldar</spatial>
+    <agent>Brookville College</agent>
+    <subject>ase05k5j5t</subject>
+    <college>Lakeacre Campus</college>
+    <committeeChair>Barsena Blackhair</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>xcnda61pru</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bl8qh5b3oq</file-name>
+    <file-extension>xlsx</file-extension>
+    <mime-type>application/ogg</mime-type>
+    <directory-path>path/to/quia.odp</directory-path>
+    <file-id type="integer">410257</file-id>
+    <storage-id type="integer">812816</storage-id>
+    <external-type type="integer">211044</external-type>
+    <file-size-bytes>864</file-size-bytes>
+  </stream_ref>
+</doc>

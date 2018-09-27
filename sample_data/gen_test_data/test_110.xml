@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">971883</pid>
+  <record>
+    <creator>Gimli</creator>
+    <spatial>Field of Celebrant</spatial>
+    <agent>Falconholt Technical College</agent>
+    <subject>axhb6m6bka</subject>
+    <college>Mallowpond Campus</college>
+    <committeeChair>Devan Seaworth</committeeChair>
+    <abstract>D'oh!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>rcnoiz130g</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>2kiks99b4c</file-name>
+    <file-extension>odt</file-extension>
+    <mime-type>video/mp4</mime-type>
+    <directory-path>path/to/quas.tiff</directory-path>
+    <file-id type="integer">180402</file-id>
+    <storage-id type="integer">772169</storage-id>
+    <external-type type="integer">185693</external-type>
+    <file-size-bytes>1792</file-size-bytes>
+  </stream_ref>
+</doc>

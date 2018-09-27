@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">151968</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>Tol-in-Gaurhoth</spatial>
+    <agent>Mallowpond College</agent>
+    <subject>cuh26f7762</subject>
+    <college>Ironbarrow Campus</college>
+    <committeeChair>Hunnimore</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>jgx5nspbf8</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>ardtmfsify</file-name>
+    <file-extension>docx</file-extension>
+    <mime-type>audio/vnd.rn-realaudio</mime-type>
+    <directory-path>path/to/est.mp3</directory-path>
+    <file-id type="integer">89798</file-id>
+    <storage-id type="integer">864224</storage-id>
+    <external-type type="integer">931966</external-type>
+    <file-size-bytes>1600</file-size-bytes>
+  </stream_ref>
+</doc>

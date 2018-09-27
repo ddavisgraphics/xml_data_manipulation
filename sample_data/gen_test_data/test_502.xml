@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">675397</pid>
+  <record>
+    <creator>Saruman the White</creator>
+    <spatial>Timeless Halls</spatial>
+    <agent>Bluemeadow University</agent>
+    <subject>4ge3zhktz4</subject>
+    <college>Marblewald Campus</college>
+    <committeeChair>Aladale Wynch</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>ppfc7erahx</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>bqsrcjcse3</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>application/ecmascript</mime-type>
+    <directory-path>path/to/hic.pages</directory-path>
+    <file-id type="integer">530977</file-id>
+    <storage-id type="integer">109623</storage-id>
+    <external-type type="integer">975566</external-type>
+    <file-size-bytes>3008</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">13036</pid>
+  <record>
+    <creator>Arwen Evenstar</creator>
+    <spatial>Barad-dûr</spatial>
+    <agent>Icelyn College</agent>
+    <subject>y7hrgu1tya</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Gawen Glover</committeeChair>
+    <abstract>It takes two to lie: one to lie and one to listen.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>590uhvknrl</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>xhttq6jjp3</file-name>
+    <file-extension>pdf</file-extension>
+    <mime-type>audio/vnd.wave</mime-type>
+    <directory-path>path/to/quidem.xls</directory-path>
+    <file-id type="integer">510023</file-id>
+    <storage-id type="integer">487183</storage-id>
+    <external-type type="integer">901012</external-type>
+    <file-size-bytes>2640</file-size-bytes>
+  </stream_ref>
+</doc>

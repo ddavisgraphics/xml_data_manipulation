@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">907232</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Helm's Deep</spatial>
+    <agent>Vertapple Technical College</agent>
+    <subject>o09m6iixhp</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Jon Umber</committeeChair>
+    <abstract>Marriage is like a coffin and each kid is another nail.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>gsq4t59h9s</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>secxa0gjhx</file-name>
+    <file-extension>ods</file-extension>
+    <mime-type>application/ogg</mime-type>
+    <directory-path>path/to/sit.txt</directory-path>
+    <file-id type="integer">386058</file-id>
+    <storage-id type="integer">878125</storage-id>
+    <external-type type="integer">863718</external-type>
+    <file-size-bytes>176</file-size-bytes>
+  </stream_ref>
+</doc>

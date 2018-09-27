@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">48595</pid>
+  <record>
+    <creator>Théoden</creator>
+    <spatial>The Rivers and Beacon-Hills of Gondor</spatial>
+    <agent>Ironbarrow TAFE</agent>
+    <subject>cluwizpvcg</subject>
+    <college>Ostbarrow Campus</college>
+    <committeeChair>Rolland Longthorpe</committeeChair>
+    <abstract>If you pray to the wrong god, you might just make the right one madder and madder.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>oxy1v3ygsm</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>h54j9zrvex</file-name>
+    <file-extension>png</file-extension>
+    <mime-type>application/rdf+xml</mime-type>
+    <directory-path>path/to/qui.mp3</directory-path>
+    <file-id type="integer">188206</file-id>
+    <storage-id type="integer">861949</storage-id>
+    <external-type type="integer">774936</external-type>
+    <file-size-bytes>2288</file-size-bytes>
+  </stream_ref>
+</doc>

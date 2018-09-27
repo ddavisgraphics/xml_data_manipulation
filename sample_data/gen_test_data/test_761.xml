@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">749476</pid>
+  <record>
+    <creator>Frodo Baggins</creator>
+    <spatial>Angband</spatial>
+    <agent>Lakeacre Technical College</agent>
+    <subject>2exb9246co</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Shae</committeeChair>
+    <abstract>What’s the point of going out? We’re just gonna wind up back home anyway.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>rqg0p7kic4</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>avf1mx474u</file-name>
+    <file-extension>pptx</file-extension>
+    <mime-type>application/EDIFACT</mime-type>
+    <directory-path>path/to/dolores.odp</directory-path>
+    <file-id type="integer">213203</file-id>
+    <storage-id type="integer">158466</storage-id>
+    <external-type type="integer">724551</external-type>
+    <file-size-bytes>3152</file-size-bytes>
+  </stream_ref>
+</doc>

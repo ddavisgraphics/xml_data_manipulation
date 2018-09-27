@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">242989</pid>
+  <record>
+    <creator>Denethor</creator>
+    <spatial>Field of Celebrant</spatial>
+    <agent>Iceborough TAFE</agent>
+    <subject>mg166wybgm</subject>
+    <college>Brighthurst Campus</college>
+    <committeeChair>Bethany Bolton</committeeChair>
+    <abstract>Life is just one crushing defeat after another until you just wish Flanders was dead.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>jet1bgjgwo</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>o8b1hrdrhy</file-name>
+    <file-extension>mp4</file-extension>
+    <mime-type>application/soap+xml</mime-type>
+    <directory-path>path/to/dolorum.flac</directory-path>
+    <file-id type="integer">370214</file-id>
+    <storage-id type="integer">71882</storage-id>
+    <external-type type="integer">919392</external-type>
+    <file-size-bytes>1552</file-size-bytes>
+  </stream_ref>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">911531</pid>
+  <record>
+    <creator>Éomer</creator>
+    <spatial>Doriath</spatial>
+    <agent>Falconholt University</agent>
+    <subject>d1ld196191</subject>
+    <college>Vertapple Campus</college>
+    <committeeChair>Cletus Yronwood</committeeChair>
+    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>p84lw0udb1</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>kyonst5cby</file-name>
+    <file-extension>odp</file-extension>
+    <mime-type>application/zip</mime-type>
+    <directory-path>path/to/unde.csv</directory-path>
+    <file-id type="integer">231705</file-id>
+    <storage-id type="integer">49101</storage-id>
+    <external-type type="integer">552468</external-type>
+    <file-size-bytes>2976</file-size-bytes>
+  </stream_ref>
+</doc>

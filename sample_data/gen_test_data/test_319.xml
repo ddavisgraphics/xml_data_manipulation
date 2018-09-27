@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">493075</pid>
+  <record>
+    <creator>Barliman Butterbur</creator>
+    <spatial>Dome of Stars</spatial>
+    <agent>Lakeacre University</agent>
+    <subject>5q48j04zsc</subject>
+    <college>Brookville Campus</college>
+    <committeeChair>Mance Rayder</committeeChair>
+    <abstract>To alcohol! The cause of, and solution to, all of life's problems.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>f369uscb58</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>50vgzrwh5j</file-name>
+    <file-extension>js</file-extension>
+    <mime-type>video/x-ms-wmv</mime-type>
+    <directory-path>path/to/adipisci.json</directory-path>
+    <file-id type="integer">390329</file-id>
+    <storage-id type="integer">909699</storage-id>
+    <external-type type="integer">85453</external-type>
+    <file-size-bytes>2128</file-size-bytes>
+  </stream_ref>
+</doc>

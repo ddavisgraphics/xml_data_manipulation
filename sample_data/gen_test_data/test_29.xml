@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+  <pid type="integer">431901</pid>
+  <record>
+    <creator>Boromir</creator>
+    <spatial>Henneth Annûn</spatial>
+    <agent>Icelyn Technical College</agent>
+    <subject>olhb2jf23d</subject>
+    <college>Flowerlake Campus</college>
+    <committeeChair>Lucimore Botley</committeeChair>
+    <abstract>Sorry, Mom, the mob has spoken.</abstract>
+  </record>
+  <object>
+    <objectType>handle</objectType>
+    <objectIdentifier>qy63i6lqqc</objectIdentifier>
+  </object>
+  <stream_ref>
+    <file-name>a5qh0v7mgo</file-name>
+    <file-extension>wav</file-extension>
+    <mime-type>video/mpeg</mime-type>
+    <directory-path>path/to/aliquid.html</directory-path>
+    <file-id type="integer">440963</file-id>
+    <storage-id type="integer">502016</storage-id>
+    <external-type type="integer">970241</external-type>
+    <file-size-bytes>2272</file-size-bytes>
+  </stream_ref>
+</doc>
