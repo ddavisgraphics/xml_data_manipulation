@@ -86,7 +86,7 @@ Dir.foreach(IMPORT_PATH) do |file|
   cdata = data.scan(CDATA_REGEX)
   record_xml = data.scan(/<record.*?>.*?<\/record>/)[0]
   object_xml = data.scan(/<object.*?>.*?<\/object>/)[0]
-  pid = data.scan(/<pid>.*?<\/pid>/)[0]
+  pid = data.scan(/<pid.*?>.*?<\/pid>/)[0]
   stream = data.scan(/<stream_ref>.*?<\/stream_ref>/)[0]
 
   if record_xml.nil? || object_xml.nil? 

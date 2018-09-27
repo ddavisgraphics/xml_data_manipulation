@@ -24,3 +24,6 @@ You can run `ruby generate_test_data.rb` to generate test data xml files, it sho
 
 # User
 Modify the CONST file paths in the all.rb file to your file path and run `ruby all.rb`.  Sit back and watch the progress bar.  
+
+# Errors / Poor Data
+If no data exists in the record or object methods, then the file will be skipped and mentioned in the log file that will generate in the export.  It will have the same timestamp at the start of the text file as the csv does. The test data shows this is two records. 

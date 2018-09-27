@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <doc>
   <pid type="integer">141452</pid>
-  <record>
-    <creator>Grìma Wormtongue</creator>
-    <spatial>Old Ford</spatial>
-    <agent>Ostbarrow University</agent>
-    <subject>j2wtk5bjum</subject>
-    <college>Vertapple Campus</college>
-    <committeeChair>Leona Tyrell</committeeChair>
-    <abstract>I'm not normally a praying man, but if you're up there, please save me, Superman!</abstract>
-  </record>
   <object>
     <objectType>handle</objectType>
     <objectIdentifier>ppg5tdawzc</objectIdentifier>
